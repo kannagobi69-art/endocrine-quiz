@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Endocrine Quiz — Prepared by K. Kannan</title>
+  <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+  <div class="app">
+    <main class="card">
+      <header class="card-header center">
+        <h1 class="title">🧬 Endocrine Quiz</h1>
+        <div class="tagline">Prepared by <span class="author">K. Kannan</span></div>
+      </header>
+
+      <!-- start -->
+      <section id="start" class="screen active">
+        <div class="form-row">
+          <label>Your name</label>
+          <input id="playerNameInput" class="input" placeholder="Enter your name" value="Student">
+        </div>
+
+        <div class="form-row">
+          <label>Select section</label>
+          <select id="sectionSelect" class="input">
+            <option value="">All Sections (randomized)</option>
+          </select>
+        </div>
+
+        <div class="actions">
+          <button id="startBtn" class="btn primary">▶ Start Quiz</button>
+          <button id="viewHistoryBtn" class="btn">📊 History</button>
+        </div>
+      </section>
+
+      <!-- quiz -->
+      <section id="quiz" class="screen">
+        <div class="quiz-top">
+          <div>
+            <div class="small">Player</div>
+            <div id="playerNameDisplay" class="strong">Student</div>
+          </div>
+          <div>
+            <div class="small">Section</div>
+            <div id="currentSectionDisplay" class="strong">All</div>
+          </div>
+          <div>
+            <div class="small">Progress</div>
+            <div id="progressText" class="strong">0 / 0</div>
+            <div class="progress">
+              <div id="progressFill" class="progress-fill"></div>
+            </div>
+          </div>
+          <div>
+            <div class="small">Score</div>
+            <div id="scoreDisplay" class="strong">0</div>
+          </div>
+        </div>
+
+        <div id="questionContainer" class="question-area"></div>
+
+        <div class="nav">
+          <button id="nextBtn" class="btn" disabled>Next ▶</button>
+          <button id="finishBtn" class="btn primary" style="display:none;" disabled>Finish ✓</button>
+          <button id="quitBtn" class="btn">Quit</button>
+        </div>
+      </section>
+
+      <!-- results -->
+      <section id="results" class="screen">
+        <h2 class="center">Results</h2>
+        <div id="resultSummary" class="result-summary"></div>
+
+        <div class="actions" style="justify-content:center;">
+          <button id="restartBtn" class="btn primary">Restart</button>
+          <button id="reviewBtn" class="btn">Review Answers</button>
+          <button id="homeBtn" class="btn">Home</button>
+        </div>
+
+        <div id="sectionResults" style="margin-top:18px;"></div>
+      </section>
+
+      <!-- review -->
+      <section id="review" class="screen">
+        <h2 class="center">Review Answers</h2>
+        <div id="reviewContainer"></div>
+        <div class="actions">
+          <button id="backFromReview" class="btn">Back to Results</button>
+          <button id="homeFromReview" class="btn">Home</button>
+        </div>
+      </section>
+
+      <!-- history -->
+      <section id="history" class="screen">
+        <h2 class="center">Attempt History</h2>
+        <div id="historyContainer" class="history-list"></div>
+        <div class="actions">
+          <button id="backFromHistory" class="btn">Back</button>
+          <button id="clearHistoryBtn" class="btn">Clear History</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
