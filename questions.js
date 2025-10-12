@@ -1,189 +1,189 @@
 // Auto-generated questions.js — run csv_to_questions.py to regenerate
 const questions = [
   {
-    "id": "edf4b47d-f4a9-4e1d-9301-9d78aef3c71d",
+    "id": "53d01d89-acd4-4f75-a4ad-2688cdc94d0b",
     "section": "MCQ on Thyroid Disorders",
     "question": "Which condition is caused by deficiency of thyroid hormone in adults?",
     "options": {
-      "A": "Cretinism",
+      "A": "Hyperthyroidism",
       "B": "Goiter",
       "C": "Hypothyroidism",
-      "D": "Hyperthyroidism"
+      "D": "Cretinism"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "cdf9130e-24b5-42fd-9c45-8a0da4582059",
+    "id": "1614f3cb-964c-4097-812d-7800d7c3d06b",
     "section": "MCQ on Thyroid Disorders",
     "question": "What is the normal range for fasting blood glucose level?",
     "options": {
-      "A": "Above 200 mg/dL",
-      "B": "70-99 mg/dL",
+      "A": "100-150 mg/dL",
+      "B": "Above 200 mg/dL",
       "C": "151-200 mg/dL",
-      "D": "100-150 mg/dL"
+      "D": "70-99 mg/dL"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "ae52011b-6b30-44ec-a1bd-7c64b30f00b0",
+    "id": "c2180436-e830-4ec8-8d1e-99d63bd6525f",
     "section": "MCQ on Thyroid Disorders",
     "question": "Buffalo hump is a sign of which endocrine disorder?",
     "options": {
-      "A": "Addison's disease",
-      "B": "Diabetes insipidus",
-      "C": "Hypothyroidism",
-      "D": "Cushing's syndrome"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "233000c9-9479-4711-9da2-e8110c76118a",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which surgery is performed to remove the thyroid gland?",
-    "options": {
-      "A": "Pancreatectomy",
-      "B": "Thyroidectomy",
-      "C": "Adrenalectomy",
-      "D": "Parathyroidectomy"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "005649e8-6129-418f-961d-9ad38e7b52f1",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Iodine deficiency can lead to which condition?",
-    "options": {
-      "A": "Goiter",
-      "B": "Diabetes mellitus",
-      "C": "Pheochromocytoma",
-      "D": "Acromegaly"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "813c3c8f-2c56-4899-8b37-b0427b35ddfa",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "The water deprivation test is used to diagnose which disorder?",
-    "options": {
-      "A": "Diabetes mellitus",
-      "B": "Hypothyroidism",
-      "C": "Hyperparathyroidism",
+      "A": "Hypothyroidism",
+      "B": "Addison's disease",
+      "C": "Cushing's syndrome",
       "D": "Diabetes insipidus"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "15a0a95f-fccb-46a7-b158-cbdbe5ee43da",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which drug is commonly used to treat hypothyroidism?",
-    "options": {
-      "A": "Propranolol",
-      "B": "Prednisone",
-      "C": "Insulin",
-      "D": "Levothyroxine"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "98b722a4-30db-4c7c-adb0-21d103f37747",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Moon face is a classic sign of:",
-    "options": {
-      "A": "Graves' disease",
-      "B": "Tetany",
-      "C": "Myxedema",
-      "D": "Cushing's syndrome"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "07a25358-96ff-42ea-83b9-f5487027920c",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "What is the normal range for serum calcium level?",
-    "options": {
-      "A": "4.0-6.0 mg/dL",
-      "B": "8.5-10.5 mg/dL",
-      "C": "1.5-2.5 mmol/L",
-      "D": "3.5-5.0 mEq/L"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "4e35b2ec-6fd9-4185-bef1-b2bc6ddf1107",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Addison's disease is caused by deficiency of which hormones?",
-    "options": {
-      "A": "Insulin",
-      "B": "Thyroid hormones",
-      "C": "Adrenal cortex hormones",
-      "D": "Growth hormone"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "0d38a6a2-c7ce-45ef-9012-fc6a3747fed3",
+    "id": "e6bb5801-0c9a-4f0f-ab33-4d10043f9b8a",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Which condition results from excess growth hormone in adults?",
+    "question": "Which surgery is performed to remove the thyroid gland?",
     "options": {
-      "A": "Gigantism",
-      "B": "Dwarfism",
-      "C": "Cretinism",
-      "D": "Acromegaly"
+      "A": "Parathyroidectomy",
+      "B": "Pancreatectomy",
+      "C": "Thyroidectomy",
+      "D": "Adrenalectomy"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "652d98b8-ca52-4139-89cb-d8cbcfb1e27b",
+    "id": "48cbcf16-3ea0-49fd-bc78-6e8f971dbb14",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Chvostek's sign is associated with which disorder?",
+    "question": "Iodine deficiency can lead to which condition?",
     "options": {
-      "A": "Hypoparathyroidism",
-      "B": "Hyperthyroidism",
-      "C": "Cushing's disease",
+      "A": "Acromegaly",
+      "B": "Goiter",
+      "C": "Diabetes mellitus",
+      "D": "Pheochromocytoma"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "05e127d8-bf45-4022-9663-3a5c01934236",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "The water deprivation test is used to diagnose which disorder?",
+    "options": {
+      "A": "Diabetes insipidus",
+      "B": "Hypothyroidism",
+      "C": "Hyperparathyroidism",
       "D": "Diabetes mellitus"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ec4373eb-1d10-4392-b168-e5647241be8f",
+    "id": "41fe3735-87e2-4471-99c6-a07abb5cf690",
     "section": "MCQ on Thyroid Disorders",
-    "question": "The Vanillylmandelic acid (VMA) test is used to diagnose:",
+    "question": "Which drug is commonly used to treat hypothyroidism?",
     "options": {
-      "A": "Hypothyroidism",
-      "B": "Goiter",
-      "C": "Diabetes insipidus",
-      "D": "Pheochromocytoma"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "25e9bd35-356f-4269-b245-d70174154644",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which surgery removes the adrenal glands?",
-    "options": {
-      "A": "Adrenalectomy",
-      "B": "Parathyroidectomy",
-      "C": "Thyroidectomy",
-      "D": "Hypophysectomy"
+      "A": "Levothyroxine",
+      "B": "Insulin",
+      "C": "Prednisone",
+      "D": "Propranolol"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "d661a052-339f-49a9-84cc-70fca72edcca",
+    "id": "4485c299-2825-444c-8b66-6b5a48696d0c",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Moon face is a classic sign of:",
+    "options": {
+      "A": "Cushing's syndrome",
+      "B": "Graves' disease",
+      "C": "Tetany",
+      "D": "Myxedema"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "ed742d3d-dc29-4ea8-9101-6fbcdb46f98f",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "What is the normal range for serum calcium level?",
+    "options": {
+      "A": "3.5-5.0 mEq/L",
+      "B": "4.0-6.0 mg/dL",
+      "C": "1.5-2.5 mmol/L",
+      "D": "8.5-10.5 mg/dL"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "a1d0da2c-bf96-4eab-ade9-5c0f6ce80f9c",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Addison's disease is caused by deficiency of which hormones?",
+    "options": {
+      "A": "Adrenal cortex hormones",
+      "B": "Growth hormone",
+      "C": "Thyroid hormones",
+      "D": "Insulin"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "df8b2556-282b-4142-a2a8-401a4d32a540",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which condition results from excess growth hormone in adults?",
+    "options": {
+      "A": "Gigantism",
+      "B": "Cretinism",
+      "C": "Dwarfism",
+      "D": "Acromegaly"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "ba682051-70f4-4150-bb3f-55a771d14e3f",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Chvostek's sign is associated with which disorder?",
+    "options": {
+      "A": "Diabetes mellitus",
+      "B": "Hypoparathyroidism",
+      "C": "Cushing's disease",
+      "D": "Hyperthyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "0a94fdf7-fad4-46ec-bee9-f25de794c395",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "The Vanillylmandelic acid (VMA) test is used to diagnose:",
+    "options": {
+      "A": "Pheochromocytoma",
+      "B": "Hypothyroidism",
+      "C": "Diabetes insipidus",
+      "D": "Goiter"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "d85d87a8-a754-4a83-ac91-ab4ef8a44336",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which surgery removes the adrenal glands?",
+    "options": {
+      "A": "Adrenalectomy",
+      "B": "Hypophysectomy",
+      "C": "Thyroidectomy",
+      "D": "Parathyroidectomy"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "55e2c129-8f7c-44db-b396-588730ebb55c",
     "section": "MCQ on Thyroid Disorders",
     "question": "Insulin is used to treat which endocrine disorder?",
     "options": {
@@ -196,371 +196,371 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "87634b02-31cd-45a0-a5a1-ad2bb74bf074",
+    "id": "78cbf979-7351-4f78-80a8-8b6c99913022",
     "section": "MCQ on Thyroid Disorders",
     "question": "What is the normal range for TSH (Thyroid Stimulating Hormone)?",
     "options": {
       "A": "10-20 mIU/L",
-      "B": "5.0-10.0 mIU/L",
-      "C": "0.4-4.0 mIU/L",
-      "D": "Below 0.1 mIU/L"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "eb5ac301-61d9-4bc2-846d-3b7644a60606",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Trousseau's sign indicates low levels of which ion?",
-    "options": {
-      "A": "Sodium",
-      "B": "Calcium",
-      "C": "Potassium",
-      "D": "Magnesium"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "8d84fbba-912d-4d8a-a1a0-96540fd21b6b",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Cretinism is caused by deficiency of thyroid hormone in:",
-    "options": {
-      "A": "Adolescents",
-      "B": "Elderly",
-      "C": "Adults",
-      "D": "Children"
+      "B": "Below 0.1 mIU/L",
+      "C": "5.0-10.0 mIU/L",
+      "D": "0.4-4.0 mIU/L"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "007a7597-3415-4ea8-9a14-d192f32fa07b",
+    "id": "f8b8d222-67ba-4bba-9814-fe174d3c5aa0",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Trousseau's sign indicates low levels of which ion?",
+    "options": {
+      "A": "Calcium",
+      "B": "Sodium",
+      "C": "Magnesium",
+      "D": "Potassium"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "92a70184-60f3-4947-8e1f-0bc0039441fc",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Cretinism is caused by deficiency of thyroid hormone in:",
+    "options": {
+      "A": "Children",
+      "B": "Adolescents",
+      "C": "Elderly",
+      "D": "Adults"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "afd63f18-d35a-41cc-ac9c-fb460c8c5f1c",
     "section": "MCQ on Thyroid Disorders",
     "question": "Graves' disease is an example of:",
     "options": {
-      "A": "Hormone excess",
-      "B": "Normal hormone level",
-      "C": "Surgical condition",
-      "D": "Hormone deficiency"
+      "A": "Surgical condition",
+      "B": "Hormone deficiency",
+      "C": "Normal hormone level",
+      "D": "Hormone excess"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "14df8c16-08ac-464d-ad36-c98b01dd8336",
+    "id": "ed2f2056-34b8-4a22-beff-ed21cc7113c1",
     "section": "MCQ on Thyroid Disorders",
     "question": "Which procedure is used to measure blood sugar levels?",
     "options": {
-      "A": "Glucose tolerance test",
-      "B": "ACTH stimulation test",
+      "A": "ACTH stimulation test",
+      "B": "Dexamethasone suppression test",
       "C": "Thyroid scan",
-      "D": "Dexamethasone suppression test"
+      "D": "Glucose tolerance test"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "a4991621-dafa-4a85-a8c2-467064754800",
+    "id": "50b2ecd5-0f5e-4f75-bc0a-2b9e2937f919",
     "section": "MCQ on Thyroid Disorders",
     "question": "Propylthiouracil is a drug used for:",
     "options": {
-      "A": "Addison's disease",
+      "A": "Diabetes",
       "B": "Hyperthyroidism",
-      "C": "Diabetes",
+      "C": "Addison's disease",
       "D": "Hypothyroidism"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "d6eccf60-39f0-48a2-bfd6-3a92e7422300",
+    "id": "30d22195-5d7f-47ab-b7f2-49fd493c054b",
     "section": "MCQ on Thyroid Disorders",
     "question": "What is the normal range for serum potassium?",
     "options": {
-      "A": "3.5-5.0 mEq/L",
-      "B": "8.5-10.5 mEq/L",
-      "C": "1.5-2.5 mEq/L",
-      "D": "70-99 mEq/L"
+      "A": "1.5-2.5 mEq/L",
+      "B": "70-99 mEq/L",
+      "C": "3.5-5.0 mEq/L",
+      "D": "8.5-10.5 mEq/L"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bd3b4af9-285d-4664-ba94-668ec0c5f242",
+    "id": "3bb0f8bb-e815-4f84-b687-154afc1045b0",
     "section": "MCQ on Thyroid Disorders",
     "question": "Hypophysectomy is surgery to remove which gland?",
     "options": {
       "A": "Parathyroid",
       "B": "Thyroid",
-      "C": "Pituitary",
-      "D": "Adrenal"
+      "C": "Adrenal",
+      "D": "Pituitary"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "41ccd1ae-eee9-4404-9ba9-a80e877e96a8",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which condition is due to iodine deficiency in children?",
+    "options": {
+      "A": "Cushing's syndrome",
+      "B": "Cretinism",
+      "C": "Pheochromocytoma",
+      "D": "Acromegaly"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "948e6216-ead8-4f9a-a2af-72e0b243b33b",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "The ACTH stimulation test diagnoses disorders of:",
+    "options": {
+      "A": "Parathyroid",
+      "B": "Thyroid",
+      "C": "Adrenal glands",
+      "D": "Pancreas"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "dbf0fa73-9fc5-4528-a3b2-91012d336222",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which condition is due to iodine deficiency in children?",
-    "options": {
-      "A": "Cushing's syndrome",
-      "B": "Pheochromocytoma",
-      "C": "Acromegaly",
-      "D": "Cretinism"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "114cc43d-6936-4562-93a6-20dcd71b82a3",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "The ACTH stimulation test diagnoses disorders of:",
-    "options": {
-      "A": "Pancreas",
-      "B": "Parathyroid",
-      "C": "Thyroid",
-      "D": "Adrenal glands"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "79032836-e96a-42fa-9bc5-a78a8e566a43",
+    "id": "9b39ed4a-3b34-47e7-bbc2-b34c4ba7f917",
     "section": "MCQ on Thyroid Disorders",
     "question": "Fatigue and weight gain are symptoms of:",
     "options": {
-      "A": "Hypothyroidism",
-      "B": "Hyperparathyroidism",
-      "C": "Diabetes insipidus",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "158684b7-1915-44c5-8830-4001bb31b240",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which drug is used for adrenal insufficiency?",
-    "options": {
-      "A": "Levothyroxine",
-      "B": "Carbimazole",
-      "C": "Metformin",
-      "D": "Hydrocortisone"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "7097426f-df3e-49c0-9466-148c04d6b130",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Exophthalmos is a sign of:",
-    "options": {
-      "A": "Addison's disease",
-      "B": "Graves' disease",
-      "C": "Hypothyroidism",
-      "D": "Tetany"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "659bd1fb-6df9-412d-bb45-bb5847fa7915",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "What is the normal range for free T4?",
-    "options": {
-      "A": "2.0-3.0 ng/dL",
-      "B": "0.8-1.8 ng/dL",
-      "C": "4.0-5.0 ng/dL",
-      "D": "Below 0.5 ng/dL"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "ac99f770-766e-4fb3-a3c9-0bbafa90dbf0",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Parathyroidectomy is performed for:",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Hyperparathyroidism",
-      "C": "Diabetes",
-      "D": "Hypoparathyroidism"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "3d351e41-c822-4345-934f-35f5dbff4cc4",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Myxedema coma is a severe form of:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Cushing's syndrome",
-      "C": "Addison's crisis",
+      "A": "Diabetes insipidus",
+      "B": "Hyperthyroidism",
+      "C": "Hyperparathyroidism",
       "D": "Hypothyroidism"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "9764e1de-832d-4be2-a0c9-cb5118894b46",
+    "id": "b544a4d8-a638-403c-b664-7b62a77195e6",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Which test is used for diagnosing Cushing's syndrome?",
+    "question": "Which drug is used for adrenal insufficiency?",
     "options": {
-      "A": "Dexamethasone suppression test",
-      "B": "Water deprivation test",
-      "C": "VMA test",
-      "D": "Glucose tolerance test"
+      "A": "Hydrocortisone",
+      "B": "Carbimazole",
+      "C": "Metformin",
+      "D": "Levothyroxine"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "84be9ffc-d589-402b-aa63-a92d01707137",
+    "id": "3dd69b1c-b989-45a0-b492-e62528a0172e",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Metformin is commonly used for:",
+    "question": "Exophthalmos is a sign of:",
     "options": {
-      "A": "Type 2 diabetes",
-      "B": "Type 1 diabetes",
-      "C": "Hyperthyroidism",
-      "D": "Adrenal excess"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "0bacadae-17b7-4742-819d-caed8d4b54ae",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Bronze skin pigmentation is a sign of:",
-    "options": {
-      "A": "Graves' disease",
-      "B": "Cushing's syndrome",
-      "C": "Goiter",
-      "D": "Addison's disease"
+      "A": "Tetany",
+      "B": "Addison's disease",
+      "C": "Hypothyroidism",
+      "D": "Graves' disease"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "2effb2ce-14dd-4334-b76a-65b2adf3c7c6",
+    "id": "9a91372c-5d06-4e05-a225-cbf852f52e15",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "What is the normal range for free T4?",
+    "options": {
+      "A": "Below 0.5 ng/dL",
+      "B": "2.0-3.0 ng/dL",
+      "C": "0.8-1.8 ng/dL",
+      "D": "4.0-5.0 ng/dL"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "e50e4af7-3873-407a-8a0c-15ef23a8e935",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Parathyroidectomy is performed for:",
+    "options": {
+      "A": "Hyperparathyroidism",
+      "B": "Hypothyroidism",
+      "C": "Diabetes",
+      "D": "Hypoparathyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "ceac1be9-91d0-4476-9113-f80f07ac58c5",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Myxedema coma is a severe form of:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Addison's crisis",
+      "C": "Hypothyroidism",
+      "D": "Cushing's syndrome"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "b4e83545-4092-4f17-9029-f453188aebc9",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which test is used for diagnosing Cushing's syndrome?",
+    "options": {
+      "A": "VMA test",
+      "B": "Water deprivation test",
+      "C": "Glucose tolerance test",
+      "D": "Dexamethasone suppression test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "3dab00ee-0649-4123-bce9-905b4cf9f685",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Metformin is commonly used for:",
+    "options": {
+      "A": "Adrenal excess",
+      "B": "Type 2 diabetes",
+      "C": "Type 1 diabetes",
+      "D": "Hyperthyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "780ced12-fb52-4f28-beee-79a7001b0cac",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Bronze skin pigmentation is a sign of:",
+    "options": {
+      "A": "Cushing's syndrome",
+      "B": "Addison's disease",
+      "C": "Graves' disease",
+      "D": "Goiter"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "1578a140-42d7-469a-adea-bcd4cd7f5573",
     "section": "MCQ on Thyroid Disorders",
     "question": "Gigantism is caused by excess:",
     "options": {
       "A": "Thyroid hormone",
-      "B": "Cortisol",
-      "C": "Growth hormone in children",
-      "D": "Insulin"
+      "B": "Insulin",
+      "C": "Cortisol",
+      "D": "Growth hormone in children"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "5d32d4bc-28ad-41f9-a730-a9b878741819",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Thyroid scan is a diagnostic procedure for:",
+    "options": {
+      "A": "Pituitary disorders",
+      "B": "Adrenal disorders",
+      "C": "Thyroid disorders",
+      "D": "Pancreatic disorders"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a435b181-1273-421a-97e2-fd1751a2599b",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Thyroid scan is a diagnostic procedure for:",
-    "options": {
-      "A": "Thyroid disorders",
-      "B": "Pancreatic disorders",
-      "C": "Adrenal disorders",
-      "D": "Pituitary disorders"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "7f1e7c17-a9a2-4c81-869d-00cbee044ffc",
+    "id": "6157d9da-4226-4d66-b515-aae97797fd0c",
     "section": "MCQ on Thyroid Disorders",
     "question": "Calcitonin is used to treat:",
     "options": {
-      "A": "Hypoglycemia",
-      "B": "Hypercalcemia",
-      "C": "Hyperglycemia",
-      "D": "Hypocalcemia"
+      "A": "Hypocalcemia",
+      "B": "Hyperglycemia",
+      "C": "Hypercalcemia",
+      "D": "Hypoglycemia"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "c4c6e10c-a4e8-4ed7-9512-674ddf9f483a",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Weight loss and tachycardia are symptoms of:",
+    "options": {
+      "A": "Hypoparathyroidism",
+      "B": "Hyperthyroidism",
+      "C": "Hypothyroidism",
+      "D": "Addison's disease"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "ceab2af6-b475-4d93-84f1-e6f38c6430f7",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Weight loss and tachycardia are symptoms of:",
-    "options": {
-      "A": "Addison's disease",
-      "B": "Hypothyroidism",
-      "C": "Hyperthyroidism",
-      "D": "Hypoparathyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "02a3b88b-5ab8-457f-a3c6-a0b93513b77b",
+    "id": "9460c765-4596-4723-942f-ed57601a45ea",
     "section": "MCQ on Thyroid Disorders",
     "question": "Pheochromocytoma is a tumor of:",
     "options": {
-      "A": "Pancreas",
-      "B": "Thyroid gland",
-      "C": "Adrenal medulla",
-      "D": "Parathyroid gland"
+      "A": "Adrenal medulla",
+      "B": "Parathyroid gland",
+      "C": "Thyroid gland",
+      "D": "Pancreas"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "4af0ed6e-9c1f-4182-ba71-7886224f02dd",
+    "id": "456b25d6-7323-4a24-b3fe-a1ba012a643a",
     "section": "MCQ on Thyroid Disorders",
     "question": "Insulin pump is a therapeutic device for:",
     "options": {
       "A": "Diabetes mellitus",
-      "B": "Cushing's disease",
+      "B": "Hyperthyroidism",
       "C": "Goiter",
-      "D": "Hyperthyroidism"
+      "D": "Cushing's disease"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "0df460cc-b48b-4da4-a5e9-511e2d24e67a",
+    "id": "ca00e864-f095-449f-b88b-009dbdfc47c3",
     "section": "MCQ on Thyroid Disorders",
     "question": "Tetany is associated with:",
     "options": {
       "A": "High calcium",
-      "B": "Low calcium",
+      "B": "High potassium",
       "C": "Low sodium",
-      "D": "High potassium"
+      "D": "Low calcium"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e1fe8557-d184-4076-b230-78827d8cee1a",
+    "id": "ba54cf55-be7e-4eaa-92ec-4de029dbb75e",
     "section": "MCQ on Thyroid Disorders",
     "question": "Which surgery treats hyperparathyroidism?",
     "options": {
-      "A": "Thyroidectomy",
-      "B": "Parathyroidectomy",
-      "C": "Hypophysectomy",
-      "D": "Adrenalectomy"
+      "A": "Parathyroidectomy",
+      "B": "Thyroidectomy",
+      "C": "Adrenalectomy",
+      "D": "Hypophysectomy"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "5959af13-76ee-4002-95a1-856920b9e300",
+    "id": "5f5c1e68-5e7b-4977-8cdd-b1b06e516c9a",
     "section": "MCQ on Thyroid Disorders",
     "question": "Desmopressin is used for:",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Diabetes insipidus",
-      "C": "Addison's disease",
-      "D": "Diabetes mellitus"
+      "A": "Addison's disease",
+      "B": "Diabetes mellitus",
+      "C": "Diabetes insipidus",
+      "D": "Hyperthyroidism"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "fb6cdf0d-22fc-454d-ac24-cfcd8f44420c",
+    "id": "e4729aa4-fd99-4731-9002-6221ac710bf9",
     "section": "MCQ on Thyroid Disorders",
     "question": "Polyuria and polydipsia are symptoms of:",
     "options": {
@@ -573,7 +573,7 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "63cb3ed7-d022-4d99-980a-0a2a8eb5f75e",
+    "id": "9576492c-ddc0-44a2-8c50-89573dd339c0",
     "section": "MCQ on Thyroid Disorders",
     "question": "The normal range for HbA1c in non-diabetics is:",
     "options": {
@@ -586,129 +586,129 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "0f732267-e334-4de1-922a-0050a79c686a",
+    "id": "d81ee570-3812-4e27-a764-b0c7aa646312",
     "section": "MCQ on Thyroid Disorders",
     "question": "Addisonian crisis is a severe form of:",
     "options": {
-      "A": "Adrenal insufficiency",
+      "A": "Diabetic ketoacidosis",
       "B": "Thyroid storm",
-      "C": "Hyperparathyroidism",
-      "D": "Diabetic ketoacidosis"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "0f6a0e1d-770c-4614-958b-b6edae968032",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Radioactive iodine therapy is used for:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Diabetes",
-      "C": "Adrenal disorders",
-      "D": "Hypothyroidism"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "1ef74b0d-574d-4931-9d84-a388d323ec72",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Hirsutism is a sign of excess:",
-    "options": {
-      "A": "Androgens in Cushing's",
-      "B": "Insulin",
-      "C": "Thyroid hormone",
-      "D": "Parathyroid hormone"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "7aae6cf3-8958-48e7-8535-a8635b9d5cad",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Fine needle aspiration is a diagnostic procedure for:",
-    "options": {
-      "A": "Pituitary adenomas",
-      "B": "Thyroid nodules",
-      "C": "Pancreatic issues",
-      "D": "Adrenal tumors"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "4a97688d-82ac-4eba-9377-22c182c266bc",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Glucagon is used to treat:",
-    "options": {
-      "A": "Hyperglycemia",
-      "B": "Hypercalcemia",
-      "C": "Hypocalcemia",
-      "D": "Hypoglycemia"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "139d2ba0-36a8-4629-910f-41978827dee4",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Hypothyroidism is caused by:",
-    "options": {
-      "A": "Excess iodine",
-      "B": "Excess thyroid hormone",
-      "C": "Deficiency of thyroid hormone",
-      "D": "Deficiency of calcium"
+      "C": "Adrenal insufficiency",
+      "D": "Hyperparathyroidism"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "82435f3a-289b-4bcc-afa0-b88503dff069",
+    "id": "19063e0a-1e9c-445c-a09e-8e2af1007e67",
     "section": "MCQ on Thyroid Disorders",
-    "question": "What is a common symptom of hyperthyroidism?",
+    "question": "Radioactive iodine therapy is used for:",
     "options": {
-      "A": "Fatigue",
-      "B": "Cold intolerance",
-      "C": "Weight gain",
-      "D": "Weight loss"
+      "A": "Hypothyroidism",
+      "B": "Adrenal disorders",
+      "C": "Diabetes",
+      "D": "Hyperthyroidism"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "0a57a8cc-9836-460a-b2d3-c65c48dd66c3",
+    "id": "d9620c8b-8d86-449e-b06d-0f0b925fc2f7",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Goiter is an enlargement of which gland?",
+    "question": "Hirsutism is a sign of excess:",
     "options": {
-      "A": "Thyroid",
-      "B": "Parathyroid",
-      "C": "Pituitary",
-      "D": "Adrenal"
+      "A": "Androgens in Cushing's",
+      "B": "Thyroid hormone",
+      "C": "Parathyroid hormone",
+      "D": "Insulin"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ea0e056a-cde5-4c77-a975-2a9ff08058dc",
+    "id": "741b644c-93b5-462c-905f-3f722478d0a4",
     "section": "MCQ on Thyroid Disorders",
-    "question": "Which condition is caused by iodine deficiency?",
+    "question": "Fine needle aspiration is a diagnostic procedure for:",
     "options": {
-      "A": "Graves' disease",
-      "B": "Thyroid storm",
-      "C": "Myxedema",
-      "D": "Endemic goiter"
+      "A": "Pancreatic issues",
+      "B": "Adrenal tumors",
+      "C": "Thyroid nodules",
+      "D": "Pituitary adenomas"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "1386789d-6eea-4035-8eff-b9abdd953f0e",
+    "id": "f48652ec-98fd-4560-93e2-bd2abcbff761",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Glucagon is used to treat:",
+    "options": {
+      "A": "Hypercalcemia",
+      "B": "Hypocalcemia",
+      "C": "Hypoglycemia",
+      "D": "Hyperglycemia"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0c5b4635-3b48-41a4-9a6a-175de5a91173",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Hypothyroidism is caused by:",
+    "options": {
+      "A": "Deficiency of thyroid hormone",
+      "B": "Deficiency of calcium",
+      "C": "Excess iodine",
+      "D": "Excess thyroid hormone"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "52c2ff01-d6cf-457e-a41c-9de4f97c87ba",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "What is a common symptom of hyperthyroidism?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Weight loss",
+      "C": "Fatigue",
+      "D": "Cold intolerance"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "a89d759e-4018-4acd-bc36-af7dc26cb6be",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Goiter is an enlargement of which gland?",
+    "options": {
+      "A": "Adrenal",
+      "B": "Thyroid",
+      "C": "Pituitary",
+      "D": "Parathyroid"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "0a687cd2-0550-40aa-8175-f9449f8aa315",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which condition is caused by iodine deficiency?",
+    "options": {
+      "A": "Myxedema",
+      "B": "Thyroid storm",
+      "C": "Endemic goiter",
+      "D": "Graves' disease"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "4d898835-92a7-4d44-b6e7-74e467fb0329",
     "section": "MCQ on Thyroid Disorders",
     "question": "The normal range for TSH is approximately:",
     "options": {
-      "A": "10-20 mIU/L",
-      "B": "Above 20 mIU/L",
+      "A": "Above 20 mIU/L",
+      "B": "10-20 mIU/L",
       "C": "5.0-10.0 mIU/L",
       "D": "0.4-4.0 mIU/L"
     },
@@ -716,51 +716,51 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "12190538-21c8-492c-a3d9-0fb8377c15dc",
+    "id": "e0e3b5f3-8714-4ffd-ab13-d24bbf58a284",
     "section": "MCQ on Thyroid Disorders",
     "question": "Levothyroxine is a drug used to treat:",
     "options": {
-      "A": "Diabetes",
-      "B": "Hypothyroidism",
+      "A": "Hyperthyroidism",
+      "B": "Diabetes",
       "C": "Cushing's syndrome",
-      "D": "Hyperthyroidism"
+      "D": "Hypothyroidism"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "4cbb59a4-1ef4-4ed7-8161-b453970d588e",
+    "id": "b7984ef2-d6ea-479d-9717-792301ca4edb",
     "section": "MCQ on Thyroid Disorders",
     "question": "Exophthalmos is a bulging of the eyes seen in:",
     "options": {
-      "A": "Hypothyroidism",
-      "B": "Graves' disease",
-      "C": "Addison's disease",
+      "A": "Addison's disease",
+      "B": "Hypothyroidism",
+      "C": "Graves' disease",
       "D": "Goiter"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "61021a93-be50-461c-88ce-b730739e9f2f",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Cretinism is hypothyroidism in:",
-    "options": {
-      "A": "Elderly",
-      "B": "Adults",
-      "C": "Infants and children",
-      "D": "Adolescents"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "962423ca-b7cd-4241-8d44-c4d302a9ef23",
+    "id": "ae208b67-1276-4a3a-8183-96e4eddb84e1",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Cretinism is hypothyroidism in:",
+    "options": {
+      "A": "Adolescents",
+      "B": "Elderly",
+      "C": "Infants and children",
+      "D": "Adults"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "976cb603-69b2-44f8-a910-3535648c8edb",
     "section": "MCQ on Thyroid Disorders",
     "question": "Which drug is used to treat hyperthyroidism by inhibiting thyroid hormone production?",
     "options": {
-      "A": "Metformin",
-      "B": "Insulin",
+      "A": "Insulin",
+      "B": "Metformin",
       "C": "Hydrocortisone",
       "D": "Propylthiouracil"
     },
@@ -768,384 +768,384 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "f8027a73-e638-48ff-927b-d153da697f8a",
+    "id": "8c51ec53-733c-47fa-899d-e421f1cfaf31",
     "section": "MCQ on Thyroid Disorders",
     "question": "Fatigue, dry skin, and constipation are symptoms of:",
     "options": {
-      "A": "Hypothyroidism",
+      "A": "Hyperthyroidism",
       "B": "Diabetes insipidus",
-      "C": "Hyperparathyroidism",
-      "D": "Hyperthyroidism"
+      "C": "Hypothyroidism",
+      "D": "Hyperparathyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "3a73bc9f-033f-497a-86e3-6f739bd4b980",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Radioactive iodine uptake test is used to diagnose:",
+    "options": {
+      "A": "Adrenal disorders",
+      "B": "Pancreatic issues",
+      "C": "Pituitary tumors",
+      "D": "Thyroid function"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "15f8bd24-9ab6-45f6-8d97-89cd916eb896",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Myxedema is a severe form of:",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Hyperthyroidism",
+      "C": "Goiter",
+      "D": "Thyroid cancer"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "f9adc094-c016-4209-85b2-fdf69a9e894a",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Radioactive iodine uptake test is used to diagnose:",
-    "options": {
-      "A": "Pituitary tumors",
-      "B": "Pancreatic issues",
-      "C": "Thyroid function",
-      "D": "Adrenal disorders"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "da09f7a5-dba3-4f12-8c71-ff165cc840df",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Myxedema is a severe form of:",
-    "options": {
-      "A": "Thyroid cancer",
-      "B": "Goiter",
-      "C": "Hypothyroidism",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "d7799093-bab9-47d8-8a12-be16071c8018",
+    "id": "10dcf520-85d5-47dc-9529-4220a7c4cbf7",
     "section": "MCQ on Thyroid Disorders",
     "question": "The normal range for free T4 is approximately:",
     "options": {
-      "A": "Below 0.5 ng/dL",
-      "B": "0.8-1.8 ng/dL",
+      "A": "0.8-1.8 ng/dL",
+      "B": "2.0-3.0 ng/dL",
       "C": "4.0-5.0 ng/dL",
-      "D": "2.0-3.0 ng/dL"
+      "D": "Below 0.5 ng/dL"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "1a6b0bca-747e-42b9-b8d8-d9d9ff64420b",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Graves' disease is an autoimmune disorder causing:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Goiter only",
+      "C": "Thyroid deficiency",
+      "D": "Hypothyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "d1b029de-cb7e-4251-b059-a88fe818db34",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Cold intolerance is a common sign of:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Addison's disease",
+      "C": "Cushing's syndrome",
+      "D": "Hypothyroidism"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "e9dfcfa2-78fb-4e08-a1b7-cc2e8a7c2e7b",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Tachycardia and heat intolerance are symptoms of:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Diabetes mellitus",
+      "D": "Hypothyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "5b057569-296d-43ce-91b6-e6a828f0bc77",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which vitamin or mineral is essential for thyroid hormone synthesis?",
+    "options": {
+      "A": "Iron",
+      "B": "Calcium",
+      "C": "Vitamin D",
+      "D": "Iodine"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "7559e492-8a45-49c3-b5c0-b673f004ede6",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Hashimoto's thyroiditis is a cause of:",
+    "options": {
+      "A": "Diabetes",
+      "B": "Hypothyroidism",
+      "C": "Hyperthyroidism",
+      "D": "Adrenal insufficiency"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "3fda4ad9-6da1-40f4-a3be-9adc572cd29a",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Graves' disease is an autoimmune disorder causing:",
-    "options": {
-      "A": "Thyroid deficiency",
-      "B": "Hypothyroidism",
-      "C": "Goiter only",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "514a856e-ca2a-4a28-bc3a-174bd33c214e",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Cold intolerance is a common sign of:",
-    "options": {
-      "A": "Addison's disease",
-      "B": "Hyperthyroidism",
-      "C": "Hypothyroidism",
-      "D": "Cushing's syndrome"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "d58efb5c-25d2-4098-9c86-5684480b3afc",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Tachycardia and heat intolerance are symptoms of:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Diabetes mellitus",
-      "C": "Hypothyroidism",
-      "D": "Hypoparathyroidism"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "e9a98f32-7807-4404-9137-6ebba45aca01",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which vitamin or mineral is essential for thyroid hormone synthesis?",
-    "options": {
-      "A": "Vitamin D",
-      "B": "Calcium",
-      "C": "Iodine",
-      "D": "Iron"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "22b6b60d-e688-41de-b242-f146ee322870",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Hashimoto's thyroiditis is a cause of:",
-    "options": {
-      "A": "Adrenal insufficiency",
-      "B": "Hyperthyroidism",
-      "C": "Hypothyroidism",
-      "D": "Diabetes"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "3ced2d61-8d94-451f-94fc-b3a2fadceb52",
+    "id": "efce89b4-0465-4a33-98dd-f77767e155ac",
     "section": "MCQ on Thyroid Disorders",
     "question": "Fine needle aspiration biopsy is used for:",
     "options": {
-      "A": "Measuring blood sugar",
-      "B": "Treating hyperthyroidism",
-      "C": "Testing adrenal function",
-      "D": "Diagnosing thyroid nodules"
+      "A": "Treating hyperthyroidism",
+      "B": "Measuring blood sugar",
+      "C": "Diagnosing thyroid nodules",
+      "D": "Testing adrenal function"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "631c3c9e-30cf-49dc-955f-f581d3da0d3c",
+    "id": "7e865af1-b8ed-4699-a4b7-e97ff28ea2e7",
     "section": "MCQ on Thyroid Disorders",
     "question": "Thyroid storm is a life-threatening complication of:",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Cretinism",
+      "A": "Cretinism",
+      "B": "Hyperthyroidism",
       "C": "Goiter",
       "D": "Hypothyroidism"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "397fc11e-bad1-4a3e-ba3d-5a60e8ace123",
+    "id": "aa19ca44-b50d-46c8-a011-4806a60c1201",
     "section": "MCQ on Thyroid Disorders",
     "question": "Carbimazole is an antithyroid drug used for:",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Addison's disease",
-      "C": "Diabetes",
+      "A": "Diabetes",
+      "B": "Hyperthyroidism",
+      "C": "Addison's disease",
       "D": "Hypothyroidism"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "35a9b899-5c7b-4a05-b15e-9fead760e4d1",
+    "id": "ec19e0fc-7b37-4e15-95d8-afc9dd74b117",
     "section": "MCQ on Thyroid Disorders",
     "question": "What is the normal range for T3 (triiodothyronine)?",
     "options": {
       "A": "200-300 ng/dL",
-      "B": "300-400 ng/dL",
-      "C": "80-200 ng/dL",
-      "D": "Below 50 ng/dL"
+      "B": "Below 50 ng/dL",
+      "C": "300-400 ng/dL",
+      "D": "80-200 ng/dL"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "55ffe6de-e752-41c5-8f1e-c3516a5fc05c",
+    "id": "9445f167-2e7f-459d-8e6c-6c05a24f5bbe",
     "section": "MCQ on Thyroid Disorders",
     "question": "Endemic goiter is common in areas with low:",
     "options": {
-      "A": "Calcium",
-      "B": "Potassium",
-      "C": "Sodium",
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Potassium",
       "D": "Iodine in soil and water"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "3a5f3f2f-7d15-418a-a69c-707b036b124e",
+    "id": "ae881378-7d19-42ed-8f07-a844ee8f2dd1",
     "section": "MCQ on Thyroid Disorders",
     "question": "Beta-blockers like propranolol are used in hyperthyroidism to control:",
     "options": {
       "A": "Blood sugar",
-      "B": "Heart rate and symptoms",
-      "C": "Weight gain",
-      "D": "Calcium levels"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "7309fa98-70d2-4062-9917-0bcd561f5c1a",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "In hypothyroidism, TSH levels are usually:",
-    "options": {
-      "A": "Low",
-      "B": "Undetectable",
-      "C": "High",
-      "D": "Normal"
+      "B": "Calcium levels",
+      "C": "Heart rate and symptoms",
+      "D": "Weight gain"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "aae33adb-3dda-44c0-90c0-ebe95584134c",
+    "id": "a4db6046-3b96-4ecf-bb07-28b7755cfc4f",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "In hypothyroidism, TSH levels are usually:",
+    "options": {
+      "A": "Normal",
+      "B": "High",
+      "C": "Low",
+      "D": "Undetectable"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "7545c913-df94-4091-8dc5-a0cb26c44464",
     "section": "MCQ on Thyroid Disorders",
     "question": "Toxic multinodular goiter causes:",
     "options": {
       "A": "No hormone change",
       "B": "Hypothyroidism",
-      "C": "Hyperthyroidism",
-      "D": "Diabetes"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "2ddc196a-b852-4128-b857-ee04dac8d878",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Which food is rich in iodine and can prevent goiter?",
-    "options": {
-      "A": "Fruits",
-      "B": "Seafood",
-      "C": "Meat",
-      "D": "Grains"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "fd568cb4-f7cb-43a0-a653-e2a57e3eef99",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Hoarseness of voice can occur after:",
-    "options": {
-      "A": "Adrenal surgery",
-      "B": "Parathyroid removal",
-      "C": "Thyroidectomy due to nerve damage",
-      "D": "Insulin injection"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "ac57840b-9c90-4da3-a495-7d0871aa3a28",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "In hyperthyroidism, T4 levels are:",
-    "options": {
-      "A": "Low",
-      "B": "Variable",
-      "C": "High",
-      "D": "Normal"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "d918f0f4-b229-49af-bf0d-8f1927f79fdc",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "TSH stands for:",
-    "options": {
-      "A": "Thyroid Secretion Hormone",
-      "B": "Total Serum Hormone",
-      "C": "Thyroid Stimulating Hormone",
-      "D": "Triiodothyronine Stimulating Hormone"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "2c841060-f95e-4b81-88fb-f2941837e2c9",
-    "section": "MCQ on Thyroid Disorders",
-    "question": "Monitoring TSH is important in patients on:",
-    "options": {
-      "A": "Antihypertensives",
-      "B": "Levothyroxine therapy",
-      "C": "Steroids",
-      "D": "Insulin"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "5316c139-7ee1-4e73-a5d0-b1877074fcf4",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which is a nursing intervention for post-thyroidectomy?",
-    "options": {
-      "A": "Encourage high iodine diet",
-      "B": "Avoid neck movement",
-      "C": "Restrict fluids",
-      "D": "Monitor for signs of hypocalcemia"
+      "C": "Diabetes",
+      "D": "Hyperthyroidism"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "828da983-fb0c-4e64-92b6-06272182e9c3",
+    "id": "f0b0ef9f-f3e7-4dcf-9463-63b048652300",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Which food is rich in iodine and can prevent goiter?",
+    "options": {
+      "A": "Seafood",
+      "B": "Grains",
+      "C": "Fruits",
+      "D": "Meat"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "a0a81cdf-2f83-4a16-ba09-6eff9c4329b8",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Hoarseness of voice can occur after:",
+    "options": {
+      "A": "Insulin injection",
+      "B": "Adrenal surgery",
+      "C": "Parathyroid removal",
+      "D": "Thyroidectomy due to nerve damage"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "7e17156b-a661-4aad-a740-2823e27b3081",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "In hyperthyroidism, T4 levels are:",
+    "options": {
+      "A": "Normal",
+      "B": "High",
+      "C": "Variable",
+      "D": "Low"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "ba0eb302-46b7-4f56-b79d-d68395f4c890",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "TSH stands for:",
+    "options": {
+      "A": "Triiodothyronine Stimulating Hormone",
+      "B": "Thyroid Stimulating Hormone",
+      "C": "Thyroid Secretion Hormone",
+      "D": "Total Serum Hormone"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "f6ccd144-d084-4e71-bef3-30e9fcb6af91",
+    "section": "MCQ on Thyroid Disorders",
+    "question": "Monitoring TSH is important in patients on:",
+    "options": {
+      "A": "Levothyroxine therapy",
+      "B": "Steroids",
+      "C": "Antihypertensives",
+      "D": "Insulin"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "fff45e62-35ed-483e-b819-7e31842543ea",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which is a nursing intervention for post-thyroidectomy?",
+    "options": {
+      "A": "Avoid neck movement",
+      "B": "Restrict fluids",
+      "C": "Monitor for signs of hypocalcemia",
+      "D": "Encourage high iodine diet"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "bf59a90b-80d2-497c-9c10-9908c65032d7",
     "section": "MCQ on Parathyroid Glands",
     "question": "The parathyroid glands primarily regulate which mineral in the body?",
     "options": {
       "A": "Magnesium",
-      "B": "Potassium",
+      "B": "Sodium",
       "C": "Calcium",
-      "D": "Sodium"
+      "D": "Potassium"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "cea92d97-1fcd-44de-8dc2-c49b8c600e6e",
+    "id": "80f0c125-dae7-47b4-9178-b00e38701d2d",
     "section": "MCQ on Parathyroid Glands",
     "question": "How many parathyroid glands are typically present in the human body?",
     "options": {
-      "A": "Four",
-      "B": "Six",
+      "A": "Six",
+      "B": "Four",
       "C": "Two",
       "D": "One"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "d1338e4a-290a-42be-97dc-c909ca2f1bd0",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hyperparathyroidism is caused by:",
-    "options": {
-      "A": "Deficiency of parathyroid hormone",
-      "B": "Excess parathyroid hormone",
-      "C": "High magnesium levels",
-      "D": "Low calcium levels"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "68d26395-776f-4af6-9b01-cc021001caf3",
+    "id": "3e9c7ff5-2103-483b-8d6d-c9fb7c682e0b",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hyperparathyroidism is caused by:",
+    "options": {
+      "A": "Excess parathyroid hormone",
+      "B": "Low calcium levels",
+      "C": "High magnesium levels",
+      "D": "Deficiency of parathyroid hormone"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "c847f616-a3c2-4f7a-9b58-1805710a6ed4",
     "section": "MCQ on Parathyroid Glands",
     "question": "Hypoparathyroidism results in:",
     "options": {
       "A": "High blood sugar levels",
-      "B": "Low blood potassium levels",
+      "B": "High blood calcium levels",
       "C": "Low blood calcium levels",
-      "D": "High blood calcium levels"
+      "D": "Low blood potassium levels"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "41fec1cd-5c23-4b29-9c6d-20960f966a9f",
+    "id": "b290d013-055a-4506-b8a6-a62ece6a1dfa",
     "section": "MCQ on Parathyroid Glands",
-    "question": "Chvostek’s sign is associated with which condition?",
+    "question": "Chvostek���s sign is associated with which condition?",
     "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Hypoparathyroidism",
-      "C": "Hyperthyroidism",
-      "D": "Cushing’s syndrome"
+      "A": "Hyperthyroidism",
+      "B": "Hyperparathyroidism",
+      "C": "Cushing���s syndrome",
+      "D": "Hypoparathyroidism"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "a1ab5fb2-a7e9-4226-ac47-3f69c4442485",
+    "id": "ac04878d-1f58-4004-b913-dfbed9823ec0",
     "section": "MCQ on Parathyroid Glands",
-    "question": "Trousseau’s sign indicates:",
+    "question": "Trousseau���s sign indicates:",
     "options": {
-      "A": "Low calcium levels",
+      "A": "Low potassium levels",
       "B": "High sodium levels",
-      "C": "Low potassium levels",
-      "D": "High calcium levels"
+      "C": "High calcium levels",
+      "D": "Low calcium levels"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "670fd1f2-edc2-4dcf-891f-cd51f2f0c8a4",
+    "id": "1f57870e-83c1-4a36-a627-a619b2bcd46e",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which surgery is performed to remove one or more parathyroid glands?",
     "options": {
@@ -1158,90 +1158,90 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "8540c3b9-94ed-45a1-8193-e357ff678549",
+    "id": "26ab9f3a-39f4-47c6-b045-9ed5db425e27",
     "section": "MCQ on Parathyroid Glands",
     "question": "Primary hyperparathyroidism is most commonly caused by:",
     "options": {
-      "A": "Thyroid cancer",
-      "B": "Iodine deficiency",
+      "A": "Iodine deficiency",
+      "B": "Adrenal tumor",
       "C": "Parathyroid adenoma",
-      "D": "Adrenal tumor"
+      "D": "Thyroid cancer"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "d327b103-dd54-4dd7-8ac1-7ae8d5238e5a",
+    "id": "a708bcca-bcc5-4724-b6d9-5b718c4cbf49",
     "section": "MCQ on Parathyroid Glands",
     "question": "Tetany is a symptom of:",
     "options": {
-      "A": "Hypoparathyroidism",
-      "B": "Hyperthyroidism",
-      "C": "Hyperparathyroidism",
-      "D": "Diabetes mellitus"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "97a8bf9e-68de-4bd4-9d38-f3d878cfecd8",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which drug is used to treat hypercalcemia in hyperparathyroidism?",
-    "options": {
-      "A": "Propranolol",
-      "B": "Levothyroxine",
-      "C": "Insulin",
-      "D": "Calcitonin"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "3f00b4d4-692a-4730-a8a9-1535e98221cb",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Muscle cramps and spasms are common symptoms of:",
-    "options": {
-      "A": "Addison’s disease",
-      "B": "Graves’ disease",
-      "C": "Hypoparathyroidism",
+      "A": "Hyperthyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Diabetes mellitus",
       "D": "Hyperparathyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a10e4010-2383-4e47-ab93-d33087708494",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "The normal range for parathyroid hormone (PTH) is approximately:",
-    "options": {
-      "A": "Below 5 pg/mL",
-      "B": "70-100 pg/mL",
-      "C": "10-65 pg/mL",
-      "D": "100-150 pg/mL"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "53ca43d8-6a53-4b19-a45a-280ddd20d08c",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hypercalcemia is a hallmark of:",
-    "options": {
-      "A": "Diabetes insipidus",
-      "B": "Hyperparathyroidism",
-      "C": "Hypothyroidism",
-      "D": "Hypoparathyroidism"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "1b960c2a-7bb2-4152-a103-71b4070ea3f5",
+    "id": "ae5864f0-0997-4eab-af4f-03f78d330eb0",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which drug is used to treat hypercalcemia in hyperparathyroidism?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Calcitonin",
+      "C": "Levothyroxine",
+      "D": "Insulin"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "71e286ca-4f5f-43b9-8094-95a9ca685bab",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Muscle cramps and spasms are common symptoms of:",
+    "options": {
+      "A": "Graves��� disease",
+      "B": "Hypoparathyroidism",
+      "C": "Addison���s disease",
+      "D": "Hyperparathyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "72e49bc7-6495-4a6d-bfd8-dfd9bfb29c20",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "The normal range for parathyroid hormone (PTH) is approximately:",
+    "options": {
+      "A": "Below 5 pg/mL",
+      "B": "100-150 pg/mL",
+      "C": "70-100 pg/mL",
+      "D": "10-65 pg/mL"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "7040a96d-39a3-4a62-8791-e9dfad83244e",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hypercalcemia is a hallmark of:",
+    "options": {
+      "A": "Diabetes insipidus",
+      "B": "Hyperparathyroidism",
+      "C": "Hypoparathyroidism",
+      "D": "Hypothyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "2a397f7f-cf94-4be9-a54d-899c9b04b35f",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which diagnostic test measures parathyroid hormone levels?",
     "options": {
-      "A": "VMA test",
-      "B": "Thyroid scan",
+      "A": "Thyroid scan",
+      "B": "VMA test",
       "C": "Glucose tolerance test",
       "D": "PTH blood test"
     },
@@ -1249,531 +1249,479 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "a1c86893-4d74-446e-a9cf-34adaf8e014b",
+    "id": "785d4030-0a27-4179-a215-c0e0fe8c5611",
     "section": "MCQ on Parathyroid Glands",
     "question": "Kidney stones are a common complication of:",
     "options": {
       "A": "Hypoparathyroidism",
-      "B": "Addison’s disease",
-      "C": "Hypothyroidism",
-      "D": "Hyperparathyroidism"
+      "B": "Hypothyroidism",
+      "C": "Hyperparathyroidism",
+      "D": "Addison���s disease"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "86ace2c3-12f2-456e-a236-834f6533f3bc",
+    "id": "e4a60f19-ac48-4987-a772-e33d8a224a9c",
     "section": "MCQ on Parathyroid Glands",
     "question": "Calcium supplements are often prescribed for:",
     "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Hypoparathyroidism",
-      "C": "Hyperthyroidism",
-      "D": "Cushing’s syndrome"
+      "A": "Hyperthyroidism",
+      "B": "Hyperparathyroidism",
+      "C": "Hypoparathyroidism",
+      "D": "Cushing���s syndrome"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "5216558b-24f9-44e9-8007-6f0668d33bb8",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which vitamin enhances calcium absorption in hypoparathyroidism treatment?",
+    "options": {
+      "A": "Vitamin K",
+      "B": "Vitamin D",
+      "C": "Vitamin C",
+      "D": "Vitamin B12"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "1334115a-4aa6-41a1-9006-783d58972f29",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which vitamin enhances calcium absorption in hypoparathyroidism treatment?",
-    "options": {
-      "A": "Vitamin D",
-      "B": "Vitamin B12",
-      "C": "Vitamin C",
-      "D": "Vitamin K"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "99a15c33-735c-4fcb-a980-0002c42d9de6",
+    "id": "9bfa55d9-1dc4-4937-8090-3c554df900a7",
     "section": "MCQ on Parathyroid Glands",
     "question": "Bone pain and fractures are associated with:",
     "options": {
       "A": "Diabetes mellitus",
-      "B": "Hyperparathyroidism",
-      "C": "Graves’ disease",
-      "D": "Hypoparathyroidism"
+      "B": "Hypoparathyroidism",
+      "C": "Hyperparathyroidism",
+      "D": "Graves��� disease"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b751fc28-a165-40f8-a8ed-66749bc4f27b",
+    "id": "aa05c0e2-f5d7-434c-86e9-c08c30e5a729",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which test evaluates bone density in hyperparathyroidism?",
     "options": {
-      "A": "DEXA scan",
+      "A": "Thyroid ultrasound",
       "B": "X-ray",
-      "C": "Thyroid ultrasound",
-      "D": "ECG"
+      "C": "ECG",
+      "D": "DEXA scan"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "a12d085b-8dfe-4dbc-b7d9-cf76f3b90f79",
+    "id": "aac1a15e-29af-4b7a-8ae8-a41d0879904c",
     "section": "MCQ on Parathyroid Glands",
     "question": "Hypocalcemia can cause which neurological symptom?",
     "options": {
-      "A": "Tachycardia",
-      "B": "Seizures",
-      "C": "Weight loss",
+      "A": "Weight loss",
+      "B": "Tachycardia",
+      "C": "Seizures",
       "D": "Tremors"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "6beae612-6d2f-4609-b907-5cae7ce31032",
+    "id": "b094c122-6699-4e03-b0d5-5cd4f93fc81c",
     "section": "MCQ on Parathyroid Glands",
     "question": "Parathyroidectomy is a treatment for:",
     "options": {
       "A": "Hypothyroidism",
-      "B": "Diabetes",
-      "C": "Hypoparathyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Diabetes",
       "D": "Hyperparathyroidism"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "89d18f2c-248d-45f1-8505-50e205e0bf74",
+    "id": "c95c9e30-218a-4af5-acad-02d2284269de",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which drug is used to manage hypercalcemia by increasing urinary calcium excretion?",
     "options": {
-      "A": "Metformin",
-      "B": "Furosemide",
-      "C": "Levothyroxine",
-      "D": "Desmopressin"
+      "A": "Levothyroxine",
+      "B": "Desmopressin",
+      "C": "Furosemide",
+      "D": "Metformin"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "43aa2a0d-7526-4520-82d5-e941cb6a22fb",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Secondary hyperparathyroidism is often caused by:",
+    "options": {
+      "A": "Parathyroid adenoma",
+      "B": "Thyroid cancer",
+      "C": "Iodine deficiency",
+      "D": "Chronic kidney disease"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "ae03196a-bcc7-48e8-bc7c-68f05cf6b0b8",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Tingling in the hands and feet is a symptom of:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Cushing���s disease",
+      "C": "Hypoparathyroidism",
+      "D": "Hyperparathyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "7398a3ab-55be-4f6e-afae-3fbc1909197d",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which imaging is used to locate abnormal parathyroid glands?",
+    "options": {
+      "A": "MRI brain",
+      "B": "CT scan",
+      "C": "Sestamibi scan",
+      "D": "Chest X-ray"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "75545db0-7fe1-4d53-897d-33aa501f09af",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hyperparathyroidism can lead to which gastrointestinal symptom?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Constipation",
+      "C": "Diarrhea",
+      "D": "Increased appetite"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "90291694-c5e1-49f9-b083-c6c4737057f5",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Secondary hyperparathyroidism is often caused by:",
-    "options": {
-      "A": "Parathyroid adenoma",
-      "B": "Iodine deficiency",
-      "C": "Chronic kidney disease",
-      "D": "Thyroid cancer"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "f8ad6b8d-31c1-4302-9196-693a51f1ec15",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Tingling in the hands and feet is a symptom of:",
-    "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Cushing’s disease",
-      "C": "Hypoparathyroidism",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "5b066351-beef-4ee9-8f60-f5d399483610",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which imaging is used to locate abnormal parathyroid glands?",
-    "options": {
-      "A": "Sestamibi scan",
-      "B": "CT scan",
-      "C": "MRI brain",
-      "D": "Chest X-ray"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c117d4f5-f151-4b91-920d-257f47b5191b",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hyperparathyroidism can lead to which gastrointestinal symptom?",
-    "options": {
-      "A": "Increased appetite",
-      "B": "Weight gain",
-      "C": "Constipation",
-      "D": "Diarrhea"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "7b10ade1-383c-44b1-9475-d42015c135ac",
+    "id": "5730358b-2d09-4a17-ae55-75c3f1683553",
     "section": "MCQ on Parathyroid Glands",
     "question": "Hypoparathyroidism may occur as a complication of:",
     "options": {
-      "A": "Thyroidectomy",
+      "A": "Adrenalectomy",
       "B": "Appendectomy",
-      "C": "Adrenalectomy",
+      "C": "Thyroidectomy",
       "D": "Pancreatectomy"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "e9c3e3f0-84c9-496b-b272-086024aff281",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which electrolyte imbalance is seen in hyperparathyroidism?",
-    "options": {
-      "A": "Hypocalcemia",
-      "B": "Hyponatremia",
-      "C": "Hypercalcemia",
-      "D": "Hyperkalemia"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a09c2a65-8245-4f5a-9d12-acb4f3238c0e",
+    "id": "dc71b557-0278-4856-ba8f-e4f87051a21a",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which electrolyte imbalance is seen in hyperparathyroidism?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hyponatremia",
+      "C": "Hypocalcemia",
+      "D": "Hypercalcemia"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "3bee8f29-b7f7-4da7-b3f1-fdbe5d265270",
     "section": "MCQ on Parathyroid Glands",
     "question": "Calcitriol is a form of which vitamin used in hypoparathyroidism?",
     "options": {
       "A": "Vitamin A",
       "B": "Vitamin C",
-      "C": "Vitamin D",
-      "D": "Vitamin E"
+      "C": "Vitamin E",
+      "D": "Vitamin D"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "3055a6e0-d0fd-4955-a2ea-090fd7045811",
+    "id": "41ac81a6-08dd-4dcb-ba6e-0211f6f3624a",
     "section": "MCQ on Parathyroid Glands",
     "question": "Osteoporosis is a long-term complication of:",
     "options": {
-      "A": "Diabetes insipidus",
+      "A": "Hypoparathyroidism",
       "B": "Hypothyroidism",
       "C": "Hyperparathyroidism",
-      "D": "Hypoparathyroidism"
+      "D": "Diabetes insipidus"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b1314678-5a3e-4596-8550-d359e0c362b5",
+    "id": "b9927bdc-7ae5-4fdc-8bbb-266875b6fe42",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which symptom is NOT associated with hyperparathyroidism?",
     "options": {
-      "A": "Tetany",
-      "B": "Fatigue",
+      "A": "Fatigue",
+      "B": "Tetany",
       "C": "Muscle weakness",
       "D": "Abdominal pain"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "6a2b9272-c677-4499-b96c-0400040b931f",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "The normal range for serum phosphorus in adults is:",
-    "options": {
-      "A": "Below 2.0 mg/dL",
-      "B": "8.0-10.0 mg/dL",
-      "C": "2.5-4.5 mg/dL",
-      "D": "5.0-7.0 mg/dL"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "394745f8-d308-41c1-bea3-5ba63b352348",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hypoparathyroidism is often caused by:",
-    "options": {
-      "A": "High calcium intake",
-      "B": "Damage to parathyroid glands",
-      "C": "Kidney failure",
-      "D": "Excess PTH secretion"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "a3433712-51ae-46b4-b045-cd7f3213a5f6",
+    "id": "7e97ed29-6e54-45ff-a6bf-6e5d887ba30d",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "The normal range for serum phosphorus in adults is:",
+    "options": {
+      "A": "5.0-7.0 mg/dL",
+      "B": "Below 2.0 mg/dL",
+      "C": "2.5-4.5 mg/dL",
+      "D": "8.0-10.0 mg/dL"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "f6edb110-ee7a-450e-ae66-6c8149f27a0f",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hypoparathyroidism is often caused by:",
+    "options": {
+      "A": "Damage to parathyroid glands",
+      "B": "Kidney failure",
+      "C": "High calcium intake",
+      "D": "Excess PTH secretion"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "858636da-792f-41b1-9257-f81cd2920839",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which drug is used to lower calcium levels in hyperparathyroidism?",
     "options": {
       "A": "Bisphosphonates",
       "B": "Propranolol",
-      "C": "Insulin",
-      "D": "Levothyroxine"
+      "C": "Levothyroxine",
+      "D": "Insulin"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "1399d54e-0823-45e4-bcbc-70134a3dbda2",
+    "id": "10821d24-6cc5-4019-ae02-c2214a923b39",
     "section": "MCQ on Parathyroid Glands",
-    "question": "A positive Chvostek’s sign is elicited by:",
+    "question": "A positive Chvostek���s sign is elicited by:",
     "options": {
-      "A": "Tapping the facial nerve",
+      "A": "Pressing the abdomen",
       "B": "Flexing the wrist",
-      "C": "Inflating a blood pressure cuff",
-      "D": "Pressing the abdomen"
+      "C": "Tapping the facial nerve",
+      "D": "Inflating a blood pressure cuff"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "fad5d2d8-d767-432a-a526-6cc68cccb623",
+    "id": "a5ad3733-9358-4a5d-8e81-501a96669697",
     "section": "MCQ on Parathyroid Glands",
-    "question": "Trousseau’s sign is elicited by:",
+    "question": "Trousseau���s sign is elicited by:",
     "options": {
       "A": "Pressing the foot",
-      "B": "Tapping the cheek",
-      "C": "Bending the neck",
+      "B": "Bending the neck",
+      "C": "Tapping the cheek",
       "D": "Inflating a blood pressure cuff on the arm"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e087a22b-ca28-40e3-a19d-32e7e6871539",
+    "id": "16f6961d-f88e-4b8d-a62a-9f489550ccc0",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which condition may cause pseudohypoparathyroidism?",
     "options": {
       "A": "Resistance to PTH",
-      "B": "Excess PTH secretion",
+      "B": "Iodine deficiency",
       "C": "Adrenal tumor",
-      "D": "Iodine deficiency"
+      "D": "Excess PTH secretion"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "dbb9f126-9c1d-42bc-9717-e9a22aff9b35",
+    "id": "32d31d5d-187b-4f92-b0fd-43ee994c9a69",
     "section": "MCQ on Parathyroid Glands",
     "question": "Parathyroid hormone increases blood levels of:",
     "options": {
       "A": "Sodium",
-      "B": "Calcium",
-      "C": "Glucose",
-      "D": "Potassium"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "4ded1539-f4b8-4670-9a53-80cd8fefb3f8",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hyperparathyroidism can cause which psychological symptom?",
-    "options": {
-      "A": "Depression",
-      "B": "Hyperactivity",
-      "C": "Euphoria",
-      "D": "Mania"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "df357e39-669a-4e84-8f6e-3f3dd14bbdd4",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which test measures calcium levels in urine?",
-    "options": {
-      "A": "24-hour urine calcium test",
-      "B": "ACTH stimulation test",
-      "C": "Thyroid function test",
-      "D": "Blood glucose test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "dcbf594f-c36b-4f36-ac2a-579eef368b09",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hypocalcemia may lead to:",
-    "options": {
-      "A": "Cardiac arrhythmias",
-      "B": "Weight loss",
-      "C": "Hyperglycemia",
-      "D": "Increased bone density"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "d91ed723-bb25-4d24-a291-2a888387224f",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Cinacalcet is a drug used to treat:",
-    "options": {
-      "A": "Diabetes mellitus",
-      "B": "Hypoparathyroidism",
-      "C": "Hypothyroidism",
-      "D": "Hyperparathyroidism"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "657b2608-9d47-4ba8-890d-fa0514bcfc42",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Which gland works closely with the parathyroid to regulate calcium?",
-    "options": {
-      "A": "Thyroid",
-      "B": "Adrenal",
-      "C": "Pancreas",
-      "D": "Pituitary"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "92339c26-3da4-4108-abcb-62d0d3708c1c",
-    "section": "MCQ on Parathyroid Glands",
-    "question": "Hyperparathyroidism can result in:",
-    "options": {
-      "A": "Hyperkalemia",
-      "B": "Hyponatremia",
-      "C": "Hypophosphatemia",
-      "D": "Hyperphosphatemia"
+      "B": "Potassium",
+      "C": "Calcium",
+      "D": "Glucose"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bc3824d3-f618-41ae-b7ec-15e23efe0125",
+    "id": "f82752ae-6fc4-402c-9e8d-fae6318d345c",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hyperparathyroidism can cause which psychological symptom?",
+    "options": {
+      "A": "Hyperactivity",
+      "B": "Mania",
+      "C": "Euphoria",
+      "D": "Depression"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "1e5e7ee3-a833-47df-815d-eef10b220efa",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which test measures calcium levels in urine?",
+    "options": {
+      "A": "ACTH stimulation test",
+      "B": "Thyroid function test",
+      "C": "Blood glucose test",
+      "D": "24-hour urine calcium test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "559be0a7-dd28-4588-b86f-1acb925ae562",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hypocalcemia may lead to:",
+    "options": {
+      "A": "Increased bone density",
+      "B": "Weight loss",
+      "C": "Cardiac arrhythmias",
+      "D": "Hyperglycemia"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "367b7124-92d9-417f-af9b-bb7196ef4227",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Cinacalcet is a drug used to treat:",
+    "options": {
+      "A": "Diabetes mellitus",
+      "B": "Hyperparathyroidism",
+      "C": "Hypothyroidism",
+      "D": "Hypoparathyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "c7c68316-376e-458b-b9a6-cec6040c1d01",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Which gland works closely with the parathyroid to regulate calcium?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Adrenal",
+      "C": "Thyroid",
+      "D": "Pituitary"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "7884fa26-e063-4b17-b3c1-403c954ec56f",
+    "section": "MCQ on Parathyroid Glands",
+    "question": "Hyperparathyroidism can result in:",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hypophosphatemia",
+      "C": "Hyperphosphatemia",
+      "D": "Hyponatremia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "09878805-be17-4f23-b18b-f4cf45a76607",
     "section": "MCQ on Parathyroid Glands",
     "question": "A nursing intervention for hypoparathyroidism includes:",
     "options": {
-      "A": "Limiting vitamin D",
-      "B": "Encouraging high sodium diet",
-      "C": "Restricting calcium intake",
+      "A": "Restricting calcium intake",
+      "B": "Limiting vitamin D",
+      "C": "Encouraging high sodium diet",
       "D": "Monitoring for signs of tetany"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "be5804b6-0d67-467f-b8c4-2b01ad9cbf67",
+    "id": "81dd48c0-6918-427b-ac6a-41de35ba06f4",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which symptom is common in hyperparathyroidism?",
     "options": {
-      "A": "Cold intolerance",
+      "A": "Weight gain",
       "B": "Muscle spasms",
-      "C": "Bone pain",
-      "D": "Weight gain"
+      "C": "Cold intolerance",
+      "D": "Bone pain"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "bdb705c6-f1cc-4987-8d8e-88d7a3b7be06",
+    "id": "10765faf-4f77-4fa5-bcff-00817b6036e1",
     "section": "MCQ on Parathyroid Glands",
     "question": "Post-parathyroidectomy, patients are monitored for:",
     "options": {
       "A": "Hyperkalemia",
-      "B": "Hypocalcemia",
+      "B": "Hyperglycemia",
       "C": "Hyponatremia",
-      "D": "Hyperglycemia"
+      "D": "Hypocalcemia"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "69f6d91d-09fc-4417-ab8b-657492395e3b",
+    "id": "bef56c37-5a79-4ac3-88ea-7a076ec88ee8",
     "section": "MCQ on Parathyroid Glands",
     "question": "Which condition is NOT associated with hyperparathyroidism?",
     "options": {
-      "A": "Osteoporosis",
+      "A": "Kidney stones",
       "B": "Tetany",
-      "C": "Peptic ulcers",
-      "D": "Kidney stones"
+      "C": "Osteoporosis",
+      "D": "Peptic ulcers"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "1ad7b4d3-7d4a-43e1-b496-9f8c1e4119e5",
+    "id": "27e7edf0-61dd-48aa-9428-920c37c40f7f",
     "section": "MCQs on hypoparathyroidism",
     "question": "The parathyroid glands are located:",
     "options": {
-      "A": "Behind the thyroid gland",
-      "B": "In the brain",
+      "A": "In the brain",
+      "B": "In the abdomen",
       "C": "Near the kidneys",
-      "D": "In the abdomen"
+      "D": "Behind the thyroid gland"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f6ba5e90-947c-4a0f-8a67-77f86115de76",
+    "id": "f5442ded-83e7-48ca-8c44-64bf64da0d08",
     "section": "MCQs on hypoparathyroidism",
     "question": "Hypoparathyroidism is characterized by:",
     "options": {
       "A": "Deficiency of insulin",
       "B": "Deficiency of parathyroid hormone",
-      "C": "Excess parathyroid hormone",
-      "D": "Excess thyroid hormone"
+      "C": "Excess thyroid hormone",
+      "D": "Excess parathyroid hormone"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "b20f2b77-6499-4c97-b2d2-6510e23eea07",
+    "id": "6d19b732-e104-4a8b-8686-d8bb332742e6",
     "section": "MCQs on hypoparathyroidism",
     "question": "What is the primary effect of hypoparathyroidism on blood calcium levels?",
     "options": {
-      "A": "Hypocalcemia",
-      "B": "Hyperkalemia",
-      "C": "Hypokalemia",
-      "D": "Hypercalcemia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "20730b00-4b87-430d-a94c-3ede98267dd8",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "The normal range for serum calcium is:",
-    "options": {
-      "A": "3.5-5.0 mg/dL",
-      "B": "12-15 mg/dL",
-      "C": "Below 2.0 mg/dL",
-      "D": "8.5-10.5 mg/dL"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "cbc041d5-0c6a-4a14-8ec0-ffbd3d60c722",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which symptom is commonly associated with hypoparathyroidism?",
-    "options": {
-      "A": "Bone pain",
-      "B": "Heat intolerance",
-      "C": "Weight loss",
-      "D": "Muscle cramps"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "b9b2e61e-8a82-40f3-8512-4ac8bc8ebfc7",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Chvostek’s sign in hypoparathyroidism is elicited by:",
-    "options": {
-      "A": "Flexing the wrist",
-      "B": "Tapping the facial nerve",
-      "C": "Inflating a blood pressure cuff",
-      "D": "Pressing the abdomen"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "f39adbc5-fcd4-4009-9bf9-e91af6986895",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Trousseau’s sign is a clinical indicator of:",
-    "options": {
-      "A": "Hyponatremia",
+      "A": "Hypokalemia",
       "B": "Hypocalcemia",
       "C": "Hyperkalemia",
       "D": "Hypercalcemia"
@@ -1782,85 +1730,137 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "fdb0ee40-cb19-4a9e-836b-5594e0fc6326",
+    "id": "1073189f-3f64-448d-b14c-f4e31035ae25",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Hypoparathyroidism can result from:",
+    "question": "The normal range for serum calcium is:",
     "options": {
-      "A": "Chronic kidney disease",
-      "B": "Excess iodine intake",
-      "C": "Thyroidectomy complications",
-      "D": "Parathyroid adenoma"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "f28a6248-c16e-462a-a137-0fb2ac824a69",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which electrolyte imbalance is typical in hypoparathyroidism?",
-    "options": {
-      "A": "High calcium, low phosphate",
-      "B": "Low sodium, high potassium",
-      "C": "Low calcium, high phosphate",
-      "D": "High calcium, high phosphate"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "cbe37aac-a5a2-4fab-a6dd-b9357bb312b5",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Tetany in hypoparathyroidism is caused by:",
-    "options": {
-      "A": "Low calcium levels",
-      "B": "High calcium levels",
-      "C": "Low potassium levels",
-      "D": "High sodium levels"
+      "A": "8.5-10.5 mg/dL",
+      "B": "3.5-5.0 mg/dL",
+      "C": "Below 2.0 mg/dL",
+      "D": "12-15 mg/dL"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "5b741190-acf2-46ea-b08e-3fb60f6019d0",
+    "id": "06e006c0-87ec-4577-8d9c-6b6058a391fb",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Vitamin D is prescribed in hypoparathyroidism to:",
+    "question": "Which symptom is commonly associated with hypoparathyroidism?",
     "options": {
-      "A": "Lower blood pressure",
-      "B": "Decrease calcium absorption",
-      "C": "Increase calcium absorption",
-      "D": "Increase phosphate levels"
+      "A": "Weight loss",
+      "B": "Heat intolerance",
+      "C": "Bone pain",
+      "D": "Muscle cramps"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "7a2d000b-3423-40fb-8e58-62ab37a994ae",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Chvostek���s sign in hypoparathyroidism is elicited by:",
+    "options": {
+      "A": "Pressing the abdomen",
+      "B": "Flexing the wrist",
+      "C": "Tapping the facial nerve",
+      "D": "Inflating a blood pressure cuff"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b72934a4-55cc-4b0b-ab13-6a18ed1ccf02",
+    "id": "611e688f-5d8a-4b63-bbf5-fe56d9664c32",
     "section": "MCQs on hypoparathyroidism",
-    "question": "A common neurological symptom of hypoparathyroidism is:",
+    "question": "Trousseau���s sign is a clinical indicator of:",
     "options": {
-      "A": "Weight gain",
-      "B": "Bone pain",
-      "C": "Seizures",
-      "D": "Tachycardia"
+      "A": "Hypocalcemia",
+      "B": "Hyponatremia",
+      "C": "Hypercalcemia",
+      "D": "Hyperkalemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "2440c4e5-c911-408b-96fd-75be232d84d7",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Hypoparathyroidism can result from:",
+    "options": {
+      "A": "Excess iodine intake",
+      "B": "Parathyroid adenoma",
+      "C": "Thyroidectomy complications",
+      "D": "Chronic kidney disease"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "0f953e8b-6d85-4990-ae9d-84acd369c586",
+    "id": "a2f7b3ae-0718-46cd-b558-266dab4b1a72",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Which diagnostic test confirms hypoparathyroidism?",
+    "question": "Which electrolyte imbalance is typical in hypoparathyroidism?",
     "options": {
-      "A": "Thyroid function test",
-      "B": "Parathyroid hormone (PTH) blood test",
-      "C": "VMA test",
-      "D": "Glucose tolerance test"
+      "A": "High calcium, low phosphate",
+      "B": "Low calcium, high phosphate",
+      "C": "Low sodium, high potassium",
+      "D": "High calcium, high phosphate"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "1e57628d-89cc-48cf-a0c9-bb4670f8048a",
+    "id": "1f50a084-a130-4e6d-ad52-8bd48298d81b",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Tetany in hypoparathyroidism is caused by:",
+    "options": {
+      "A": "High sodium levels",
+      "B": "Low calcium levels",
+      "C": "High calcium levels",
+      "D": "Low potassium levels"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "56bab969-3dae-43d8-b32a-7c9752197250",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Vitamin D is prescribed in hypoparathyroidism to:",
+    "options": {
+      "A": "Increase calcium absorption",
+      "B": "Decrease calcium absorption",
+      "C": "Lower blood pressure",
+      "D": "Increase phosphate levels"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "6a54da7f-7f3e-4762-8789-9d2a81e789e6",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "A common neurological symptom of hypoparathyroidism is:",
+    "options": {
+      "A": "Tachycardia",
+      "B": "Bone pain",
+      "C": "Weight gain",
+      "D": "Seizures"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "f1b29fc9-0bd4-49fb-badc-eb213aa8c6e8",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which diagnostic test confirms hypoparathyroidism?",
+    "options": {
+      "A": "Glucose tolerance test",
+      "B": "Parathyroid hormone (PTH) blood test",
+      "C": "VMA test",
+      "D": "Thyroid function test"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "ca702ff4-ac57-4d78-a730-b7d4d42d179a",
     "section": "MCQs on hypoparathyroidism",
     "question": "Hypoparathyroidism may lead to:",
     "options": {
@@ -1873,64 +1873,64 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "7808c66f-0c8b-475d-83e5-b5eac5f3fd42",
+    "id": "ce732f52-791e-44a2-8f25-2ecac2d78026",
     "section": "MCQs on hypoparathyroidism",
     "question": "Which procedure can inadvertently cause hypoparathyroidism?",
     "options": {
-      "A": "Thyroidectomy",
-      "B": "Adrenalectomy",
-      "C": "Cholecystectomy",
-      "D": "Appendectomy"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "371fe70a-7b50-4dd9-abf5-dde7bdf4bc4b",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Calcitriol is used in hypoparathyroidism because it is:",
-    "options": {
-      "A": "An active form of vitamin D",
-      "B": "A thyroid hormone",
-      "C": "An antithyroid drug",
-      "D": "A calcium-lowering drug"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "92da9ab6-9805-4d5d-b4a1-c56b05867f02",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which symptom is NOT typical of hypoparathyroidism?",
-    "options": {
-      "A": "Muscle spasms",
-      "B": "Fatigue",
-      "C": "Numbness",
-      "D": "Kidney stones"
+      "A": "Cholecystectomy",
+      "B": "Appendectomy",
+      "C": "Adrenalectomy",
+      "D": "Thyroidectomy"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f0ac046b-9a1b-4cfe-9494-f2172cc0a09c",
+    "id": "f997be9b-4ba3-45c7-b7e3-c2a417f65d00",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Hypocalcemia in hypoparathyroidism can cause:",
+    "question": "Calcitriol is used in hypoparathyroidism because it is:",
     "options": {
-      "A": "Hyperglycemia",
-      "B": "Increased bone density",
-      "C": "Paresthesia",
-      "D": "Weight loss"
+      "A": "An antithyroid drug",
+      "B": "A thyroid hormone",
+      "C": "An active form of vitamin D",
+      "D": "A calcium-lowering drug"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b97ee5ad-e8ce-42d7-81cf-3c89ee8388c9",
+    "id": "1f67e0a9-4af3-4190-a997-39cc16075f1f",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which symptom is NOT typical of hypoparathyroidism?",
+    "options": {
+      "A": "Kidney stones",
+      "B": "Muscle spasms",
+      "C": "Numbness",
+      "D": "Fatigue"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cc5c78e5-a8ca-4051-bfbe-b0fcc2c9b302",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Hypocalcemia in hypoparathyroidism can cause:",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Paresthesia",
+      "C": "Weight loss",
+      "D": "Increased bone density"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "b02b99f4-28ef-4b9c-b9a1-6b9e5397c6f7",
     "section": "MCQs on hypoparathyroidism",
     "question": "Which test assesses serum calcium levels?",
     "options": {
-      "A": "ACTH stimulation test",
-      "B": "Blood glucose test",
+      "A": "Blood glucose test",
+      "B": "ACTH stimulation test",
       "C": "Thyroid scan",
       "D": "Serum electrolyte test"
     },
@@ -1938,545 +1938,545 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "826b680b-a0fd-435f-97da-550258ce05cb",
+    "id": "84756679-12ab-482f-9212-9e67bbb32947",
     "section": "MCQs on hypoparathyroidism",
     "question": "Hypoparathyroidism can occur due to:",
     "options": {
-      "A": "High calcium diet",
-      "B": "Autoimmune destruction of parathyroid glands",
-      "C": "Excess PTH secretion",
-      "D": "Thyroid cancer"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "6c878db1-17c8-4059-9efe-4a7d74160e3d",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which sign indicates hypocalcemia when inflating a blood pressure cuff?",
-    "options": {
-      "A": "Brudzinski’s sign",
-      "B": "Chvostek’s sign",
-      "C": "Babinski’s sign",
-      "D": "Trousseau’s sign"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2e0f23fb-6379-4ace-960e-20ae7ebc9769",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Calcium gluconate is administered in hypoparathyroidism to:",
-    "options": {
-      "A": "Increase phosphate levels",
-      "B": "Reduce muscle strength",
-      "C": "Lower calcium levels",
-      "D": "Treat acute hypocalcemia"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "bb85fbd6-9dc8-49cc-8a80-a954bebe303f",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which electrolyte is elevated in hypoparathyroidism?",
-    "options": {
-      "A": "Phosphate",
-      "B": "Sodium",
-      "C": "Calcium",
-      "D": "Potassium"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "7bcbd04a-95db-4537-98e0-f4ceaa3b2a63",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "A patient with hypoparathyroidism may experience:",
-    "options": {
-      "A": "Weight loss",
-      "B": "Heat intolerance",
-      "C": "Bone pain",
-      "D": "Carpopedal spasm"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "d90a71a1-64af-4c18-8a89-ef89dcca616e",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which vitamin deficiency can worsen hypoparathyroidism symptoms?",
-    "options": {
-      "A": "Vitamin B12",
-      "B": "Vitamin D",
-      "C": "Vitamin K",
-      "D": "Vitamin C"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "c95559ec-fec3-4c44-ab35-8dd4670d8803",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Hypoparathyroidism can cause which dental abnormality?",
-    "options": {
-      "A": "Enamel hypoplasia",
-      "B": "Gum hypertrophy",
-      "C": "Tooth discoloration",
-      "D": "Cavities"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "85c01415-cf2c-4d7a-8b90-333e65c92ec3",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "The normal range for serum phosphorus is:",
-    "options": {
-      "A": "Below 2.0 mg/dL",
-      "B": "8.0-10.0 mg/dL",
-      "C": "5.0-7.0 mg/dL",
-      "D": "2.5-4.5 mg/dL"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "c6564d75-a34a-4ef6-a17e-326f89d75300",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which imaging test is NOT typically used for hypoparathyroidism diagnosis?",
-    "options": {
-      "A": "ECG to detect arrhythmias",
-      "B": "Hand X-ray for bone changes",
-      "C": "Thyroid ultrasound",
-      "D": "Sestamibi scan"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "667fdde1-74fa-4f76-8029-1eb6e554c576",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "A patient with hypoparathyroidism should avoid:",
-    "options": {
-      "A": "Sugary foods",
-      "B": "Iodine-rich foods",
-      "C": "High-phosphate foods",
-      "D": "Calcium-rich foods"
+      "A": "Thyroid cancer",
+      "B": "High calcium diet",
+      "C": "Autoimmune destruction of parathyroid glands",
+      "D": "Excess PTH secretion"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "af41f05f-ec17-44e0-b1ad-ae000f167618",
+    "id": "daa8bf8d-42d1-4de9-8747-6034a39e0ee6",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Which symptom of hypoparathyroidism affects the respiratory system?",
+    "question": "Which sign indicates hypocalcemia when inflating a blood pressure cuff?",
     "options": {
-      "A": "Laryngospasm",
-      "B": "Diarrhea",
-      "C": "Tachycardia",
-      "D": "Bone pain"
+      "A": "Trousseau���s sign",
+      "B": "Brudzinski���s sign",
+      "C": "Chvostek���s sign",
+      "D": "Babinski���s sign"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "2dfe5a51-5fa1-42f9-94fc-e8286ad2825b",
+    "id": "b53982fa-2d67-4849-b67b-a2283e2e7c85",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Post-thyroidectomy hypoparathyroidism is due to:",
+    "question": "Calcium gluconate is administered in hypoparathyroidism to:",
     "options": {
-      "A": "Excess thyroid hormone",
-      "B": "Adrenal insufficiency",
-      "C": "Iodine deficiency",
-      "D": "Damage to parathyroid glands"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2ffc827c-2a9c-4677-ae10-fc68abdec89d",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which drug is NOT used to treat hypoparathyroidism?",
-    "options": {
-      "A": "Vitamin D analogs",
-      "B": "Cinacalcet",
-      "C": "Calcitriol",
-      "D": "Calcium carbonate"
+      "A": "Lower calcium levels",
+      "B": "Treat acute hypocalcemia",
+      "C": "Increase phosphate levels",
+      "D": "Reduce muscle strength"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "834b0afd-3a32-4689-8a85-56ee796ae1d1",
+    "id": "4ea0d69a-05de-4dc5-895d-bfa1e27b1df4",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Hypoparathyroidism can cause which cardiac issue?",
+    "question": "Which electrolyte is elevated in hypoparathyroidism?",
     "options": {
-      "A": "Hypertension",
-      "B": "Heart block",
-      "C": "Prolonged QT interval on ECG",
+      "A": "Sodium",
+      "B": "Phosphate",
+      "C": "Calcium",
+      "D": "Potassium"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "2d3934d8-afc7-4994-951d-07bb52005f38",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "A patient with hypoparathyroidism may experience:",
+    "options": {
+      "A": "Heat intolerance",
+      "B": "Weight loss",
+      "C": "Carpopedal spasm",
+      "D": "Bone pain"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "48805a4c-a76e-4aae-97ed-05da910c3fde",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which vitamin deficiency can worsen hypoparathyroidism symptoms?",
+    "options": {
+      "A": "Vitamin C",
+      "B": "Vitamin K",
+      "C": "Vitamin D",
+      "D": "Vitamin B12"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "efeb0eb7-b392-4a6f-9c89-a8f14209bdcc",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Hypoparathyroidism can cause which dental abnormality?",
+    "options": {
+      "A": "Tooth discoloration",
+      "B": "Gum hypertrophy",
+      "C": "Enamel hypoplasia",
+      "D": "Cavities"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "5bb59bfa-1d82-444b-ae35-dd2cc29ed488",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "The normal range for serum phosphorus is:",
+    "options": {
+      "A": "2.5-4.5 mg/dL",
+      "B": "Below 2.0 mg/dL",
+      "C": "5.0-7.0 mg/dL",
+      "D": "8.0-10.0 mg/dL"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "0e98386d-20fc-4d30-8ebe-2441dc0f369c",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which imaging test is NOT typically used for hypoparathyroidism diagnosis?",
+    "options": {
+      "A": "Hand X-ray for bone changes",
+      "B": "Thyroid ultrasound",
+      "C": "Sestamibi scan",
+      "D": "ECG to detect arrhythmias"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "df1fe0a6-3d9e-44d2-aa45-870298bbe84c",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "A patient with hypoparathyroidism should avoid:",
+    "options": {
+      "A": "Iodine-rich foods",
+      "B": "Calcium-rich foods",
+      "C": "Sugary foods",
+      "D": "High-phosphate foods"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "702f40d8-4006-4455-90bc-190938fda892",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which symptom of hypoparathyroidism affects the respiratory system?",
+    "options": {
+      "A": "Bone pain",
+      "B": "Diarrhea",
+      "C": "Laryngospasm",
       "D": "Tachycardia"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "42192d31-18b9-402c-b4e1-eae96c362904",
+    "id": "b69989ab-0462-4cb8-87d2-f5d7c0994233",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Post-thyroidectomy hypoparathyroidism is due to:",
+    "options": {
+      "A": "Excess thyroid hormone",
+      "B": "Damage to parathyroid glands",
+      "C": "Adrenal insufficiency",
+      "D": "Iodine deficiency"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "1c5eda0c-fe1f-480f-bf32-55e583d39319",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which drug is NOT used to treat hypoparathyroidism?",
+    "options": {
+      "A": "Vitamin D analogs",
+      "B": "Cinacalcet",
+      "C": "Calcium carbonate",
+      "D": "Calcitriol"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "76aebb4d-f2e6-4cc4-b163-986dc73203b1",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Hypoparathyroidism can cause which cardiac issue?",
+    "options": {
+      "A": "Heart block",
+      "B": "Prolonged QT interval on ECG",
+      "C": "Hypertension",
+      "D": "Tachycardia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "68c56ce6-6707-432b-b672-4f9b769a1c57",
     "section": "MCQs on hypoparathyroidism",
     "question": "Which condition mimics hypoparathyroidism but involves PTH resistance?",
     "options": {
-      "A": "Pseudohypoparathyroidism",
-      "B": "Hyperparathyroidism",
-      "C": "Addison’s disease",
-      "D": "Graves’ disease"
+      "A": "Addison���s disease",
+      "B": "Pseudohypoparathyroidism",
+      "C": "Graves��� disease",
+      "D": "Hyperparathyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "b6ffc554-c898-4edc-b3e9-e181fb27e2cc",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "A dietary recommendation for hypoparathyroidism includes:",
+    "options": {
+      "A": "Low-vitamin D foods",
+      "B": "High-sodium foods",
+      "C": "Calcium-rich foods",
+      "D": "Low-calcium foods"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "aa4fd264-f88e-472d-928a-f1bf62ba1815",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which test monitors treatment effectiveness in hypoparathyroidism?",
+    "options": {
+      "A": "Thyroid function tests",
+      "B": "Cortisol levels",
+      "C": "Serum calcium and phosphate levels",
+      "D": "Blood glucose levels"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "772da56f-b5d4-4799-a8f4-0c89336d2665",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which complication of hypoparathyroidism requires urgent treatment?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Acute tetany",
+      "C": "Osteoporosis",
+      "D": "Kidney stones"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "9f469a63-4d63-4a89-9e44-5bef54b7ad19",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Magnesium supplements may be given in hypoparathyroidism to:",
+    "options": {
+      "A": "Correct hypomagnesemia",
+      "B": "Lower calcium levels",
+      "C": "Increase phosphate levels",
+      "D": "Reduce muscle spasms only"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "a893f688-5839-498d-9753-f1a6fd25d819",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "A dietary recommendation for hypoparathyroidism includes:",
-    "options": {
-      "A": "Low-vitamin D foods",
-      "B": "Calcium-rich foods",
-      "C": "Low-calcium foods",
-      "D": "High-sodium foods"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "57704baa-f3da-420c-915d-6015cd98f35f",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which test monitors treatment effectiveness in hypoparathyroidism?",
-    "options": {
-      "A": "Blood glucose levels",
-      "B": "Cortisol levels",
-      "C": "Serum calcium and phosphate levels",
-      "D": "Thyroid function tests"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "56c457f4-ba9a-413c-8686-4ad23a75ed8b",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Which complication of hypoparathyroidism requires urgent treatment?",
-    "options": {
-      "A": "Kidney stones",
-      "B": "Osteoporosis",
-      "C": "Acute tetany",
-      "D": "Weight gain"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "617c7c36-6893-42b3-b9ef-2a0758f47335",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Magnesium supplements may be given in hypoparathyroidism to:",
-    "options": {
-      "A": "Lower calcium levels",
-      "B": "Correct hypomagnesemia",
-      "C": "Increase phosphate levels",
-      "D": "Reduce muscle spasms only"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "1abc85fa-eb2a-477b-b6af-44c99874bb03",
+    "id": "de7f1663-15ed-403e-bbf0-da8d17345c7f",
     "section": "MCQs on hypoparathyroidism",
     "question": "Which symptom is specific to severe hypocalcemia in hypoparathyroidism?",
     "options": {
-      "A": "Hair loss",
-      "B": "Constipation",
-      "C": "Bronchospasm",
-      "D": "Bone fractures"
+      "A": "Bronchospasm",
+      "B": "Bone fractures",
+      "C": "Constipation",
+      "D": "Hair loss"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "b1056374-752d-4bd4-8194-37029d4c6f93",
+    "id": "328a8ccc-92f4-4ca4-b9a2-b115291ed7a3",
     "section": "MCQs on hypoparathyroidism",
     "question": "A patient with hypoparathyroidism may show:",
     "options": {
       "A": "Exophthalmos",
       "B": "Hyperreflexia",
-      "C": "Weight loss",
-      "D": "Hyporeflexia"
+      "C": "Hyporeflexia",
+      "D": "Weight loss"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "6aaa1171-ecbf-4b3c-a4cd-2bef5c82f9fd",
+    "id": "d78d8006-dbb5-443f-b832-c823c15587af",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Which gland’s surgical removal can cause hypoparathyroidism?",
+    "question": "Which gland���s surgical removal can cause hypoparathyroidism?",
     "options": {
       "A": "Pancreas",
-      "B": "Parathyroid",
+      "B": "Pituitary",
       "C": "Adrenal",
-      "D": "Pituitary"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "aac958e9-2ca9-457b-ba1a-f593d5d9dd13",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "A nursing priority for hypoparathyroidism is to monitor:",
-    "options": {
-      "A": "Signs of hypocalcemia",
-      "B": "Blood sugar levels",
-      "C": "Thyroid hormone levels",
-      "D": "Blood pressure"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "353a1607-5db8-4c20-8f79-55b1b39d1c39",
-    "section": "MCQs on hypoparathyroidism",
-    "question": "Hypoparathyroidism may result from:",
-    "options": {
-      "A": "Diabetes mellitus",
-      "B": "Hyperthyroidism",
-      "C": "Excess calcium intake",
-      "D": "Magnesium deficiency"
+      "D": "Parathyroid"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "670b7a55-d6f2-419f-8b44-d91f23258f34",
+    "id": "69aa4485-8fc3-4eec-8b46-bad48e4d30d5",
     "section": "MCQs on hypoparathyroidism",
-    "question": "Which food should be encouraged for hypoparathyroidism patients?",
+    "question": "A nursing priority for hypoparathyroidism is to monitor:",
     "options": {
-      "A": "Sugary snacks",
-      "B": "Dairy products",
-      "C": "Processed meats",
-      "D": "Carbonated drinks"
+      "A": "Signs of hypocalcemia",
+      "B": "Blood pressure",
+      "C": "Blood sugar levels",
+      "D": "Thyroid hormone levels"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "e6c902f3-5c3e-48b1-8136-a5a15280c921",
+    "id": "f875985d-941f-429c-bdfd-2bb9b220b827",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Hypoparathyroidism may result from:",
+    "options": {
+      "A": "Magnesium deficiency",
+      "B": "Hyperthyroidism",
+      "C": "Excess calcium intake",
+      "D": "Diabetes mellitus"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "5e434160-0d31-484a-ab48-bc33fd782e6a",
+    "section": "MCQs on hypoparathyroidism",
+    "question": "Which food should be encouraged for hypoparathyroidism patients?",
+    "options": {
+      "A": "Processed meats",
+      "B": "Sugary snacks",
+      "C": "Carbonated drinks",
+      "D": "Dairy products"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "6c957a02-3e25-4ef4-908b-b4ffd44bfdd9",
     "section": "MCQs on hyperparathyroidism",
     "question": "Long-term untreated hypoparathyroidism can lead to:",
     "options": {
       "A": "Hyperglycemia",
       "B": "Osteoporosis",
-      "C": "Cataracts",
-      "D": "Kidney stones"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "bec70e85-a30e-42a2-bd06-5118609b0225",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "The primary effect of hyperparathyroidism on blood calcium levels is:",
-    "options": {
-      "A": "Hyperkalemia",
-      "B": "Hypercalcemia",
-      "C": "Hypocalcemia",
-      "D": "Hypokalemia"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "40be21a6-f6d8-473f-8558-b01ddf3579c3",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "What is the normal range for serum calcium in adults?",
-    "options": {
-      "A": "Below 2.0 mg/dL",
-      "B": "8.5-10.5 mg/dL",
-      "C": "12-15 mg/dL",
-      "D": "3.5-5.0 mg/dL"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "77d7ff1b-170e-44dd-9bb8-085caf78556c",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "A common symptom of hyperparathyroidism is:",
-    "options": {
-      "A": "Bone pain",
-      "B": "Muscle cramps",
-      "C": "Weight gain",
-      "D": "Tetany"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "1aad31c2-5a00-4948-b0ea-4fdedfaf43b1",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Which condition is a common complication of hyperparathyroidism?",
-    "options": {
-      "A": "Seizures",
-      "B": "Hypocalcemia",
       "C": "Kidney stones",
-      "D": "Weight loss"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a38dbaba-e2fd-40e5-be06-e33bb88fe8cd",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Which surgical procedure is used to treat hyperparathyroidism?",
-    "options": {
-      "A": "Adrenalectomy",
-      "B": "Thyroidectomy",
-      "C": "Parathyroidectomy",
-      "D": "Pancreatectomy"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "53c01625-66c4-426f-96d3-5f1a161abdd5",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Hyperparathyroidism can lead to which electrolyte imbalance?",
-    "options": {
-      "A": "Hyperkalemia and hyponatremia",
-      "B": "Hypocalcemia and hypophosphatemia",
-      "C": "Hypocalcemia and hyperphosphatemia",
-      "D": "Hypercalcemia and hypophosphatemia"
+      "D": "Cataracts"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "30a56532-0485-4118-86bd-09f7c01a3478",
+    "id": "2b8f464a-7524-426b-81d7-15e83434211a",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "The primary effect of hyperparathyroidism on blood calcium levels is:",
+    "options": {
+      "A": "Hypercalcemia",
+      "B": "Hypocalcemia",
+      "C": "Hyperkalemia",
+      "D": "Hypokalemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "336fd068-d32f-4903-82b6-a97a91dd0af7",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "What is the normal range for serum calcium in adults?",
+    "options": {
+      "A": "8.5-10.5 mg/dL",
+      "B": "3.5-5.0 mg/dL",
+      "C": "Below 2.0 mg/dL",
+      "D": "12-15 mg/dL"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "2a085047-b855-47e1-b43c-e5cb6ad57606",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "A common symptom of hyperparathyroidism is:",
+    "options": {
+      "A": "Bone pain",
+      "B": "Weight gain",
+      "C": "Tetany",
+      "D": "Muscle cramps"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e0304cc3-27fa-426c-a884-78282a1ece10",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Which condition is a common complication of hyperparathyroidism?",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Kidney stones",
+      "C": "Seizures",
+      "D": "Weight loss"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "f89e67b2-3125-4193-a52d-6032dbfbd89b",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Which surgical procedure is used to treat hyperparathyroidism?",
+    "options": {
+      "A": "Pancreatectomy",
+      "B": "Adrenalectomy",
+      "C": "Parathyroidectomy",
+      "D": "Thyroidectomy"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "23848679-73f5-48fd-920f-c104be04f24a",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Hyperparathyroidism can lead to which electrolyte imbalance?",
+    "options": {
+      "A": "Hyperkalemia and hyponatremia",
+      "B": "Hypercalcemia and hypophosphatemia",
+      "C": "Hypocalcemia and hyperphosphatemia",
+      "D": "Hypocalcemia and hypophosphatemia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "8e95f776-9b24-4ff9-bcf7-1a5d1be8e072",
     "section": "MCQs on hyperparathyroidism",
     "question": "Bone fractures are a risk in hyperparathyroidism due to:",
     "options": {
-      "A": "Reduced phosphate levels",
-      "B": "Increased muscle strength",
-      "C": "Decreased bone density",
-      "D": "Increased bone density"
+      "A": "Decreased bone density",
+      "B": "Increased bone density",
+      "C": "Increased muscle strength",
+      "D": "Reduced phosphate levels"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "6efbfc2c-40d5-46fc-bd9b-0fd6f8fe2d53",
+    "id": "8c3d6fed-9561-43c0-b77a-ce7ced059c1e",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which diagnostic test is used to measure parathyroid hormone levels?",
     "options": {
-      "A": "Thyroid function test",
-      "B": "VMA test",
-      "C": "PTH blood test",
-      "D": "Glucose tolerance test"
+      "A": "VMA test",
+      "B": "PTH blood test",
+      "C": "Glucose tolerance test",
+      "D": "Thyroid function test"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "17fd419f-d37d-46df-8b20-a30c2a9a8304",
+    "id": "d55ea20a-3704-4695-8fce-075ec1a2ba3a",
     "section": "MCQs on hyperparathyroidism",
     "question": "A common gastrointestinal symptom of hyperparathyroidism is:",
     "options": {
-      "A": "Diarrhea",
-      "B": "Constipation",
-      "C": "Increased appetite",
+      "A": "Increased appetite",
+      "B": "Diarrhea",
+      "C": "Constipation",
       "D": "Weight gain"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b7656c75-cbfa-4cea-86d4-cf2a8e0ce44a",
+    "id": "138f419e-ea24-474a-a701-4b46179def3d",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which symptom is NOT typically associated with hyperparathyroidism?",
     "options": {
-      "A": "Fatigue",
-      "B": "Abdominal pain",
+      "A": "Muscle weakness",
+      "B": "Fatigue",
       "C": "Tetany",
-      "D": "Muscle weakness"
+      "D": "Abdominal pain"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "38c2d408-cd8a-4ef8-96f4-0653c404befb",
+    "id": "c223a1f7-6f3f-4387-b0e5-585252f8884c",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism can increase the risk of:",
     "options": {
-      "A": "Seizures",
-      "B": "Osteoporosis",
-      "C": "Hypophosphatemia",
-      "D": "Hypocalcemia"
+      "A": "Hypocalcemia",
+      "B": "Hypophosphatemia",
+      "C": "Seizures",
+      "D": "Osteoporosis"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "80474ecf-0749-48ca-b76d-265c289f1d9c",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Kidney stones in hyperparathyroidism are caused by:",
+    "options": {
+      "A": "Low phosphate levels",
+      "B": "High calcium levels in urine",
+      "C": "High sodium levels",
+      "D": "Low calcium levels"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "e647b2d7-4862-45d1-bf28-d008723f3616",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Kidney stones in hyperparathyroidism are caused by:",
-    "options": {
-      "A": "High calcium levels in urine",
-      "B": "High sodium levels",
-      "C": "Low phosphate levels",
-      "D": "Low calcium levels"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "515d70b9-d065-4f2d-a97c-e21024f90f0c",
+    "id": "10f3d710-f380-4f65-95c9-5b3b63c09576",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which psychological symptom may occur in hyperparathyroidism?",
     "options": {
-      "A": "Depression",
-      "B": "Mania",
+      "A": "Mania",
+      "B": "Depression",
       "C": "Hyperactivity",
       "D": "Euphoria"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "a9ca3e12-f8b1-4f8d-bae8-a97879eac5f9",
+    "id": "adb83a40-79ea-4084-8fa6-8034f409e560",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which procedure is used to confirm high calcium levels in urine?",
     "options": {
-      "A": "ACTH stimulation test",
-      "B": "Thyroid function test",
+      "A": "Water deprivation test",
+      "B": "ACTH stimulation test",
       "C": "24-hour urine calcium test",
-      "D": "Water deprivation test"
+      "D": "Thyroid function test"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "1c75a16b-75f9-45e0-b830-68ce46805e39",
+    "id": "bc151fd8-80f9-4db1-b7df-ed104f7ff58a",
     "section": "MCQs on hyperparathyroidism",
     "question": "A common skeletal complication of hyperparathyroidism is:",
     "options": {
       "A": "Tetany",
-      "B": "Increased bone strength",
+      "B": "Muscle spasms",
       "C": "Osteitis fibrosa cystica",
-      "D": "Muscle spasms"
+      "D": "Increased bone strength"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "7c64efc8-e441-42cf-8c29-abf35a36652f",
+    "id": "dc4b0120-447c-4889-b5c2-3928ed06e8c6",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which drug promotes urinary calcium excretion in hyperparathyroidism?",
     "options": {
-      "A": "Levothyroxine",
-      "B": "Desmopressin",
+      "A": "Desmopressin",
+      "B": "Levothyroxine",
       "C": "Furosemide",
       "D": "Calcitriol"
     },
@@ -2484,194 +2484,194 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "ea345b54-579d-467e-a461-ceeafa18ec7e",
+    "id": "1eed31af-dc31-460a-a50b-ee07c211339c",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism may cause which digestive issue?",
     "options": {
-      "A": "Weight loss",
+      "A": "Increased appetite",
       "B": "Peptic ulcers",
-      "C": "Increased appetite",
-      "D": "Diarrhea"
+      "C": "Diarrhea",
+      "D": "Weight loss"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "2a722efb-630e-481f-8dee-fdbeee4a4e93",
+    "id": "3f043588-b183-4629-9349-fb085396ce79",
     "section": "MCQs on hyperparathyroidism",
     "question": "A patient with hyperparathyroidism may complain of:",
     "options": {
-      "A": "Cold intolerance",
-      "B": "Hair loss",
-      "C": "Polyuria",
-      "D": "Muscle spasms"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "3259e209-66e7-467e-bf3a-1c49688e8f67",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Which test is NOT typically used to diagnose hyperparathyroidism?",
-    "options": {
-      "A": "DEXA scan",
-      "B": "PTH blood test",
-      "C": "Serum calcium test",
-      "D": "Glucose tolerance test"
+      "A": "Muscle spasms",
+      "B": "Cold intolerance",
+      "C": "Hair loss",
+      "D": "Polyuria"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "ef5aa38f-0966-4410-bec6-4d8219d79b27",
+    "id": "49b7417c-45aa-4bce-ac42-7289caa80b21",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Which test is NOT typically used to diagnose hyperparathyroidism?",
+    "options": {
+      "A": "DEXA scan",
+      "B": "Serum calcium test",
+      "C": "Glucose tolerance test",
+      "D": "PTH blood test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "a45514c7-732a-4dca-8e2a-c077a6b643e2",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism can lead to:",
     "options": {
-      "A": "Hyperkalemia",
+      "A": "Hyponatremia",
       "B": "Hyperphosphatemia",
-      "C": "Hyponatremia",
+      "C": "Hyperkalemia",
       "D": "Hypophosphatemia"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "82d4dc41-f9f4-4e5c-8b15-627c779767bd",
+    "id": "83f05f3c-d22f-4cce-a930-4a4a6e2e6bac",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which symptom is associated with severe hypercalcemia?",
     "options": {
-      "A": "Weight gain",
-      "B": "Tetany",
-      "C": "Hyporeflexia",
-      "D": "Confusion"
+      "A": "Hyporeflexia",
+      "B": "Confusion",
+      "C": "Tetany",
+      "D": "Weight gain"
     },
-    "correct": "D",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "92d69c6e-f430-481f-96ca-0fb0f0a8fbd9",
+    "id": "b91f7634-f749-4fae-8fd9-8d79d62e1630",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which imaging test helps detect parathyroid tumors?",
     "options": {
-      "A": "Chest X-ray",
+      "A": "Bone scan",
       "B": "MRI brain",
       "C": "Ultrasound of the neck",
-      "D": "Bone scan"
+      "D": "Chest X-ray"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "2ecdfe99-c6b6-48f8-98f3-df86015ded50",
+    "id": "76898c51-cd54-4be6-a744-78423ab2e4c9",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism is least likely to cause:",
     "options": {
       "A": "Bone pain",
-      "B": "Kidney stones",
-      "C": "Fatigue",
-      "D": "Chvostek’s sign"
+      "B": "Fatigue",
+      "C": "Kidney stones",
+      "D": "Chvostek���s sign"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e86f5a52-9784-4e30-8d47-cfba0ee453e7",
+    "id": "90ad2c0b-f172-4db3-b412-50244804226f",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which drug is used to manage hypercalcemia in emergency cases?",
     "options": {
-      "A": "Calcitonin",
+      "A": "Insulin",
       "B": "Propranolol",
-      "C": "Levothyroxine",
-      "D": "Insulin"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c456e869-c078-4447-89b1-b6b52f5d588b",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Which condition is NOT a cause of secondary hyperparathyroidism?",
-    "options": {
-      "A": "Hypocalcemia",
-      "B": "Vitamin D deficiency",
-      "C": "Parathyroid adenoma",
-      "D": "Chronic kidney disease"
+      "C": "Calcitonin",
+      "D": "Levothyroxine"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "80b47be5-a1b0-43cd-ba91-c98d7d629d26",
+    "id": "559c00a9-f116-429f-9ac8-42946f9524dc",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Which condition is NOT a cause of secondary hyperparathyroidism?",
+    "options": {
+      "A": "Parathyroid adenoma",
+      "B": "Chronic kidney disease",
+      "C": "Hypocalcemia",
+      "D": "Vitamin D deficiency"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "72b2abef-4290-476e-83cf-8ab455f46b0f",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism can cause which cardiovascular issue?",
     "options": {
-      "A": "Hypertension",
-      "B": "Hypotension",
-      "C": "Bradycardia",
-      "D": "Heart block"
+      "A": "Hypotension",
+      "B": "Heart block",
+      "C": "Hypertension",
+      "D": "Bradycardia"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "0ba5abe8-ac68-48e0-aa68-41831410d3c0",
+    "id": "551e92fc-4d7d-4401-8399-1a4ba0b5fe19",
     "section": "MCQs on hyperparathyroidism",
     "question": "A nursing priority for hyperparathyroidism is to:",
     "options": {
-      "A": "Promote hydration to prevent kidney stones",
-      "B": "Restrict vitamin D intake",
-      "C": "Limit physical activity",
+      "A": "Limit physical activity",
+      "B": "Promote hydration to prevent kidney stones",
+      "C": "Restrict vitamin D intake",
       "D": "Encourage high-calcium diet"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "fe8b9357-e0ea-45ab-bebf-ed4d43379d7b",
+    "id": "6660c4ae-15d4-4985-b969-c0fee77edb63",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which symptom is specific to hyperparathyroidism?",
     "options": {
-      "A": "“Stones, bones, groans, and moans”",
+      "A": "Weight gain",
       "B": "Exophthalmos",
-      "C": "Weight gain",
-      "D": "Muscle spasms"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5438cac1-8269-4851-b9c4-2828595ddaeb",
-    "section": "MCQs on hyperparathyroidism",
-    "question": "Which test monitors bone health in hyperparathyroidism?",
-    "options": {
-      "A": "Serum glucose test",
-      "B": "VMA test",
-      "C": "Thyroid function test",
-      "D": "Alkaline phosphatase test"
+      "C": "Muscle spasms",
+      "D": "���Stones, bones, groans, and moans���"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "75a6021f-2f2a-44e4-ab21-308d9633ed42",
+    "id": "1e92f7cb-b79b-43ee-938b-a4a63ac5f1ef",
     "section": "MCQs on hyperparathyroidism",
-    "question": "Tertiary hyperparathyroidism occurs in:",
+    "question": "Which test monitors bone health in hyperparathyroidism?",
     "options": {
-      "A": "Long-standing secondary hyperparathyroidism",
-      "B": "Thyroid cancer",
-      "C": "Iodine deficiency",
-      "D": "Parathyroid adenoma"
+      "A": "VMA test",
+      "B": "Alkaline phosphatase test",
+      "C": "Serum glucose test",
+      "D": "Thyroid function test"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "2137785d-4a37-4538-8f26-5ea0a550707d",
+    "id": "ca73f2fe-f143-4ef3-9c49-d4096c20c68b",
+    "section": "MCQs on hyperparathyroidism",
+    "question": "Tertiary hyperparathyroidism occurs in:",
+    "options": {
+      "A": "Parathyroid adenoma",
+      "B": "Long-standing secondary hyperparathyroidism",
+      "C": "Iodine deficiency",
+      "D": "Thyroid cancer"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "5c3f8059-c275-4b2e-9701-0fa20bf4ecb6",
     "section": "MCQs on hyperparathyroidism",
     "question": "Which food should be avoided in hyperparathyroidism?",
     "options": {
-      "A": "Lean meats",
-      "B": "Whole grains",
+      "A": "Whole grains",
+      "B": "Lean meats",
       "C": "Dairy products",
       "D": "Green leafy vegetables"
     },
@@ -2679,163 +2679,163 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "85eb8616-cc8a-4296-9957-c47d602b2cbb",
+    "id": "973db555-f818-4406-99e4-5f5a4fccaf42",
     "section": "MCQs on hyperparathyroidism",
     "question": "Hyperparathyroidism may cause which urinary symptom?",
     "options": {
-      "A": "Polyuria",
+      "A": "Dysuria",
       "B": "Oliguria",
-      "C": "Dysuria",
-      "D": "Hematuria"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "90ebfb92-9562-4cef-8307-c8069abd80eb",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Diabetes mellitus is primarily caused by a deficiency or dysfunction of which hormone?",
-    "options": {
-      "A": "Cortisol",
-      "B": "Insulin",
-      "C": "Thyroxine",
-      "D": "Parathyroid hormone"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "aeff82f8-5851-4025-b143-bb674dcf1688",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The normal fasting blood glucose level is:",
-    "options": {
-      "A": "70-99 mg/dL",
-      "B": "100-150 mg/dL",
-      "C": "Above 200 mg/dL",
-      "D": "151-200 mg/dL"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "316195f0-8564-45ed-81ba-71a6d4dc352b",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Type 1 diabetes is characterized by:",
-    "options": {
-      "A": "Insulin resistance",
-      "B": "Absolute insulin deficiency",
-      "C": "Excess insulin production",
-      "D": "High thyroid hormone levels"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "9fa72c2a-f962-47e6-b2ca-9fd6192793d1",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A common symptom of diabetes mellitus is:",
-    "options": {
-      "A": "Polyuria",
-      "B": "Bone pain",
-      "C": "Weight gain",
-      "D": "Hypocalcemia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c75d9afa-9506-4233-921d-b52cbd97ffc1",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which test is used to diagnose diabetes mellitus?",
-    "options": {
-      "A": "Thyroid function test",
-      "B": "ACTH stimulation test",
-      "C": "Water deprivation test",
-      "D": "Fasting blood glucose test"
+      "C": "Hematuria",
+      "D": "Polyuria"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "11bbd440-1a88-4863-aeff-1afc3fcec9e4",
+    "id": "3928dbf9-2eba-4f16-ae76-9862510d6c67",
     "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which drug is commonly used to treat type 2 diabetes?",
+    "question": "Diabetes mellitus is primarily caused by a deficiency or dysfunction of which hormone?",
     "options": {
-      "A": "Calcitonin",
-      "B": "Metformin",
-      "C": "Levothyroxine",
-      "D": "Propranolol"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "13fed9cd-3ea3-44c8-93df-a1601149c857",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Polydipsia in diabetes mellitus refers to:",
-    "options": {
-      "A": "Excessive hunger",
-      "B": "Excessive sweating",
-      "C": "Excessive thirst",
-      "D": "Excessive urination"
+      "A": "Thyroxine",
+      "B": "Cortisol",
+      "C": "Insulin",
+      "D": "Parathyroid hormone"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "d2e1422d-5595-4c06-9dae-77efaa91e6d5",
+    "id": "71180d04-fd93-4e8a-96d7-ee209da7caa9",
     "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The glucose tolerance test is used to diagnose:",
+    "question": "The normal fasting blood glucose level is:",
     "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Diabetes mellitus",
-      "C": "Addison’s disease",
-      "D": "Hypothyroidism"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "318fec67-67dc-4fd3-a849-ad2e3cf20148",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Insulin is primarily used to treat:",
-    "options": {
-      "A": "Both type 1 and type 2 diabetes",
-      "B": "Hyperthyroidism",
-      "C": "Type 1 diabetes",
-      "D": "Type 2 diabetes only"
+      "A": "70-99 mg/dL",
+      "B": "151-200 mg/dL",
+      "C": "100-150 mg/dL",
+      "D": "Above 200 mg/dL"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "fb4f2142-9012-44bd-9072-c86c7b0a0dbc",
+    "id": "e93324fb-594b-40fc-bad5-fe513fa0b5b5",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Type 1 diabetes is characterized by:",
+    "options": {
+      "A": "Insulin resistance",
+      "B": "Absolute insulin deficiency",
+      "C": "High thyroid hormone levels",
+      "D": "Excess insulin production"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "9247a0a9-1ab8-4fd2-9446-38541cbaebb0",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A common symptom of diabetes mellitus is:",
+    "options": {
+      "A": "Weight gain",
+      "B": "Polyuria",
+      "C": "Bone pain",
+      "D": "Hypocalcemia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "d0f809af-0609-4680-ad51-915b038bd5b8",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which test is used to diagnose diabetes mellitus?",
+    "options": {
+      "A": "Thyroid function test",
+      "B": "Fasting blood glucose test",
+      "C": "Water deprivation test",
+      "D": "ACTH stimulation test"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "77efda7c-7add-44e0-a591-d3a0eebd19e3",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which drug is commonly used to treat type 2 diabetes?",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Propranolol",
+      "C": "Metformin",
+      "D": "Levothyroxine"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "c5168805-084c-407a-b694-e0efa7ac36f7",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Polydipsia in diabetes mellitus refers to:",
+    "options": {
+      "A": "Excessive urination",
+      "B": "Excessive sweating",
+      "C": "Excessive thirst",
+      "D": "Excessive hunger"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "bacaee0f-900f-4a08-8d71-89c78e88a6f3",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "The glucose tolerance test is used to diagnose:",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Diabetes mellitus",
+      "C": "Hyperparathyroidism",
+      "D": "Addison���s disease"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "a2e925c3-6812-4dcd-8a5c-4e116550d684",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Insulin is primarily used to treat:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Type 2 diabetes only",
+      "C": "Both type 1 and type 2 diabetes",
+      "D": "Type 1 diabetes"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "6319782f-f56a-4d79-b2b1-5a4bb280df23",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "Which symptom is NOT typically associated with diabetes mellitus?",
     "options": {
-      "A": "Blurred vision",
-      "B": "Fatigue",
-      "C": "Tetany",
-      "D": "Weight loss"
+      "A": "Tetany",
+      "B": "Weight loss",
+      "C": "Fatigue",
+      "D": "Blurred vision"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "a0c4e1d3-a1f1-473a-95ea-3e760799aebb",
+    "id": "d3d76207-9e97-4355-bc1e-244e6a744770",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "The primary source of energy for cells in diabetes is impaired due to:",
     "options": {
-      "A": "Low calcium levels",
-      "B": "High cortisol levels",
+      "A": "High cortisol levels",
+      "B": "Excess thyroid hormone",
       "C": "Inadequate glucose uptake",
-      "D": "Excess thyroid hormone"
+      "D": "Low calcium levels"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "0cc198d7-3ee5-46ca-9b8d-157b581be151",
+    "id": "48407c68-420c-47dd-aa0c-3f54dc4ad786",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "Which type of diabetes is more common in children and young adults?",
     "options": {
@@ -2848,103 +2848,103 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "fe81581b-3f9b-44ac-b82d-4a58e41d3e2f",
+    "id": "e4278ba0-08ce-4f77-a017-99aa46fe850a",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "A common long-term complication of diabetes mellitus is:",
     "options": {
-      "A": "Neuropathy",
-      "B": "Osteoporosis",
+      "A": "Osteoporosis",
+      "B": "Goiter",
       "C": "Hypercalcemia",
-      "D": "Goiter"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "84641d4a-0eed-48e2-bc10-635ecf7d1057",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which insulin type is given before meals to control post-meal glucose spikes?",
-    "options": {
-      "A": "Rapid-acting insulin",
-      "B": "Long-acting insulin",
-      "C": "Intermediate-acting insulin",
-      "D": "Basal insulin"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "41037161-6ff3-450d-aaa7-9f86e485c034",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The HbA1c test reflects average blood glucose levels over:",
-    "options": {
-      "A": "1 week",
-      "B": "2-3 months",
-      "C": "6 months",
-      "D": "24 hours"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "f23ebc9f-5bd7-4bb2-80e2-a92a1df98c66",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which lifestyle modification is essential for managing type 2 diabetes?",
-    "options": {
-      "A": "Increased sodium intake",
-      "B": "Avoiding all carbohydrates",
-      "C": "High-sugar diet",
-      "D": "Regular exercise"
+      "D": "Neuropathy"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "a2808f0b-1453-436b-8c7e-e80b9a24ca19",
+    "id": "1fe80480-ffd9-465e-a195-6ea9f4cf23a4",
     "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which complication of diabetes affects the kidneys?",
+    "question": "Which insulin type is given before meals to control post-meal glucose spikes?",
     "options": {
-      "A": "Retinopathy",
-      "B": "Dermopathy",
-      "C": "Nephropathy",
-      "D": "Neuropathy"
+      "A": "Basal insulin",
+      "B": "Intermediate-acting insulin",
+      "C": "Long-acting insulin",
+      "D": "Rapid-acting insulin"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "58ab708a-64fc-4815-9669-22795b56b13c",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "The HbA1c test reflects average blood glucose levels over:",
+    "options": {
+      "A": "24 hours",
+      "B": "6 months",
+      "C": "2-3 months",
+      "D": "1 week"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ab8d9ba3-f887-4186-bf03-5b74b8a50246",
+    "id": "eaa4420f-a3a8-4d4e-baac-b9558486d343",
     "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A finger-stick blood glucose test is used to:",
+    "question": "Which lifestyle modification is essential for managing type 2 diabetes?",
     "options": {
-      "A": "Monitor daily glucose levels",
-      "B": "Diagnose thyroid disorders",
-      "C": "Assess adrenal function",
-      "D": "Measure calcium levels"
+      "A": "Regular exercise",
+      "B": "High-sugar diet",
+      "C": "Avoiding all carbohydrates",
+      "D": "Increased sodium intake"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "57067a5c-b90b-4f0a-ad82-8f30c07d740a",
+    "id": "15c2e33c-fc6b-4b0b-a176-8ab8842cf68b",
     "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which drug is used to improve insulin sensitivity in type 2 diabetes?",
+    "question": "Which complication of diabetes affects the kidneys?",
     "options": {
-      "A": "Hydrocortisone",
-      "B": "Propylthiouracil",
-      "C": "Calcitriol",
-      "D": "Metformin"
+      "A": "Retinopathy",
+      "B": "Neuropathy",
+      "C": "Nephropathy",
+      "D": "Dermopathy"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "1b262a33-7a3f-4c63-8d4e-fce15085608c",
+    "id": "8089f827-46ca-4d13-9d29-a0e11f04f351",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A finger-stick blood glucose test is used to:",
+    "options": {
+      "A": "Diagnose thyroid disorders",
+      "B": "Measure calcium levels",
+      "C": "Monitor daily glucose levels",
+      "D": "Assess adrenal function"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "22364d34-bd04-41ab-a560-6219216c849d",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which drug is used to improve insulin sensitivity in type 2 diabetes?",
+    "options": {
+      "A": "Calcitriol",
+      "B": "Hydrocortisone",
+      "C": "Metformin",
+      "D": "Propylthiouracil"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0e6f7eed-93aa-4da9-95e3-00e76b2b91fe",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "A symptom of uncontrolled diabetes mellitus is:",
     "options": {
-      "A": "Cold intolerance",
-      "B": "Bone fractures",
+      "A": "Bone fractures",
+      "B": "Cold intolerance",
       "C": "Weight gain",
       "D": "Increased thirst"
     },
@@ -2952,12 +2952,298 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "e2b9c012-44de-4bc7-a863-ee9577f785ab",
+    "id": "69da2834-d5f6-44ec-92ea-8058d1adb5f7",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "Which test is used to screen for gestational diabetes?",
     "options": {
       "A": "Oral glucose tolerance test",
-      "B": "VMA test",
+      "B": "Sestamibi scan",
+      "C": "Thyroid scan",
+      "D": "VMA test"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "bfd60058-6e85-476c-acf0-feb8324899af",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Insulin is administered via:",
+    "options": {
+      "A": "Nasal spray",
+      "B": "Topical cream",
+      "C": "Oral tablets",
+      "D": "Injections or insulin pump"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "f9fb8b7e-92ef-450b-a5c3-81a690bc7294",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which food should be limited in a diabetic diet?",
+    "options": {
+      "A": "Lean proteins",
+      "B": "Sugary beverages",
+      "C": "Whole grains",
+      "D": "Non-starchy vegetables"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "09d82cdf-c59f-4b1e-9be2-eaf700a6f4aa",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Diabetic ketoacidosis (DKA) is most commonly associated with:",
+    "options": {
+      "A": "Type 1 diabetes",
+      "B": "Hypothyroidism",
+      "C": "Type 2 diabetes",
+      "D": "Gestational diabetes"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "1531a900-e6d4-4a43-a163-232262ebe4a4",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "DKA is caused by a severe deficiency of:",
+    "options": {
+      "A": "Thyroid hormone",
+      "B": "Cortisol",
+      "C": "Parathyroid hormone",
+      "D": "Insulin"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "6311dea1-8f1c-4518-a680-7ec6e48017e9",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A hallmark symptom of DKA is:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypoglycemia",
+      "C": "Hyperkalemia",
+      "D": "Hyperglycemia"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "995844d1-e7b0-48f5-9c62-5f3a913e3df1",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which acid-base imbalance is seen in DKA?",
+    "options": {
+      "A": "Respiratory acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Metabolic acidosis",
+      "D": "Respiratory alkalosis"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "821ca6f9-66fb-4523-966e-533ec88087a7",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A fruity odor on the breath is a sign of:",
+    "options": {
+      "A": "Hypoparathyroidism",
+      "B": "Hyperthyroidism",
+      "C": "Diabetic ketoacidosis",
+      "D": "Addison���s disease"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "948e695e-e749-4625-96a5-a6a879ef6f5d",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "The primary treatment for DKA includes:",
+    "options": {
+      "A": "Antithyroid drugs",
+      "B": "Intravenous insulin and fluids",
+      "C": "Calcium supplements",
+      "D": "Oral glucose"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "2062361e-1875-4a54-af76-e010cf516c55",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which electrolyte is commonly imbalanced in DKA?",
+    "options": {
+      "A": "Magnesium",
+      "B": "Potassium",
+      "C": "Sodium",
+      "D": "Calcium"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "150ea33b-4a4b-4c4a-b21d-3ec231fc0fe9",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Kussmaul respirations in DKA are characterized by:",
+    "options": {
+      "A": "Rapid, deep breathing",
+      "B": "Irregular breathing",
+      "C": "Slow, shallow breathing",
+      "D": "Periodic cessation of breathing"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e363e23e-812c-44a0-a3c9-e34028d6be7d",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "DKA is triggered by:",
+    "options": {
+      "A": "Excess insulin",
+      "B": "Severe insulin deficiency",
+      "C": "High calcium intake",
+      "D": "Low thyroid hormone"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "df3c043f-c691-4702-9690-c2c266e3cf69",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which test confirms DKA?",
+    "options": {
+      "A": "PTH blood test",
+      "B": "Thyroid function test",
+      "C": "Dexamethasone suppression test",
+      "D": "Blood ketone test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "b6410872-7256-450a-b65b-eb8347c37e45",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A common precipitating factor for DKA is:",
+    "options": {
+      "A": "Infection",
+      "B": "Hypoglycemia",
+      "C": "Excess dietary calcium",
+      "D": "Overhydration"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "28bbba7a-90f0-4761-8e2e-009055ffc211",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which symptom is NOT typical of DKA?",
+    "options": {
+      "A": "Abdominal pain",
+      "B": "Dehydration",
+      "C": "Weight gain",
+      "D": "Nausea and vomiting"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0558ec1f-4328-4351-9a2c-638c6e9eec4b",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "The blood pH in DKA is typically:",
+    "options": {
+      "A": "Above 7.45",
+      "B": "Below 7.35",
+      "C": "7.35-7.45",
+      "D": "Above 7.60"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "31df97dc-b6fc-4ca7-b148-1414965550e4",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which fluid is commonly used in DKA treatment?",
+    "options": {
+      "A": "Calcium gluconate",
+      "B": "Distilled water",
+      "C": "Glucose syrup",
+      "D": "Normal saline"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "104d8575-dc6a-476a-badc-1da963c04633",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A nursing priority in DKA management is:",
+    "options": {
+      "A": "Restricting fluids",
+      "B": "Monitoring electrolyte levels",
+      "C": "Encouraging a high-sugar diet",
+      "D": "Limiting insulin administration"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "79009989-875c-4631-8fe6-64abc3805a2a",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "In DKA, blood glucose levels are usually:",
+    "options": {
+      "A": "70-99 mg/dL",
+      "B": "Below 70 mg/dL",
+      "C": "Above 250 mg/dL",
+      "D": "100-150 mg/dL"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "a012fcac-629c-4600-ae03-8a342081d0bb",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which ketone is most elevated in DKA?",
+    "options": {
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Glucose",
+      "D": "Acetone"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "985774bb-5397-466b-9e07-7a6920d0b3b7",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A common sign of DKA is:",
+    "options": {
+      "A": "Muscle spasms",
+      "B": "Cold intolerance",
+      "C": "Bone pain",
+      "D": "Confusion or lethargy"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "525fee9a-5cae-4ae3-a0d2-fe449465a5ea",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "DKA treatment includes correcting:",
+    "options": {
+      "A": "Hyperphosphatemia",
+      "B": "Hypercalcemia",
+      "C": "Dehydration and acidosis",
+      "D": "Hypothyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "8148e1dc-3367-4a09-a601-aca587a2f3b3",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which diagnostic test measures blood pH in DKA?",
+    "options": {
+      "A": "Arterial blood gas (ABG)",
+      "B": "ACTH stimulation test",
       "C": "Sestamibi scan",
       "D": "Thyroid scan"
     },
@@ -2965,555 +3251,269 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "ccd3fa35-10a6-405c-8c71-5e411052eba0",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Insulin is administered via:",
-    "options": {
-      "A": "Injections or insulin pump",
-      "B": "Topical cream",
-      "C": "Oral tablets",
-      "D": "Nasal spray"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5c9faaf8-da57-40fa-b8d2-26bfd56a22ff",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which food should be limited in a diabetic diet?",
-    "options": {
-      "A": "Whole grains",
-      "B": "Lean proteins",
-      "C": "Sugary beverages",
-      "D": "Non-starchy vegetables"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "d6d14955-80d0-4ff9-9963-9fb3cda5edf5",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Diabetic ketoacidosis (DKA) is most commonly associated with:",
-    "options": {
-      "A": "Gestational diabetes",
-      "B": "Type 1 diabetes",
-      "C": "Hypothyroidism",
-      "D": "Type 2 diabetes"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "12889214-6e44-4c34-8963-4def9e10e5b9",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "DKA is caused by a severe deficiency of:",
-    "options": {
-      "A": "Insulin",
-      "B": "Parathyroid hormone",
-      "C": "Thyroid hormone",
-      "D": "Cortisol"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "0c82c3da-567e-4959-ab3c-5588d943c22a",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A hallmark symptom of DKA is:",
-    "options": {
-      "A": "Hyperglycemia",
-      "B": "Hyperkalemia",
-      "C": "Hypocalcemia",
-      "D": "Hypoglycemia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "f6bb94cc-b9cc-4e8c-93f8-3359a24da360",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which acid-base imbalance is seen in DKA?",
-    "options": {
-      "A": "Metabolic alkalosis",
-      "B": "Metabolic acidosis",
-      "C": "Respiratory alkalosis",
-      "D": "Respiratory acidosis"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "d2df7643-8096-437e-9548-0349baef9bd6",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A fruity odor on the breath is a sign of:",
-    "options": {
-      "A": "Addison’s disease",
-      "B": "Hypoparathyroidism",
-      "C": "Diabetic ketoacidosis",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "f1ac336f-df38-421d-bdb3-500cb17ab098",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The primary treatment for DKA includes:",
-    "options": {
-      "A": "Antithyroid drugs",
-      "B": "Oral glucose",
-      "C": "Intravenous insulin and fluids",
-      "D": "Calcium supplements"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b86ca547-e82e-4ab2-ac3a-d27641482e76",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which electrolyte is commonly imbalanced in DKA?",
-    "options": {
-      "A": "Sodium",
-      "B": "Calcium",
-      "C": "Magnesium",
-      "D": "Potassium"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "3c8d7ed0-e1ae-42b7-87c3-b2cca7b745f1",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Kussmaul respirations in DKA are characterized by:",
-    "options": {
-      "A": "Rapid, deep breathing",
-      "B": "Periodic cessation of breathing",
-      "C": "Slow, shallow breathing",
-      "D": "Irregular breathing"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "b54f5af0-8b3f-4ee3-ab9d-8faa6ec310ae",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "DKA is triggered by:",
-    "options": {
-      "A": "Excess insulin",
-      "B": "Low thyroid hormone",
-      "C": "Severe insulin deficiency",
-      "D": "High calcium intake"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "305a155f-7c58-4bbb-8e9c-7e9c30a0fbca",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which test confirms DKA?",
-    "options": {
-      "A": "Blood ketone test",
-      "B": "Dexamethasone suppression test",
-      "C": "PTH blood test",
-      "D": "Thyroid function test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "0eff98ec-2393-4e4a-bac1-8cbc897963a7",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A common precipitating factor for DKA is:",
-    "options": {
-      "A": "Excess dietary calcium",
-      "B": "Overhydration",
-      "C": "Hypoglycemia",
-      "D": "Infection"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "287a42c3-e567-40e2-af6d-b58215572be5",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which symptom is NOT typical of DKA?",
-    "options": {
-      "A": "Nausea and vomiting",
-      "B": "Weight gain",
-      "C": "Abdominal pain",
-      "D": "Dehydration"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "34ca45c4-bcc6-4d9c-9462-f36ac0d66521",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The blood pH in DKA is typically:",
-    "options": {
-      "A": "Below 7.35",
-      "B": "Above 7.60",
-      "C": "Above 7.45",
-      "D": "7.35-7.45"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "cfe1ecf4-a743-44e3-95e9-94ab7277a778",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which fluid is commonly used in DKA treatment?",
-    "options": {
-      "A": "Calcium gluconate",
-      "B": "Glucose syrup",
-      "C": "Normal saline",
-      "D": "Distilled water"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "cdf6b64d-7eb3-4505-b713-2ce92d909b38",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A nursing priority in DKA management is:",
-    "options": {
-      "A": "Encouraging a high-sugar diet",
-      "B": "Restricting fluids",
-      "C": "Monitoring electrolyte levels",
-      "D": "Limiting insulin administration"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "23f4bbc7-9fca-4287-8e02-91e5ec01f276",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "In DKA, blood glucose levels are usually:",
-    "options": {
-      "A": "70-99 mg/dL",
-      "B": "Above 250 mg/dL",
-      "C": "Below 70 mg/dL",
-      "D": "100-150 mg/dL"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "b59b74a4-9174-4a60-b37d-f5dd607f62e4",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which ketone is most elevated in DKA?",
-    "options": {
-      "A": "Acetone",
-      "B": "Calcium",
-      "C": "Glucose",
-      "D": "Sodium"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "4fe26b97-d96e-4ff4-812f-f6b66795f94a",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A common sign of DKA is:",
-    "options": {
-      "A": "Cold intolerance",
-      "B": "Bone pain",
-      "C": "Muscle spasms",
-      "D": "Confusion or lethargy"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "cec1b29f-09df-44ce-b468-db964b1275e8",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "DKA treatment includes correcting:",
-    "options": {
-      "A": "Hyperphosphatemia",
-      "B": "Dehydration and acidosis",
-      "C": "Hypothyroidism",
-      "D": "Hypercalcemia"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "b9104800-16fb-4af2-80f0-681c5c32b837",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which diagnostic test measures blood pH in DKA?",
-    "options": {
-      "A": "Thyroid scan",
-      "B": "Sestamibi scan",
-      "C": "ACTH stimulation test",
-      "D": "Arterial blood gas (ABG)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "4b604b47-d339-4ef3-ae54-353e7a2b69cc",
+    "id": "ab09309b-9ae8-44f1-8ad1-e8262c1aaa9b",
     "section": "MCQ on Diabetes mellitus and DKA",
     "question": "A patient with DKA may present with:",
     "options": {
       "A": "Weight gain",
-      "B": "Bradycardia",
-      "C": "Hypothermia",
-      "D": "Tachycardia"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "a94df145-c90e-48ab-a312-07b254b5015c",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "The anion gap is elevated in:",
-    "options": {
-      "A": "Hypoparathyroidism",
-      "B": "Diabetic ketoacidosis",
-      "C": "Hyperthyroidism",
-      "D": "Addison’s disease"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "16148c49-810f-4f01-82f2-fd666072e75c",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "Which insulin is used in DKA management?",
-    "options": {
-      "A": "Basal insulin",
-      "B": "Regular insulin",
-      "C": "Long-acting insulin",
-      "D": "Rapid-acting insulin analog"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "a44e3542-0dc2-453c-af5e-3bc0b0325467",
-    "section": "MCQ on Diabetes mellitus and DKA",
-    "question": "A key goal in DKA treatment is to:",
-    "options": {
-      "A": "Increase calcium levels",
-      "B": "Increase ketone production",
-      "C": "Correct hyperglycemia and acidosis",
-      "D": "Lower thyroid hormone levels"
+      "B": "Hypothermia",
+      "C": "Tachycardia",
+      "D": "Bradycardia"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "7327a979-e03c-49e3-ac45-e948ab4ca5c8",
+    "id": "2c48caf4-a265-4dd2-8adb-06b906eb3998",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "The anion gap is elevated in:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Diabetic ketoacidosis",
+      "C": "Addison���s disease",
+      "D": "Hypoparathyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "5f252032-b90a-4c94-8116-4c534ab84845",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "Which insulin is used in DKA management?",
+    "options": {
+      "A": "Rapid-acting insulin analog",
+      "B": "Basal insulin",
+      "C": "Regular insulin",
+      "D": "Long-acting insulin"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "d171e12c-8f4a-4435-ad48-2e8282f4dc96",
+    "section": "MCQ on Diabetes mellitus and DKA",
+    "question": "A key goal in DKA treatment is to:",
+    "options": {
+      "A": "Increase ketone production",
+      "B": "Increase calcium levels",
+      "C": "Lower thyroid hormone levels",
+      "D": "Correct hyperglycemia and acidosis"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "4b15fc59-83e0-4624-93a9-cc9cf15fc07e",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "A patient with DKA should be monitored for:",
     "options": {
       "A": "Hypokalemia during treatment",
-      "B": "Hypercalcemia",
+      "B": "Weight gain",
       "C": "Hypothyroidism",
-      "D": "Weight gain"
+      "D": "Hypercalcemia"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "88eb16d8-1a1c-4e0a-bfff-ea124bbc6687",
+    "id": "018deab0-e9eb-4c9c-a96d-bec5851df4bc",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Cushing’s syndrome is caused by an excess of which hormone?",
+    "question": "Cushing���s syndrome is caused by an excess of which hormone?",
     "options": {
-      "A": "Thyroxine",
-      "B": "Insulin",
-      "C": "Parathyroid hormone",
-      "D": "Cortisol"
+      "A": "Cortisol",
+      "B": "Thyroxine",
+      "C": "Insulin",
+      "D": "Parathyroid hormone"
     },
-    "correct": "D",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "af5cfc09-aeb3-43db-96fc-f728afdb355d",
+    "id": "31bc0c9b-dcf9-4c63-8791-fc00499361df",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A common physical sign of Cushing’s syndrome is:",
+    "question": "A common physical sign of Cushing���s syndrome is:",
     "options": {
-      "A": "Moon face",
-      "B": "Bronze skin pigmentation",
+      "A": "Exophthalmos",
+      "B": "Moon face",
       "C": "Tetany",
-      "D": "Exophthalmos"
+      "D": "Bronze skin pigmentation"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "0349d076-e989-47b6-bd55-22ac448fdf76",
+    "id": "65f228c5-dc7c-4201-ae51-a1e5b504af6e",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "Buffalo hump is associated with:",
     "options": {
       "A": "Diabetes insipidus",
-      "B": "Cushing’s syndrome",
-      "C": "Addison’s disease",
+      "B": "Addison���s disease",
+      "C": "Cushing���s syndrome",
       "D": "Hypothyroidism"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "223d342b-49cd-4074-9d7e-e9703262193d",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which test is used to diagnose Cushing’s syndrome?",
-    "options": {
-      "A": "Water deprivation test",
-      "B": "Thyroid function test",
-      "C": "Dexamethasone suppression test",
-      "D": "VMA test"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ef0a008f-0d7c-4a66-b657-2fdd57a832d3",
+    "id": "4966c8a2-449d-41cd-8fbf-6f66d622ecf2",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A common symptom of Cushing’s syndrome is:",
+    "question": "Which test is used to diagnose Cushing���s syndrome?",
     "options": {
-      "A": "Weight gain",
-      "B": "Polyuria",
-      "C": "Weight loss",
-      "D": "Cold intolerance"
+      "A": "VMA test",
+      "B": "Thyroid function test",
+      "C": "Dexamethasone suppression test",
+      "D": "Water deprivation test"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "9564571d-bf97-41a5-b028-a4037298ae84",
+    "id": "26a28107-8464-4814-8bd5-7254cba94157",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which surgery is performed to remove an adrenal tumor causing Cushing’s syndrome?",
+    "question": "A common symptom of Cushing���s syndrome is:",
     "options": {
-      "A": "Thyroidectomy",
-      "B": "Adrenalectomy",
-      "C": "Parathyroidectomy",
-      "D": "Hypophysectomy"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "63b659ec-dd80-4d6b-8af0-204aaf3741c3",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Hirsutism in Cushing’s syndrome is due to excess:",
-    "options": {
-      "A": "Parathyroid hormone",
-      "B": "Androgens",
-      "C": "Insulin",
-      "D": "Thyroid hormone"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "11459fbe-16d0-4111-b857-2de0cb6acfbd",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which drug is used to manage cortisol excess in Cushing’s syndrome?",
-    "options": {
-      "A": "Levothyroxine",
-      "B": "Insulin",
-      "C": "Calcitonin",
-      "D": "Ketoconazole"
+      "A": "Polyuria",
+      "B": "Weight loss",
+      "C": "Cold intolerance",
+      "D": "Weight gain"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f13ef210-2a04-4ddd-b3fc-3a9458d21984",
+    "id": "c794b241-82ae-4cc9-8dd0-df5ae042eb8f",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A long-term complication of Cushing’s syndrome is:",
+    "question": "Which surgery is performed to remove an adrenal tumor causing Cushing���s syndrome?",
     "options": {
-      "A": "Hypoglycemia",
-      "B": "Kidney stones",
-      "C": "Osteoporosis",
-      "D": "Tetany"
+      "A": "Parathyroidectomy",
+      "B": "Hypophysectomy",
+      "C": "Adrenalectomy",
+      "D": "Thyroidectomy"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "8dea264e-e2cb-4a39-971f-946a87694ed1",
+    "id": "5c97acd3-866f-464d-91aa-8a999d9268e2",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "The normal range for serum cortisol (morning) is approximately:",
+    "question": "Hirsutism in Cushing���s syndrome is due to excess:",
     "options": {
-      "A": "50-100 µg/dL",
-      "B": "5-25 µg/dL",
-      "C": "100-150 µg/dL",
-      "D": "Below 5 µg/dL"
+      "A": "Insulin",
+      "B": "Thyroid hormone",
+      "C": "Parathyroid hormone",
+      "D": "Androgens"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "dffb1f21-44be-460c-beab-3522eba073f2",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which drug is used to manage cortisol excess in Cushing���s syndrome?",
+    "options": {
+      "A": "Insulin",
+      "B": "Ketoconazole",
+      "C": "Levothyroxine",
+      "D": "Calcitonin"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "3ee5cfa9-7cac-455f-bcd2-4583a9256493",
+    "id": "2aa0b665-6b31-41e8-b1fc-8dae07a107de",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Striae (stretch marks) are commonly seen in:",
+    "question": "A long-term complication of Cushing���s syndrome is:",
     "options": {
-      "A": "Graves’ disease",
-      "B": "Addison’s disease",
-      "C": "Cushing’s syndrome",
-      "D": "Hypoparathyroidism"
+      "A": "Kidney stones",
+      "B": "Tetany",
+      "C": "Hypoglycemia",
+      "D": "Osteoporosis"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "180dfa2e-058e-47c5-919e-e286f80df686",
+    "id": "d3f88054-b63f-4321-8a06-32b036e7597e",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "The normal range for serum cortisol (morning) is approximately:",
+    "options": {
+      "A": "5-25 ��g/dL",
+      "B": "100-150 ��g/dL",
+      "C": "50-100 ��g/dL",
+      "D": "Below 5 ��g/dL"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "8b92300e-7198-491f-89ee-b43a4687799d",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Striae (stretch marks) are commonly seen in:",
+    "options": {
+      "A": "Cushing���s syndrome",
+      "B": "Graves��� disease",
+      "C": "Addison���s disease",
+      "D": "Hypoparathyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "60c366be-cfad-4487-9302-2523dccaeab6",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "Which diagnostic test measures cortisol levels in urine?",
     "options": {
-      "A": "Thyroid scan",
-      "B": "Glucose tolerance test",
-      "C": "Sestamibi scan",
+      "A": "Glucose tolerance test",
+      "B": "Sestamibi scan",
+      "C": "Thyroid scan",
       "D": "24-hour urinary free cortisol test"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "78aace76-0f06-4a4d-bde2-6c5f082f78e1",
+    "id": "5fc959c1-ea05-414e-9021-0b602aadf236",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A nursing intervention for Cushing’s syndrome includes:",
+    "question": "A nursing intervention for Cushing���s syndrome includes:",
     "options": {
       "A": "Limiting physical activity",
-      "B": "Restricting calcium intake",
-      "C": "Monitoring for signs of infection",
+      "B": "Monitoring for signs of infection",
+      "C": "Restricting calcium intake",
       "D": "Encouraging a high-sodium diet"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "9ec4363b-067a-4ff4-8248-54508c910c22",
+    "id": "bdb1f1e2-f54c-49c4-bbbf-9be62572e9ff",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Cushing’s syndrome can cause which psychological symptom?",
+    "question": "Cushing���s syndrome can cause which psychological symptom?",
     "options": {
       "A": "Depression or mood swings",
-      "B": "Hyperactivity",
-      "C": "Cold intolerance",
-      "D": "Euphoria"
+      "B": "Euphoria",
+      "C": "Hyperactivity",
+      "D": "Cold intolerance"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "4f1a0023-de5a-4600-b4eb-855314d9fbf4",
+    "id": "618748d8-47d3-48c5-97a1-4c68b52bbbfa",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which imaging test is used to locate adrenal tumors in Cushing’s syndrome?",
+    "question": "Which imaging test is used to locate adrenal tumors in Cushing���s syndrome?",
     "options": {
-      "A": "Bone scan",
-      "B": "Chest X-ray",
-      "C": "CT scan of the abdomen",
-      "D": "Thyroid ultrasound"
+      "A": "CT scan of the abdomen",
+      "B": "Bone scan",
+      "C": "Thyroid ultrasound",
+      "D": "Chest X-ray"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "c7793995-f7be-4da6-af20-a03c0f62117f",
+    "id": "23761f75-c336-42a1-9fdf-2e4cea0abdd4",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Hyperglycemia in Cushing’s syndrome is due to:",
+    "question": "Hyperglycemia in Cushing���s syndrome is due to:",
     "options": {
       "A": "Low thyroid hormone",
       "B": "Insulin deficiency",
@@ -3524,191 +3524,191 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "6dd526ee-eeb2-40be-9631-3003fc673ecf",
+    "id": "956a5617-b004-44ca-b1e5-8a52f6bfed68",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which symptom is NOT typical of Cushing’s syndrome?",
+    "question": "Which symptom is NOT typical of Cushing���s syndrome?",
     "options": {
-      "A": "Muscle weakness",
-      "B": "Hypertension",
-      "C": "Weight gain",
-      "D": "Bronze skin pigmentation"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "ff38198a-d2be-442b-8546-54b42480a940",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Metyrapone is a drug used in Cushing’s syndrome to:",
-    "options": {
-      "A": "Increase cortisol production",
-      "B": "Inhibit cortisol production",
-      "C": "Increase calcium levels",
-      "D": "Treat hypothyroidism"
+      "A": "Weight gain",
+      "B": "Bronze skin pigmentation",
+      "C": "Hypertension",
+      "D": "Muscle weakness"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "deebcdb7-0418-47a5-92b9-e0afd3260065",
+    "id": "9e541d39-6291-4d20-b8c5-279e339b2411",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Cushing’s syndrome may result from:",
+    "question": "Metyrapone is a drug used in Cushing���s syndrome to:",
     "options": {
-      "A": "Long-term glucocorticoid use",
-      "B": "Iodine deficiency",
-      "C": "Autoimmune adrenal destruction",
-      "D": "Parathyroid adenoma"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "d168c1d5-035e-4a8e-a633-6aa938a071e8",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which electrolyte imbalance is common in Cushing’s syndrome?",
-    "options": {
-      "A": "Hyponatremia",
-      "B": "Hyperphosphatemia",
-      "C": "Hypercalcemia",
-      "D": "Hypokalemia"
+      "A": "Increase calcium levels",
+      "B": "Increase cortisol production",
+      "C": "Treat hypothyroidism",
+      "D": "Inhibit cortisol production"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "336829c7-2d0b-4f8b-b027-dceabe7845f7",
+    "id": "fd321a21-8d73-49f2-bbdd-9c0523804686",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A patient with Cushing’s syndrome may have:",
+    "question": "Cushing���s syndrome may result from:",
     "options": {
-      "A": "Thin, fragile skin",
+      "A": "Iodine deficiency",
+      "B": "Autoimmune adrenal destruction",
+      "C": "Long-term glucocorticoid use",
+      "D": "Parathyroid adenoma"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "6a152816-b8d9-4dd1-b264-dd5db3217b49",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which electrolyte imbalance is common in Cushing���s syndrome?",
+    "options": {
+      "A": "Hypokalemia",
+      "B": "Hyperphosphatemia",
+      "C": "Hypercalcemia",
+      "D": "Hyponatremia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "bf6beda8-e44a-49c8-a3c0-9710181dcd5f",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "A patient with Cushing���s syndrome may have:",
+    "options": {
+      "A": "Weight loss",
       "B": "Thickened skin",
       "C": "Cold intolerance",
-      "D": "Weight loss"
+      "D": "Thin, fragile skin"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "69e91cd3-6f19-46a8-90e1-58331fbb26bc",
+    "id": "3e76c74b-2afe-4784-a53c-0a5a9110db57",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which test evaluates pituitary function in Cushing’s syndrome?",
+    "question": "Which test evaluates pituitary function in Cushing���s syndrome?",
     "options": {
-      "A": "Dexamethasone suppression test",
-      "B": "Glucose tolerance test",
-      "C": "Thyroid function test",
-      "D": "ACTH stimulation test"
+      "A": "ACTH stimulation test",
+      "B": "Thyroid function test",
+      "C": "Dexamethasone suppression test",
+      "D": "Glucose tolerance test"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "9990709e-f5ff-45f7-88a9-9d76e0c6e221",
+    "id": "9ecbcdec-3e14-456e-9584-e7f75287db8d",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A dietary recommendation for Cushing’s syndrome includes:",
+    "question": "A dietary recommendation for Cushing���s syndrome includes:",
     "options": {
-      "A": "Low-potassium foods",
-      "B": "High-sodium foods",
-      "C": "High-sugar foods",
+      "A": "High-sugar foods",
+      "B": "Low-potassium foods",
+      "C": "High-sodium foods",
       "D": "Balanced diet with controlled carbohydrates"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "d3d07b22-1300-4331-85d9-9125ba580725",
+    "id": "acf0bb07-f411-4a19-b438-58738879aa90",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Hypophysectomy may be performed in Cushing’s syndrome to remove:",
+    "question": "Hypophysectomy may be performed in Cushing���s syndrome to remove:",
     "options": {
-      "A": "Pituitary tumor",
-      "B": "Thyroid gland",
-      "C": "Parathyroid gland",
-      "D": "Adrenal gland"
+      "A": "Parathyroid gland",
+      "B": "Adrenal gland",
+      "C": "Thyroid gland",
+      "D": "Pituitary tumor"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "d84872c7-907c-4323-abce-b3199a9c69b8",
+    "id": "a4ff3c09-dd64-4cca-ba46-523f904f7cec",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A hallmark sign of Addison’s disease is:",
+    "question": "A hallmark sign of Addison���s disease is:",
     "options": {
-      "A": "Moon face",
-      "B": "Exophthalmos",
+      "A": "Exophthalmos",
+      "B": "Buffalo hump",
       "C": "Bronze skin pigmentation",
-      "D": "Buffalo hump"
+      "D": "Moon face"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "74b0398e-ce9e-4c89-a321-4bf959a15532",
+    "id": "ad55d72b-2042-4c38-8a85-916d140cd78d",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Addison’s disease is most commonly caused by:",
+    "question": "Addison���s disease is most commonly caused by:",
     "options": {
-      "A": "Adrenal tumor",
-      "B": "Iodine deficiency",
-      "C": "Parathyroid adenoma",
+      "A": "Iodine deficiency",
+      "B": "Parathyroid adenoma",
+      "C": "Adrenal tumor",
       "D": "Autoimmune destruction of adrenal glands"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f14be38b-f7a5-4c39-849f-53085a02b917",
+    "id": "dc33dcf2-a0d6-4293-8a4d-ddcc17fa7f26",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which test is used to diagnose Addison’s disease?",
+    "question": "Which test is used to diagnose Addison���s disease?",
     "options": {
       "A": "ACTH stimulation test",
-      "B": "Thyroid function test",
-      "C": "Dexamethasone suppression test",
+      "B": "Dexamethasone suppression test",
+      "C": "Thyroid function test",
       "D": "Water deprivation test"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "d8414546-6ead-452f-b489-80fcba9902f4",
+    "id": "375e4e4b-c6ed-420f-b96b-329ecbfb8442",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A common symptom of Addison’s disease is:",
+    "question": "A common symptom of Addison���s disease is:",
     "options": {
-      "A": "Polyuria",
-      "B": "Weight loss",
-      "C": "Weight gain",
-      "D": "Bone pain"
+      "A": "Weight gain",
+      "B": "Polyuria",
+      "C": "Bone pain",
+      "D": "Weight loss"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "49af2e5b-4cf2-4a49-8654-4dc96fb8b36e",
+    "id": "9c890707-051d-4bb7-ba47-1a0772a3a229",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which drug is used to replace cortisol in Addison’s disease?",
+    "question": "Which drug is used to replace cortisol in Addison���s disease?",
     "options": {
       "A": "Calcitonin",
-      "B": "Hydrocortisone",
+      "B": "Levothyroxine",
       "C": "Metformin",
-      "D": "Levothyroxine"
+      "D": "Hydrocortisone"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "fb292c2b-abab-4b44-8bba-f67b240c0978",
+    "id": "f2cb0110-d9a0-4d31-8924-d35611cfd418",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "Addisonian crisis is a life-threatening complication of:",
     "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Addison’s disease",
-      "C": "Diabetes insipidus",
-      "D": "Cushing’s syndrome"
+      "A": "Diabetes insipidus",
+      "B": "Addison���s disease",
+      "C": "Cushing���s syndrome",
+      "D": "Hyperparathyroidism"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "927cb50e-a415-4ad3-94ba-f2d54a65013f",
+    "id": "0605a226-a0d2-4153-9894-991b6c4aee70",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which electrolyte imbalance is common in Addison’s disease?",
+    "question": "Which electrolyte imbalance is common in Addison���s disease?",
     "options": {
       "A": "Hypokalemia",
       "B": "Hypercalcemia",
@@ -3719,345 +3719,345 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "44fcbb82-9326-4090-afad-c1ab54ddf352",
+    "id": "db1736bb-db5d-401d-b29a-6a4a1dcad65b",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Fludrocortisone is used in Addison’s disease to replace:",
+    "question": "Fludrocortisone is used in Addison���s disease to replace:",
     "options": {
-      "A": "Cortisol",
+      "A": "Insulin",
       "B": "Thyroxine",
-      "C": "Insulin",
-      "D": "Aldosterone"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "a7a22fb1-7862-4a4d-8cd4-865f38a1ef90",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A symptom of Addison’s disease is:",
-    "options": {
-      "A": "Hypertension",
-      "B": "Weight gain",
-      "C": "Hirsutism",
-      "D": "Hypotension"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "201c8db4-0974-4740-a0e6-0362c1449f71",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which test measures adrenal function in Addison’s disease?",
-    "options": {
-      "A": "Serum cortisol test",
-      "B": "Sestamibi scan",
-      "C": "Glucose tolerance test",
-      "D": "Thyroid scan"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "f35ae652-a6e0-4e90-8eb1-7472b5f0b059",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A nursing intervention for Addison’s disease includes:",
-    "options": {
-      "A": "Encouraging a low-sodium diet",
-      "B": "Limiting glucocorticoid use",
-      "C": "Monitoring for signs of dehydration",
-      "D": "Restricting fluid intake"
+      "C": "Aldosterone",
+      "D": "Cortisol"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ee42be69-38fc-4741-a19d-7c7fa1ba84f5",
+    "id": "ab19318c-59b4-43ed-9a8d-63baf64de5c4",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "A symptom of Addison���s disease is:",
+    "options": {
+      "A": "Hypotension",
+      "B": "Hirsutism",
+      "C": "Weight gain",
+      "D": "Hypertension"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "8bc9052e-115c-42fb-9a87-512275095ece",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which test measures adrenal function in Addison���s disease?",
+    "options": {
+      "A": "Serum cortisol test",
+      "B": "Thyroid scan",
+      "C": "Glucose tolerance test",
+      "D": "Sestamibi scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "0c64873f-f76d-4f4e-bdfc-094835d60478",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "A nursing intervention for Addison���s disease includes:",
+    "options": {
+      "A": "Limiting glucocorticoid use",
+      "B": "Encouraging a low-sodium diet",
+      "C": "Restricting fluid intake",
+      "D": "Monitoring for signs of dehydration"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "8e49f443-04f5-46a4-aea0-c5c86d8bba30",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "Addisonian crisis is triggered by:",
     "options": {
-      "A": "Overhydration",
+      "A": "High sodium intake",
       "B": "Acute stress or infection",
-      "C": "Excess cortisol",
-      "D": "High sodium intake"
+      "C": "Overhydration",
+      "D": "Excess cortisol"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "9aff9b25-4c65-47d4-9299-78c3c86a9d91",
+    "id": "223012db-61cc-471b-9f17-f775a8d2f146",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which symptom is NOT typical of Addison’s disease?",
+    "question": "Which symptom is NOT typical of Addison���s disease?",
     "options": {
       "A": "Muscle weakness",
       "B": "Moon face",
-      "C": "Salt craving",
-      "D": "Fatigue"
+      "C": "Fatigue",
+      "D": "Salt craving"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "cf956185-cc09-461e-a4e0-3f28f1eeae5e",
+    "id": "dd069f57-d53e-46c0-b35d-7fd88e73be1f",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "The normal range for serum sodium is:",
     "options": {
-      "A": "135-145 mEq/L",
+      "A": "Below 100 mEq/L",
       "B": "100-120 mEq/L",
       "C": "150-160 mEq/L",
-      "D": "Below 100 mEq/L"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "a9621e72-0457-424e-830b-ad94f65178b3",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "In Addison’s disease, blood glucose levels may be:",
-    "options": {
-      "A": "Normal",
-      "B": "Unpredictable",
-      "C": "Low",
-      "D": "High"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a6ad621e-6a56-45a0-985f-93d7e236316f",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which imaging test may be used to evaluate adrenal glands in Addison’s disease?",
-    "options": {
-      "A": "Thyroid ultrasound",
-      "B": "DEXA scan",
-      "C": "CT scan of the abdomen",
-      "D": "Chest X-ray"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a379c574-d72d-45e7-9dcc-5542c0e7c2af",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "A patient with Addison’s disease may experience:",
-    "options": {
-      "A": "Weight gain",
-      "B": "Osteoporosis",
-      "C": "Hyperpigmentation",
-      "D": "Kidney stones"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "39ccc972-d495-4f51-9480-3c7505c564c0",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Treatment of Addisonian crisis includes:",
-    "options": {
-      "A": "Calcium supplements",
-      "B": "Intravenous fluids and glucocorticoids",
-      "C": "Oral glucose",
-      "D": "Antithyroid drugs"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "c3600ed0-066f-4350-8e9c-92d0b8906a40",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which dietary recommendation is appropriate for Addison’s disease?",
-    "options": {
-      "A": "High-sodium diet",
-      "B": "High-sugar diet",
-      "C": "Low-potassium diet",
-      "D": "Low-sodium diet"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5b0873b9-2be2-4f41-8281-20853322201c",
-    "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Addison’s disease can cause which psychological symptom?",
-    "options": {
-      "A": "Euphoria",
-      "B": "Hyperactivity",
-      "C": "Mania",
-      "D": "Depression"
+      "D": "135-145 mEq/L"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "4a889bc6-5021-44ce-b2a8-9ed6f6530ce5",
+    "id": "e606a5a0-1004-4ddd-b923-46268e8fc35a",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which test confirms low cortisol levels in Addison’s disease?",
+    "question": "In Addison���s disease, blood glucose levels may be:",
     "options": {
-      "A": "24-hour urinary cortisol test",
-      "B": "Dexamethasone suppression test",
-      "C": "Thyroid function test",
+      "A": "Unpredictable",
+      "B": "Low",
+      "C": "Normal",
+      "D": "High"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "a08f0f7f-d65b-4d38-97a5-437618451911",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which imaging test may be used to evaluate adrenal glands in Addison���s disease?",
+    "options": {
+      "A": "Thyroid ultrasound",
+      "B": "Chest X-ray",
+      "C": "CT scan of the abdomen",
+      "D": "DEXA scan"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "90af6f08-279d-46af-9aae-1fd613019934",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "A patient with Addison���s disease may experience:",
+    "options": {
+      "A": "Weight gain",
+      "B": "Kidney stones",
+      "C": "Hyperpigmentation",
+      "D": "Osteoporosis"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "bcafbfea-a3f3-4ef6-8194-92a8cb585bd9",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Treatment of Addisonian crisis includes:",
+    "options": {
+      "A": "Oral glucose",
+      "B": "Antithyroid drugs",
+      "C": "Intravenous fluids and glucocorticoids",
+      "D": "Calcium supplements"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "3a24d259-692c-41ba-99e5-51d0017e9274",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which dietary recommendation is appropriate for Addison���s disease?",
+    "options": {
+      "A": "High-sugar diet",
+      "B": "High-sodium diet",
+      "C": "Low-potassium diet",
+      "D": "Low-sodium diet"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "c58bd34d-7228-4ea6-87fb-ecc6ed45d935",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Addison���s disease can cause which psychological symptom?",
+    "options": {
+      "A": "Euphoria",
+      "B": "Depression",
+      "C": "Hyperactivity",
+      "D": "Mania"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "c306f535-4cbd-445c-9121-1baf35034c6d",
+    "section": "MCQ on Cushing syndrome and Addison disease",
+    "question": "Which test confirms low cortisol levels in Addison���s disease?",
+    "options": {
+      "A": "Thyroid function test",
+      "B": "24-hour urinary cortisol test",
+      "C": "Dexamethasone suppression test",
       "D": "ACTH stimulation test"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "2976cfbe-2181-4549-9c0c-2101d102e660",
+    "id": "260caf71-992a-40a5-9827-4554c78dc1de",
     "section": "MCQ on Cushing syndrome and Addison disease",
     "question": "A common trigger for Addisonian crisis is:",
     "options": {
       "A": "Sudden withdrawal of steroids",
-      "B": "Excess iodine",
-      "C": "High calcium intake",
-      "D": "Overuse of glucocorticoids"
+      "B": "Overuse of glucocorticoids",
+      "C": "Excess iodine",
+      "D": "High calcium intake"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "525ad8b7-7b62-477e-b4a9-0474e9d64228",
+    "id": "b70a8edf-eca9-4dd8-bee7-24229ace0672",
     "section": "MCQ on Cushing syndrome and Addison disease",
-    "question": "Which symptom is specific to Addison’s disease?",
+    "question": "Which symptom is specific to Addison���s disease?",
     "options": {
-      "A": "Salt craving",
+      "A": "Moon face",
       "B": "Exophthalmos",
-      "C": "Moon face",
+      "C": "Salt craving",
       "D": "Buffalo hump"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "2d5b3b57-0094-4956-8ae5-a0ae86b8d334",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A long-term complication of untreated Addison’s disease is:",
-    "options": {
-      "A": "Kidney stones",
-      "B": "Osteoporosis",
-      "C": "Hypovolemic shock",
-      "D": "Hyperglycemia"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bb202f21-ce84-4a1f-ae1c-1ef9048958d9",
+    "id": "1d408e60-bc6a-4c34-92ef-1caf8968d7ac",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Diabetes insipidus is caused by a deficiency of which hormone?",
+    "question": "A long-term complication of untreated Addison���s disease is:",
     "options": {
-      "A": "Cortisol",
-      "B": "Insulin",
-      "C": "Thyroxine",
-      "D": "Antidiuretic hormone (ADH)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "e94aff2c-d52c-41f3-9243-2cc70d4ae75d",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "The primary symptom of diabetes insipidus is:",
-    "options": {
-      "A": "Polyuria",
-      "B": "Hypoglycemia",
-      "C": "Weight gain",
-      "D": "Bone pain"
+      "A": "Hypovolemic shock",
+      "B": "Kidney stones",
+      "C": "Hyperglycemia",
+      "D": "Osteoporosis"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "031c0203-437f-475e-a98f-063d1b349c76",
+    "id": "ce41d322-0042-4d85-8e09-b3dc93181e57",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Diabetes insipidus is caused by a deficiency of which hormone?",
+    "options": {
+      "A": "Antidiuretic hormone (ADH)",
+      "B": "Thyroxine",
+      "C": "Cortisol",
+      "D": "Insulin"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "fb8e4214-5b99-47ca-80cb-48ab2ceda72b",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "The primary symptom of diabetes insipidus is:",
+    "options": {
+      "A": "Bone pain",
+      "B": "Polyuria",
+      "C": "Hypoglycemia",
+      "D": "Weight gain"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cfb2719a-fe05-433b-b9f8-8d0e1b9b2bd2",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which type of diabetes insipidus is caused by a problem in the pituitary gland?",
     "options": {
-      "A": "Secondary",
-      "B": "Gestational",
-      "C": "Nephrogenic",
+      "A": "Nephrogenic",
+      "B": "Secondary",
+      "C": "Gestational",
       "D": "Central"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "84679349-923f-4e90-b590-f2d530126c87",
+    "id": "87de65c4-2c59-40c9-b9a7-0ad998d722ef",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Nephrogenic diabetes insipidus is due to:",
     "options": {
-      "A": "High cortisol levels",
-      "B": "Kidney resistance to ADH",
+      "A": "Kidney resistance to ADH",
+      "B": "High cortisol levels",
       "C": "Lack of ADH production",
       "D": "Excess ADH secretion"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "32ef4ac2-eb3e-46dd-92d7-1202907cc7ca",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A hallmark symptom of diabetes insipidus is:",
-    "options": {
-      "A": "Polydipsia",
-      "B": "Tetany",
-      "C": "Weight loss",
-      "D": "Hyperglycemia"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "3f05184f-d6a0-4d92-866d-8c9c22d976a5",
+    "id": "77cd28d0-bee9-409c-9271-540d59cd2e50",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "The water deprivation test is used to diagnose:",
+    "question": "A hallmark symptom of diabetes insipidus is:",
     "options": {
-      "A": "Hyperparathyroidism",
-      "B": "Cushing’s syndrome",
-      "C": "Diabetes mellitus",
-      "D": "Diabetes insipidus"
+      "A": "Hyperglycemia",
+      "B": "Polydipsia",
+      "C": "Tetany",
+      "D": "Weight loss"
     },
-    "correct": "D",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "766a9382-3ab8-4f46-a2fb-2744c1ad8d99",
+    "id": "293132ca-8020-417d-be8f-0cdcf86596ba",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "The water deprivation test is used to diagnose:",
+    "options": {
+      "A": "Cushing���s syndrome",
+      "B": "Hyperparathyroidism",
+      "C": "Diabetes insipidus",
+      "D": "Diabetes mellitus"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "76e26fa8-a0db-46d0-a1bd-1e3f170cf4fd",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which drug is used to treat central diabetes insipidus?",
     "options": {
       "A": "Desmopressin",
-      "B": "Levothyroxine",
-      "C": "Metformin",
+      "B": "Metformin",
+      "C": "Levothyroxine",
       "D": "Calcitonin"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "160d693e-7bfa-49a6-8048-f7a2c2499f60",
+    "id": "95e6054d-de9e-4978-a036-765705a8b562",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "In diabetes insipidus, serum sodium levels are typically:",
     "options": {
       "A": "Unpredictable",
-      "B": "High",
-      "C": "Normal",
-      "D": "Low"
+      "B": "Low",
+      "C": "High",
+      "D": "Normal"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ce0059ec-5b03-4732-b538-1a0d769727b7",
+    "id": "3f002c81-21ba-4201-aa58-89d61b61b329",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A common cause of central diabetes insipidus is:",
     "options": {
-      "A": "Head trauma or pituitary surgery",
-      "B": "Iodine deficiency",
-      "C": "Autoimmune adrenal destruction",
-      "D": "Kidney failure"
+      "A": "Iodine deficiency",
+      "B": "Autoimmune adrenal destruction",
+      "C": "Kidney failure",
+      "D": "Head trauma or pituitary surgery"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "eecd6156-1f4d-45dd-af9c-f2160cc410f0",
+    "id": "81892800-a3ba-49ad-8b07-e22e6607a86b",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which symptom is NOT typical of diabetes insipidus?",
     "options": {
@@ -4070,228 +4070,228 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "2cd9596e-f921-4ac7-850a-15b3f4b174b8",
+    "id": "3e295f87-1c93-4cb6-810d-40320f5325bf",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "The specific gravity of urine in diabetes insipidus is:",
     "options": {
-      "A": "Normal",
-      "B": "Low",
-      "C": "Variable",
-      "D": "High"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "2fa646a5-5cb8-4103-9e6e-6733f813210e",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which diagnostic test measures urine concentration in diabetes insipidus?",
-    "options": {
-      "A": "Urine osmolality test",
-      "B": "Dexamethasone suppression test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid function test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "9c245a85-720e-418a-b9de-4ca141c2e69c",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A nursing intervention for diabetes insipidus includes:",
-    "options": {
-      "A": "Limiting physical activity",
-      "B": "Encouraging a high-sodium diet",
-      "C": "Restricting fluid intake",
-      "D": "Monitoring for dehydration"
+      "A": "High",
+      "B": "Variable",
+      "C": "Normal",
+      "D": "Low"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "5c144a90-f82b-42b2-9756-f06a8479cd00",
+    "id": "3ca3644f-5992-4056-a1f3-eb3e5ce77ee9",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Desmopressin is administered via:",
+    "question": "Which diagnostic test measures urine concentration in diabetes insipidus?",
     "options": {
-      "A": "Intravenous infusion only",
-      "B": "Inhalation",
-      "C": "Oral tablets or nasal spray",
-      "D": "Topical cream"
+      "A": "ACTH stimulation test",
+      "B": "Dexamethasone suppression test",
+      "C": "Thyroid function test",
+      "D": "Urine osmolality test"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "d6f6b138-ea58-4c28-8529-92bf7e1ef790",
+    "id": "73edc1a4-ca54-47b3-9327-68458ac405f6",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A nursing intervention for diabetes insipidus includes:",
+    "options": {
+      "A": "Monitoring for dehydration",
+      "B": "Limiting physical activity",
+      "C": "Restricting fluid intake",
+      "D": "Encouraging a high-sodium diet"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "7f2c9caf-b59c-435b-acae-77770f7551b6",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Desmopressin is administered via:",
+    "options": {
+      "A": "Inhalation",
+      "B": "Oral tablets or nasal spray",
+      "C": "Topical cream",
+      "D": "Intravenous infusion only"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "b0fae8e0-7247-431b-8d40-dcf2f8378ca1",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Nephrogenic diabetes insipidus may be treated with:",
     "options": {
-      "A": "Levothyroxine",
-      "B": "Calcitriol",
-      "C": "Insulin",
+      "A": "Calcitriol",
+      "B": "Insulin",
+      "C": "Levothyroxine",
       "D": "Thiazide diuretics"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "7fbd1ce9-0ee7-43c1-89ef-fcccf2067b0f",
+    "id": "7d97f985-041b-4c7c-b4bd-31939f663c00",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A complication of untreated diabetes insipidus is:",
     "options": {
-      "A": "Hyperglycemia",
-      "B": "Osteoporosis",
-      "C": "Tetany",
-      "D": "Hypovolemic shock"
+      "A": "Tetany",
+      "B": "Hyperglycemia",
+      "C": "Hypovolemic shock",
+      "D": "Osteoporosis"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bf7f044d-6463-4b29-9255-bce23cfd8e2c",
+    "id": "93279812-3d1b-492d-8769-c4866fb1a836",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which test confirms the response to desmopressin in diabetes insipidus?",
     "options": {
       "A": "Glucose tolerance test",
       "B": "VMA test",
-      "C": "Water deprivation test",
-      "D": "Serum cortisol test"
+      "C": "Serum cortisol test",
+      "D": "Water deprivation test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "2213281b-e523-4c71-8ac8-9b43bfac0d3f",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Polyuria in diabetes insipidus is due to:",
+    "options": {
+      "A": "High calcium levels",
+      "B": "Excess glucose in urine",
+      "C": "Inability to concentrate urine",
+      "D": "Low potassium levels"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "820a11c8-eb1d-4328-89fd-2df5a2ea6f9b",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Polyuria in diabetes insipidus is due to:",
-    "options": {
-      "A": "Excess glucose in urine",
-      "B": "Inability to concentrate urine",
-      "C": "High calcium levels",
-      "D": "Low potassium levels"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "16d87384-afe7-4b95-be49-7af9670cafd1",
+    "id": "8418b2aa-36af-4157-b156-d199845ce19a",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A dietary recommendation for diabetes insipidus includes:",
     "options": {
       "A": "Low-sodium diet",
-      "B": "High-sugar diet",
-      "C": "Adequate hydration",
+      "B": "Adequate hydration",
+      "C": "High-sugar diet",
       "D": "Low-fluid intake"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "0b8d2424-8693-48c0-a213-04d0716ae7bf",
+    "id": "a1a41b0a-4e99-4d05-b0db-908968818f2c",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which imaging test may be used to evaluate the pituitary gland in diabetes insipidus?",
     "options": {
-      "A": "Thyroid ultrasound",
+      "A": "MRI brain",
       "B": "DEXA scan",
-      "C": "MRI brain",
-      "D": "Chest X-ray"
+      "C": "Chest X-ray",
+      "D": "Thyroid ultrasound"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "7b9f2c3b-b3e9-449a-9e54-2b451565b50d",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Fatigue in diabetes insipidus is caused by:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Hypocalcemia",
+      "C": "Dehydration",
+      "D": "Hyperglycemia"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "86c7e520-63d9-4ab9-abbd-2f2a81051548",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Fatigue in diabetes insipidus is caused by:",
-    "options": {
-      "A": "Hypocalcemia",
-      "B": "Dehydration",
-      "C": "Hyperthyroidism",
-      "D": "Hyperglycemia"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "28908d28-1368-47fc-8960-3c00c979ad4b",
+    "id": "a701df08-abd7-4108-a3cd-796dd9f6a6a7",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "The normal urine output per day is approximately:",
     "options": {
-      "A": "Below 0.5 liters",
-      "B": "1-2 liters",
-      "C": "5-6 liters",
-      "D": "10-12 liters"
+      "A": "1-2 liters",
+      "B": "5-6 liters",
+      "C": "10-12 liters",
+      "D": "Below 0.5 liters"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "57324634-ff61-4e6b-8ae2-b054387b653e",
+    "id": "9eb7c09b-d697-404c-ac4f-811cd7842a19",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "In diabetes insipidus, urine output is typically:",
     "options": {
       "A": "Decreased",
       "B": "Normal",
-      "C": "Increased (4-10 liters/day)",
-      "D": "Absent"
+      "C": "Absent",
+      "D": "Increased (4-10 liters/day)"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "eb70205a-6a35-4e62-977d-bd496771ceaa",
+    "id": "6f6c1e14-2045-4abb-bbc6-f14bf59687bc",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which condition does NOT cause diabetes insipidus?",
     "options": {
-      "A": "Parathyroid adenoma",
-      "B": "Pituitary tumor",
+      "A": "Head injury",
+      "B": "Parathyroid adenoma",
       "C": "Kidney failure",
-      "D": "Head injury"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "01b709b1-3ae5-45d9-951a-da7c869bd2df",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "SIADH is characterized by:",
-    "options": {
-      "A": "Cortisol excess",
-      "B": "Excess ADH secretion",
-      "C": "Deficiency of ADH",
-      "D": "Insulin deficiency"
+      "D": "Pituitary tumor"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "0dd2c96a-a625-485e-b3ae-1ed91d157652",
+    "id": "32c09bd5-14cc-48dc-a013-d972dddd81bc",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "SIADH is characterized by:",
+    "options": {
+      "A": "Cortisol excess",
+      "B": "Deficiency of ADH",
+      "C": "Insulin deficiency",
+      "D": "Excess ADH secretion"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "b1237180-8ffb-47aa-ad6a-553efa3069f5",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "The primary electrolyte imbalance in SIADH is:",
     "options": {
       "A": "Hyponatremia",
       "B": "Hyperkalemia",
-      "C": "Hypocalcemia",
-      "D": "Hypernatremia"
+      "C": "Hypernatremia",
+      "D": "Hypocalcemia"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "bcf81cb3-9d48-46ad-a9cb-5f9606a99ddd",
+    "id": "6e04026a-268a-4895-a3fc-2fe35632cad7",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A common symptom of SIADH is:",
     "options": {
-      "A": "Polyuria",
-      "B": "Weight loss",
-      "C": "Confusion",
-      "D": "Polydipsia"
+      "A": "Weight loss",
+      "B": "Polydipsia",
+      "C": "Polyuria",
+      "D": "Confusion"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "923f45be-0560-45ff-8b09-f991ffc409b4",
+    "id": "82ec736c-c236-4ec7-82a6-91cf35bcc819",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which condition is a common cause of SIADH?",
     "options": {
@@ -4304,441 +4304,311 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "b1c6d050-1270-4caf-81e7-83a51f42ecf5",
+    "id": "f052949b-8229-4f8d-9111-aaf076a0308b",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "The urine in SIADH is typically:",
     "options": {
       "A": "Concentrated",
       "B": "Dilute",
-      "C": "Normal",
-      "D": "Absent"
+      "C": "Absent",
+      "D": "Normal"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "bf3107e4-506b-44ab-a57c-0dcea0396d23",
+    "id": "378edfd3-bd28-4ca3-95c1-a61ade87276d",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which drug is used to treat SIADH by increasing water excretion?",
     "options": {
       "A": "Levothyroxine",
-      "B": "Metformin",
+      "B": "Desmopressin",
       "C": "Tolvaptan",
-      "D": "Desmopressin"
+      "D": "Metformin"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "36be4348-00c9-4a9f-bd46-8a293a3b35a6",
+    "id": "6b2f9dca-7860-4ec1-b45d-63a95dc8512b",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A diagnostic test for SIADH measures:",
     "options": {
-      "A": "Thyroid hormone levels",
-      "B": "Serum sodium and osmolality",
-      "C": "Blood glucose levels",
-      "D": "Cortisol levels"
+      "A": "Cortisol levels",
+      "B": "Blood glucose levels",
+      "C": "Serum sodium and osmolality",
+      "D": "Thyroid hormone levels"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "d521efb7-ce39-40fd-af28-f37453a441f2",
+    "id": "aee194a1-3168-44af-bed9-f084fb82e559",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "In SIADH, serum osmolality is typically:",
     "options": {
-      "A": "Unpredictable",
-      "B": "Low",
-      "C": "Normal",
-      "D": "High"
+      "A": "Low",
+      "B": "High",
+      "C": "Unpredictable",
+      "D": "Normal"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "b7c9af66-3d60-4282-b00c-10730e5ba850",
+    "id": "2ad11977-e898-46e8-9f64-5f9db432cac4",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A nursing intervention for SIADH includes:",
     "options": {
       "A": "Fluid restriction",
-      "B": "Limiting physical activity",
-      "C": "Encouraging high fluid intake",
-      "D": "Administering high-sodium foods"
+      "B": "Encouraging high fluid intake",
+      "C": "Administering high-sodium foods",
+      "D": "Limiting physical activity"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "11a14977-50ff-4024-b642-86a532c2aa3c",
+    "id": "c130db6e-e6aa-4390-8746-40834013c64d",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which symptom is NOT typical of SIADH?",
     "options": {
       "A": "Polyuria",
-      "B": "Nausea",
-      "C": "Seizures",
-      "D": "Headache"
+      "B": "Headache",
+      "C": "Nausea",
+      "D": "Seizures"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "7a45c94d-f5c8-45ff-8573-2e39fc4eee10",
+    "id": "6eb2f7c2-df8c-400d-9889-ece8aa9e2897",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "SIADH can be caused by:",
     "options": {
       "A": "Parathyroid adenoma",
       "B": "Hyperglycemia",
-      "C": "Certain medications (e.g., SSRIs)",
-      "D": "Iodine deficiency"
+      "C": "Iodine deficiency",
+      "D": "Certain medications (e.g., SSRIs)"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "25a4c220-19c2-4f4c-b0f0-63860daa4a12",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "The normal range for serum osmolality is:",
+    "options": {
+      "A": "Below 250 mOsm/kg",
+      "B": "350-400 mOsm/kg",
+      "C": "275-295 mOsm/kg",
+      "D": "300-350 mOsm/kg"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "479962d5-833e-4fc6-ae27-eb1e3930b07e",
+    "id": "bed2235b-a185-4f3c-a354-9203c9143012",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "The normal range for serum osmolality is:",
+    "question": "In SIADH, urine osmolality is typically:",
     "options": {
-      "A": "275-295 mOsm/kg",
-      "B": "300-350 mOsm/kg",
-      "C": "350-400 mOsm/kg",
-      "D": "Below 250 mOsm/kg"
+      "A": "High",
+      "B": "Normal",
+      "C": "Variable",
+      "D": "Low"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "6d28da38-e679-4d70-b11b-9ed5011cf928",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "In SIADH, urine osmolality is typically:",
-    "options": {
-      "A": "Variable",
-      "B": "Normal",
-      "C": "High",
-      "D": "Low"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a71145e4-68c8-40ba-a7f5-0c1715cab8ca",
+    "id": "7fbba8cf-f770-4ac4-85e2-98f960bb0177",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A severe complication of SIADH is:",
     "options": {
-      "A": "Kidney stones",
-      "B": "Cerebral edema",
-      "C": "Osteoporosis",
-      "D": "Hypovolemic shock"
+      "A": "Osteoporosis",
+      "B": "Kidney stones",
+      "C": "Hypovolemic shock",
+      "D": "Cerebral edema"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "e15490bb-7c77-47f9-be09-71e84a92652e",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which test differentiates SIADH from diabetes insipidus?",
+    "options": {
+      "A": "Water deprivation test",
+      "B": "ACTH stimulation test",
+      "C": "Thyroid function test",
+      "D": "Glucose tolerance test"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "16facae1-5dc2-4dc7-9577-05c58f772962",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A patient with SIADH may experience:",
+    "options": {
+      "A": "Weight loss",
+      "B": "Weight gain",
+      "C": "Polyuria",
+      "D": "Dehydration"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "e9a0ce82-9aa1-4a50-adc4-175629dc8248",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which test differentiates SIADH from diabetes insipidus?",
-    "options": {
-      "A": "ACTH stimulation test",
-      "B": "Glucose tolerance test",
-      "C": "Thyroid function test",
-      "D": "Water deprivation test"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "7563e378-f440-4d60-b78c-db44cea1cfd5",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A patient with SIADH may experience:",
-    "options": {
-      "A": "Dehydration",
-      "B": "Weight loss",
-      "C": "Polyuria",
-      "D": "Weight gain"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "77dee5f8-226b-4ce2-b74e-96d989bb3c14",
+    "id": "80aaebd1-98ea-4628-93f2-2722696d3c25",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which drug may be used to correct hyponatremia in SIADH?",
     "options": {
       "A": "Calcitriol",
       "B": "Hypertonic saline",
-      "C": "Insulin",
-      "D": "Desmopressin"
+      "C": "Desmopressin",
+      "D": "Insulin"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "0ea54602-0c13-4848-9f8d-2bc90211633e",
+    "id": "10bc4589-328d-4498-871c-bc890bcfdc55",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "SIADH can be associated with:",
     "options": {
-      "A": "Central nervous system disorders",
-      "B": "Thyroid cancer",
-      "C": "Iodine deficiency",
-      "D": "Adrenal insufficiency"
+      "A": "Iodine deficiency",
+      "B": "Adrenal insufficiency",
+      "C": "Thyroid cancer",
+      "D": "Central nervous system disorders"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "7a7f0969-5779-45b2-b40c-d4cd6ed25766",
+    "id": "ae5d23f6-9ccb-4cec-9727-3de7cb8ccee3",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A dietary recommendation for SIADH includes:",
     "options": {
-      "A": "High-fluid intake",
-      "B": "Fluid restriction",
+      "A": "Fluid restriction",
+      "B": "Low-potassium diet",
       "C": "High-sugar diet",
-      "D": "Low-potassium diet"
+      "D": "High-fluid intake"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "958651a9-0596-4e68-8328-bee4c5dc8aac",
+    "id": "1f9ce7b9-b4ed-4e91-b355-1f695e37f5cb",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which symptom of SIADH is due to severe hyponatremia?",
     "options": {
-      "A": "Seizures",
-      "B": "Polyuria",
-      "C": "Tachycardia",
-      "D": "Weight loss"
+      "A": "Polyuria",
+      "B": "Weight loss",
+      "C": "Seizures",
+      "D": "Tachycardia"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a1c41503-e626-4f07-9619-cee0f3726e57",
+    "id": "9eec337e-abbf-4ca5-a38a-a0a7ed664356",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which imaging test may be used to identify causes of SIADH (e.g., lung cancer)?",
     "options": {
-      "A": "Thyroid ultrasound",
-      "B": "DEXA scan",
-      "C": "Chest CT scan",
+      "A": "Chest CT scan",
+      "B": "Thyroid ultrasound",
+      "C": "DEXA scan",
       "D": "Abdominal X-ray"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "046a4b08-0625-4b20-973a-5ff755233137",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "In SIADH, urine output is typically:",
-    "options": {
-      "A": "Increased",
-      "B": "Normal",
-      "C": "Decreased",
-      "D": "Absent"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "41c5b2ba-9c35-487a-8619-2caa04d59ebc",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A nursing priority in SIADH is to monitor:",
-    "options": {
-      "A": "Neurological status",
-      "B": "Blood glucose levels",
-      "C": "Bone density",
-      "D": "Thyroid function"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "a77c2946-b028-4131-add2-1240100887c7",
+    "id": "6458a841-641d-4d8b-9d73-8b4aabe8733e",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which condition is least likely to cause SIADH?",
+    "question": "In SIADH, urine output is typically:",
     "options": {
-      "A": "Stroke",
-      "B": "Parathyroid adenoma",
-      "C": "Meningitis",
-      "D": "Pneumonia"
+      "A": "Absent",
+      "B": "Normal",
+      "C": "Decreased",
+      "D": "Increased"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "35308508-aaad-4bba-a009-a44fe1065e79",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A nursing priority in SIADH is to monitor:",
+    "options": {
+      "A": "Bone density",
+      "B": "Neurological status",
+      "C": "Blood glucose levels",
+      "D": "Thyroid function"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "8fd3cdec-71f2-4b6e-b6b2-522b191d3373",
+    "id": "8dc08407-e90f-4293-852a-72a9b8e959c2",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Tolvaptan in SIADH works by:",
+    "question": "Which condition is least likely to cause SIADH?",
     "options": {
-      "A": "Blocking ADH receptors",
-      "B": "Reducing calcium levels",
-      "C": "Increasing sodium excretion",
-      "D": "Increasing ADH production"
+      "A": "Parathyroid adenoma",
+      "B": "Pneumonia",
+      "C": "Meningitis",
+      "D": "Stroke"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "24ca53b7-6bc9-409a-b103-b4e57f6dc2d8",
+    "id": "f44f9d0b-9fa5-4290-8396-6e21cd44370c",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Tolvaptan in SIADH works by:",
+    "options": {
+      "A": "Reducing calcium levels",
+      "B": "Increasing ADH production",
+      "C": "Increasing sodium excretion",
+      "D": "Blocking ADH receptors"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "4767226b-8459-4b0b-8194-a0aea2725bb3",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A tumor of the adrenal medulla that causes excessive catecholamine production is called:",
     "options": {
-      "A": "Thyroid adenoma",
-      "B": "Pituitary adenoma",
-      "C": "Pheochromocytoma",
+      "A": "Pheochromocytoma",
+      "B": "Thyroid adenoma",
+      "C": "Pituitary adenoma",
       "D": "Parathyroid carcinoma"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "60c67b31-2666-4eec-9e87-f4b68db85735",
+    "id": "0561a7b2-56e5-4875-a488-8fcf02b4ffba",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which hormone is overproduced by a pituitary adenoma causing acromegaly?",
     "options": {
-      "A": "Cortisol",
-      "B": "Thyroxine",
-      "C": "Growth hormone",
-      "D": "Insulin"
+      "A": "Thyroxine",
+      "B": "Growth hormone",
+      "C": "Insulin",
+      "D": "Cortisol"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "5dd3d776-1b5f-430c-b188-fb7d2c61dfb3",
+    "id": "34da922c-b25e-44da-9ea7-6e07767dbd3c",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A common symptom of a thyroid adenoma is:",
     "options": {
       "A": "Bronze skin pigmentation",
       "B": "Neck swelling",
-      "C": "Weight loss",
-      "D": "Tetany"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "0af4f9a5-fc46-4f7b-b81c-a75f12955a59",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Parathyroid adenoma most commonly causes:",
-    "options": {
-      "A": "Diabetes insipidus",
-      "B": "Hypothyroidism",
-      "C": "Hypoparathyroidism",
-      "D": "Hyperparathyroidism"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2c451058-a59c-4e90-a2f7-bfae3c3122a1",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Pheochromocytoma is associated with which symptom?",
-    "options": {
-      "A": "Weight gain",
-      "B": "Episodic hypertension",
-      "C": "Hypoglycemia",
-      "D": "Moon face"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "3ecd86f9-6337-4b3b-a1b9-fab4f1dd0596",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "The diagnostic test used to detect pheochromocytoma is:",
-    "options": {
-      "A": "Glucose tolerance test",
-      "B": "Vanillylmandelic acid (VMA) test",
-      "C": "Thyroid function test",
-      "D": "Water deprivation test"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "2cc03e2b-d173-4d1d-b496-2a4e41ae3e68",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which surgery is performed to remove a parathyroid adenoma?",
-    "options": {
-      "A": "Parathyroidectomy",
-      "B": "Thyroidectomy",
-      "C": "Hypophysectomy",
-      "D": "Adrenalectomy"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c3ad3ebb-beb2-4490-b6f3-6d268bbc3f06",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A pituitary adenoma causing Cushing’s disease results in excess:",
-    "options": {
-      "A": "Thyroid-stimulating hormone (TSH)",
-      "B": "Antidiuretic hormone (ADH)",
-      "C": "Growth hormone",
-      "D": "Adrenocorticotropic hormone (ACTH)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "3ee697ba-4d30-4a5e-932d-dcf972b5d239",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A thyroid nodule may be detected by:",
-    "options": {
-      "A": "ECG",
-      "B": "DEXA scan",
-      "C": "Thyroid ultrasound",
-      "D": "Chest X-ray"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "bb1da67a-3b60-4928-999a-184152ca533e",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which tumor causes excessive thyroid hormone production leading to hyperthyroidism?",
-    "options": {
-      "A": "Thyroid adenoma",
-      "B": "Parathyroid adenoma",
-      "C": "Adrenal adenoma",
-      "D": "Pituitary carcinoma"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "1fb725d6-dcbd-4661-a286-c9d3190a6883",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Acromegaly is caused by a tumor in which gland?",
-    "options": {
-      "A": "Pituitary",
-      "B": "Adrenal",
-      "C": "Thyroid",
-      "D": "Parathyroid"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "dcc663bd-30d6-47a5-be90-d607e3e77f29",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which drug is used to manage cortisol excess in adrenal tumors?",
-    "options": {
-      "A": "Levothyroxine",
-      "B": "Calcitonin",
-      "C": "Ketoconazole",
-      "D": "Insulin"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "393b8826-4f21-43c2-8d1d-9b90d4cadfeb",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A common symptom of a pituitary adenoma causing acromegaly is:",
-    "options": {
-      "A": "Bronze skin pigmentation",
-      "B": "Enlarged hands and feet",
       "C": "Tetany",
       "D": "Weight loss"
     },
@@ -4746,126 +4616,256 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "4e7b4e29-acaf-478e-84bd-1d89bcf0ccc2",
+    "id": "6941cdf7-dc19-438a-a83e-6e925ec5511c",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Fine needle aspiration biopsy is commonly used to diagnose:",
+    "question": "Parathyroid adenoma most commonly causes:",
     "options": {
-      "A": "Thyroid nodules",
-      "B": "Adrenal tumors",
-      "C": "Pituitary adenomas",
-      "D": "Pancreatic tumors"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "1d7a5277-ca86-486f-9379-2d418c9f3817",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which test is used to diagnose Cushing’s syndrome caused by an adrenal tumor?",
-    "options": {
-      "A": "VMA test",
-      "B": "Thyroid scan",
-      "C": "Water deprivation test",
-      "D": "Dexamethasone suppression test"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "75f7fef0-0045-42b1-8335-c3a777bd3bf0",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A pheochromocytoma may cause:",
-    "options": {
-      "A": "Weight gain",
-      "B": "Hypocalcemia",
-      "C": "Hypoglycemia",
-      "D": "Episodic sweating and palpitations"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "34693dc6-7115-4aac-a062-46d19309f787",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which surgery removes an adrenal tumor causing pheochromocytoma?",
-    "options": {
-      "A": "Hypophysectomy",
-      "B": "Parathyroidectomy",
-      "C": "Thyroidectomy",
-      "D": "Adrenalectomy"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "533b6a73-6ca6-4b14-9296-9a3ca998327f",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A thyroid carcinoma may spread to:",
-    "options": {
-      "A": "Pancreas",
-      "B": "Spleen",
-      "C": "Kidneys",
-      "D": "Lungs or bones"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "acd64db6-bca5-428f-a9f8-d7961af5eaa6",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A pituitary adenoma causing prolactinoma may lead to:",
-    "options": {
-      "A": "Polyuria",
-      "B": "Hypoglycemia",
-      "C": "Galactorrhea",
-      "D": "Tetany"
+      "A": "Diabetes insipidus",
+      "B": "Hypoparathyroidism",
+      "C": "Hyperparathyroidism",
+      "D": "Hypothyroidism"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ab0d45f7-2b9b-4134-99bb-6ef1374c61d6",
+    "id": "409f2093-b31d-4620-b2c3-4f7598d0e870",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Pheochromocytoma is associated with which symptom?",
+    "options": {
+      "A": "Episodic hypertension",
+      "B": "Weight gain",
+      "C": "Hypoglycemia",
+      "D": "Moon face"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e2d217f1-f5cb-40ac-933b-e97d91e7d166",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "The diagnostic test used to detect pheochromocytoma is:",
+    "options": {
+      "A": "Glucose tolerance test",
+      "B": "Thyroid function test",
+      "C": "Water deprivation test",
+      "D": "Vanillylmandelic acid (VMA) test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "a1b22190-441e-4913-aa1c-c1cf7ae5df04",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which surgery is performed to remove a parathyroid adenoma?",
+    "options": {
+      "A": "Hypophysectomy",
+      "B": "Thyroidectomy",
+      "C": "Parathyroidectomy",
+      "D": "Adrenalectomy"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "1096d01b-b3ac-4bda-93ea-2a0b944ce4e7",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A pituitary adenoma causing Cushing���s disease results in excess:",
+    "options": {
+      "A": "Adrenocorticotropic hormone (ACTH)",
+      "B": "Growth hormone",
+      "C": "Antidiuretic hormone (ADH)",
+      "D": "Thyroid-stimulating hormone (TSH)"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "fb81d3b7-8aaf-4953-9c65-afd6b2a0a5a7",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A thyroid nodule may be detected by:",
+    "options": {
+      "A": "DEXA scan",
+      "B": "Chest X-ray",
+      "C": "ECG",
+      "D": "Thyroid ultrasound"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "6b7e375b-5e11-432d-9186-bae09e6e9324",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which tumor causes excessive thyroid hormone production leading to hyperthyroidism?",
+    "options": {
+      "A": "Adrenal adenoma",
+      "B": "Thyroid adenoma",
+      "C": "Parathyroid adenoma",
+      "D": "Pituitary carcinoma"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "bd16e146-374e-4f05-b20c-d055de315157",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Acromegaly is caused by a tumor in which gland?",
+    "options": {
+      "A": "Adrenal",
+      "B": "Thyroid",
+      "C": "Pituitary",
+      "D": "Parathyroid"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0b2c1fd1-78ec-4bb0-ad51-7c9946adc385",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which drug is used to manage cortisol excess in adrenal tumors?",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Levothyroxine",
+      "C": "Ketoconazole",
+      "D": "Insulin"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "09bcba8d-0453-4d03-b81f-14f7e0b05693",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A common symptom of a pituitary adenoma causing acromegaly is:",
+    "options": {
+      "A": "Bronze skin pigmentation",
+      "B": "Tetany",
+      "C": "Enlarged hands and feet",
+      "D": "Weight loss"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "24e99cef-632e-447c-993a-62efe97c9a1b",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Fine needle aspiration biopsy is commonly used to diagnose:",
+    "options": {
+      "A": "Adrenal tumors",
+      "B": "Pancreatic tumors",
+      "C": "Pituitary adenomas",
+      "D": "Thyroid nodules"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "ae7cb1a9-7d49-4764-bb75-eb0fc59aa80f",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which test is used to diagnose Cushing���s syndrome caused by an adrenal tumor?",
+    "options": {
+      "A": "VMA test",
+      "B": "Water deprivation test",
+      "C": "Dexamethasone suppression test",
+      "D": "Thyroid scan"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "3a71fcd7-ab23-4534-8e89-efc88d1ffbf7",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A pheochromocytoma may cause:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypoglycemia",
+      "C": "Episodic sweating and palpitations",
+      "D": "Weight gain"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "86aee6bc-ebd0-43e6-9642-c838c9dba71d",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which surgery removes an adrenal tumor causing pheochromocytoma?",
+    "options": {
+      "A": "Thyroidectomy",
+      "B": "Adrenalectomy",
+      "C": "Hypophysectomy",
+      "D": "Parathyroidectomy"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "ac68d04a-b969-4c38-ae2a-49550e25c1d2",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A thyroid carcinoma may spread to:",
+    "options": {
+      "A": "Kidneys",
+      "B": "Pancreas",
+      "C": "Lungs or bones",
+      "D": "Spleen"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "12a5fb90-4321-468c-90f7-448d6da85815",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A pituitary adenoma causing prolactinoma may lead to:",
+    "options": {
+      "A": "Tetany",
+      "B": "Hypoglycemia",
+      "C": "Galactorrhea",
+      "D": "Polyuria"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "b4655227-db23-4dd5-99d7-fa48834f50ca",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which imaging test is used to detect pituitary adenomas?",
     "options": {
-      "A": "MRI brain",
-      "B": "Chest X-ray",
+      "A": "Chest X-ray",
+      "B": "DEXA scan",
       "C": "Thyroid ultrasound",
-      "D": "DEXA scan"
+      "D": "MRI brain"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "85510dc2-9e92-477f-8bdd-3e103c88f9ac",
+    "id": "2039aa20-e3c8-4a6b-bbc8-d58bd3dbabef",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A nursing intervention for a patient with a parathyroid adenoma includes:",
     "options": {
-      "A": "Monitoring for hypercalcemia",
-      "B": "Restricting fluid intake",
-      "C": "Encouraging a high-calcium diet",
-      "D": "Limiting vitamin D intake"
+      "A": "Limiting vitamin D intake",
+      "B": "Encouraging a high-calcium diet",
+      "C": "Monitoring for hypercalcemia",
+      "D": "Restricting fluid intake"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "3f645433-37ef-4462-8e8f-cb7d896cc8e3",
+    "id": "f865cc51-454f-4758-ac25-97906665f4f3",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which drug is used to lower calcium levels in parathyroid adenoma?",
     "options": {
-      "A": "Bisphosphonates",
-      "B": "Insulin",
-      "C": "Desmopressin",
+      "A": "Desmopressin",
+      "B": "Bisphosphonates",
+      "C": "Insulin",
       "D": "Levothyroxine"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "3db35d1a-50d8-4640-92d8-46426b97310c",
+    "id": "cac671c1-3345-4548-bd73-1a7d254176af",
     "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A thyroid nodule that is “hot” on a thyroid scan indicates:",
+    "question": "A thyroid nodule that is ���hot��� on a thyroid scan indicates:",
     "options": {
       "A": "No hormone production",
       "B": "Hyperthyroidism",
@@ -4876,46 +4876,46 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "12faffcd-a952-4cfc-bf06-d54a3c98c760",
+    "id": "16872d43-0c85-499f-a657-3f4a7ef6192b",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which symptom is associated with a pheochromocytoma?",
     "options": {
-      "A": "Moon face",
-      "B": "Weight gain",
-      "C": "Cold intolerance",
+      "A": "Weight gain",
+      "B": "Cold intolerance",
+      "C": "Moon face",
       "D": "Severe headache"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "7fba8ca5-aab9-4c99-b8c1-d9f2a8d8a349",
+    "id": "a66da6e0-c372-456f-8279-cc1b3c369c11",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "The normal range for serum TSH is:",
     "options": {
       "A": "5.0-10.0 mIU/L",
-      "B": "0.4-4.0 mIU/L",
-      "C": "10-20 mIU/L",
-      "D": "Below 0.1 mIU/L"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "613370dd-33af-4bc4-81bc-2a3655fad8cd",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A pituitary adenoma may cause:",
-    "options": {
-      "A": "Kidney stones",
-      "B": "Hypoglycemia",
-      "C": "Tetany",
-      "D": "Visual disturbances"
+      "B": "10-20 mIU/L",
+      "C": "Below 0.1 mIU/L",
+      "D": "0.4-4.0 mIU/L"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "28b43c0a-e13c-4fb0-9daa-09c80bbf6124",
+    "id": "2bad0d0f-dddf-4363-97d7-0790d1740531",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A pituitary adenoma may cause:",
+    "options": {
+      "A": "Hypoglycemia",
+      "B": "Tetany",
+      "C": "Visual disturbances",
+      "D": "Kidney stones"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "ed43b3e0-44b0-435b-b138-70064469ec17",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which test detects catecholamines in pheochromocytoma?",
     "options": {
@@ -4928,545 +4928,545 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "12fce5f2-dfbb-4d01-b1c8-369083b75e3d",
+    "id": "33ad00b4-1121-4873-8092-72b535f360be",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "A parathyroid adenoma can lead to:",
     "options": {
-      "A": "Hypocalcemia",
-      "B": "Seizures",
-      "C": "Weight loss",
+      "A": "Weight loss",
+      "B": "Hypocalcemia",
+      "C": "Seizures",
       "D": "Osteoporosis"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "ad1de3c1-d22f-4440-9c50-2591897b66ca",
+    "id": "554d4ca2-403c-40b6-bd7b-e55c3a4d0140",
     "section": "MCQ on Diabetes insipidus and SIADH",
     "question": "Which surgery is used to treat a pituitary adenoma?",
     "options": {
       "A": "Adrenalectomy",
-      "B": "Thyroidectomy",
+      "B": "Hypophysectomy",
       "C": "Parathyroidectomy",
-      "D": "Hypophysectomy"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "7a929acd-502f-490e-8f5e-05493d228a16",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A “cold” thyroid nodule on a scan suggests:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Normal function",
-      "C": "Potential malignancy",
-      "D": "Hypothyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "3c501979-f6ca-4bd9-a7ae-c22046efe23b",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which drug may be used preoperatively for pheochromocytoma to control blood pressure?",
-    "options": {
-      "A": "Calcitriol",
-      "B": "Insulin",
-      "C": "Levothyroxine",
-      "D": "Alpha-blockers (e.g., phenoxybenzamine)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "25651f8d-6337-4596-8584-762e1b280aeb",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A complication of a parathyroid adenoma is:",
-    "options": {
-      "A": "Tetany",
-      "B": "Weight loss",
-      "C": "Hypoglycemia",
-      "D": "Kidney stones"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "fcfbd7f9-71a0-4cc5-a34b-2e25d8adb203",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which imaging test is used to locate adrenal tumors?",
-    "options": {
-      "A": "Chest X-ray",
-      "B": "Thyroid ultrasound",
-      "C": "Bone scan",
-      "D": "CT scan of the abdomen"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "8a6fb427-553c-4f23-8112-61bfb86b0324",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A pituitary adenoma causing gigantism occurs in:",
-    "options": {
-      "A": "Children",
-      "B": "Adults",
-      "C": "Infants only",
-      "D": "Elderly"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "7c5de887-8929-4da8-87f7-d21d4e5080d3",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which symptom is NOT typical of a parathyroid adenoma?",
-    "options": {
-      "A": "Bone pain",
-      "B": "Fatigue",
-      "C": "Kidney stones",
-      "D": "Muscle spasms"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "a74a129e-b448-4097-83f1-8496bfa9c702",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A patient with a pheochromocytoma may experience:",
-    "options": {
-      "A": "Weight gain",
-      "B": "Hypocalcemia",
-      "C": "Tachycardia",
-      "D": "Hypoglycemia"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "9609b7ee-6d10-4fbe-b724-c2b03a7480d9",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which test is used to evaluate thyroid nodules for malignancy?",
-    "options": {
-      "A": "ACTH stimulation test",
-      "B": "Water deprivation test",
-      "C": "Fine needle aspiration biopsy",
-      "D": "Dexamethasone suppression test"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "f27e66de-eb5a-4c8a-8e73-5956307f7d46",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A thyroid carcinoma may cause:",
-    "options": {
-      "A": "Hoarseness or difficulty swallowing",
-      "B": "Hypoglycemia",
-      "C": "Hypercalcemia",
-      "D": "Weight loss only"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5db49c80-6db4-4d54-acca-d1ca05f4ac1b",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which electrolyte imbalance is seen with a parathyroid adenoma?",
-    "options": {
-      "A": "Hypercalcemia",
-      "B": "Hypocalcemia",
-      "C": "Hyponatremia",
-      "D": "Hyperkalemia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "fe2954f4-71f2-44aa-97c1-4cc89fb18467",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A nursing priority for a patient with pheochromocytoma is to monitor:",
-    "options": {
-      "A": "Calcium levels",
-      "B": "Thyroid function",
-      "C": "Blood glucose",
-      "D": "Blood pressure"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "86ba7b63-c8ee-4363-98af-e7eac5ac9d8e",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "Which tumor is least likely to be malignant?",
-    "options": {
-      "A": "Parathyroid adenoma",
-      "B": "Pituitary carcinoma",
-      "C": "Thyroid carcinoma",
-      "D": "Pheochromocytoma"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "161e1145-df55-4c16-80c2-a480aa62e023",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A Sestamibi scan is used to locate:",
-    "options": {
-      "A": "Pituitary tumors",
-      "B": "Thyroid nodules",
-      "C": "Parathyroid adenomas",
-      "D": "Adrenal tumors"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "7c8dd251-1761-4dce-b881-eef08110bd7a",
-    "section": "MCQ on Diabetes insipidus and SIADH",
-    "question": "A patient with a pituitary adenoma may experience:",
-    "options": {
-      "A": "Weight loss",
-      "B": "Polyuria",
-      "C": "Galactorrhea",
-      "D": "Hypocalcemia"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b3103fce-e8df-41b9-bf70-1bb65df8843f",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Post-adrenalectomy for pheochromocytoma, patients may need:",
-    "options": {
-      "A": "Thyroid hormone replacement",
-      "B": "Lifelong glucocorticoid replacement",
-      "C": "Calcium supplements",
-      "D": "Insulin therapy"
+      "D": "Thyroidectomy"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "ce143bc9-f1d7-4006-8b71-966893b80897",
+    "id": "90e63563-164a-4e73-b3e9-9715ab540d79",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A ���cold��� thyroid nodule on a scan suggests:",
+    "options": {
+      "A": "Normal function",
+      "B": "Hypothyroidism",
+      "C": "Potential malignancy",
+      "D": "Hyperthyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "68d1ecff-e668-4936-9c61-af24ccc26980",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which drug may be used preoperatively for pheochromocytoma to control blood pressure?",
+    "options": {
+      "A": "Insulin",
+      "B": "Alpha-blockers (e.g., phenoxybenzamine)",
+      "C": "Levothyroxine",
+      "D": "Calcitriol"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "3d290047-55e4-40a0-9c4c-daa891efa32e",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A complication of a parathyroid adenoma is:",
+    "options": {
+      "A": "Kidney stones",
+      "B": "Tetany",
+      "C": "Weight loss",
+      "D": "Hypoglycemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "3af2972a-a323-4bb6-847b-2b43da8360a8",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which imaging test is used to locate adrenal tumors?",
+    "options": {
+      "A": "CT scan of the abdomen",
+      "B": "Bone scan",
+      "C": "Thyroid ultrasound",
+      "D": "Chest X-ray"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "d5aa0c8b-6ed5-4251-afe3-ed9afeaf5476",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A pituitary adenoma causing gigantism occurs in:",
+    "options": {
+      "A": "Adults",
+      "B": "Children",
+      "C": "Elderly",
+      "D": "Infants only"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "dfa183e4-a6d0-42b2-a8fa-d94fb26835a3",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which symptom is NOT typical of a parathyroid adenoma?",
+    "options": {
+      "A": "Muscle spasms",
+      "B": "Fatigue",
+      "C": "Bone pain",
+      "D": "Kidney stones"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "7cae5c51-f25a-4adb-82f9-f173f8f644c0",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A patient with a pheochromocytoma may experience:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Hypoglycemia",
+      "C": "Weight gain",
+      "D": "Tachycardia"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "33e2daa5-47c6-4b00-a4ff-aef1e95d0f3c",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which test is used to evaluate thyroid nodules for malignancy?",
+    "options": {
+      "A": "Dexamethasone suppression test",
+      "B": "Fine needle aspiration biopsy",
+      "C": "ACTH stimulation test",
+      "D": "Water deprivation test"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "2a0c528f-a4a6-41d2-9812-83674f462a4f",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A thyroid carcinoma may cause:",
+    "options": {
+      "A": "Hypoglycemia",
+      "B": "Hypercalcemia",
+      "C": "Weight loss only",
+      "D": "Hoarseness or difficulty swallowing"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "064f76c9-712d-4c3d-84f3-5fa86fb12ae4",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which electrolyte imbalance is seen with a parathyroid adenoma?",
+    "options": {
+      "A": "Hyperkalemia",
+      "B": "Hyponatremia",
+      "C": "Hypocalcemia",
+      "D": "Hypercalcemia"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "1942ffe2-aedd-4817-8ab6-36d82359add7",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A nursing priority for a patient with pheochromocytoma is to monitor:",
+    "options": {
+      "A": "Blood glucose",
+      "B": "Thyroid function",
+      "C": "Blood pressure",
+      "D": "Calcium levels"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "5a95d3a1-41e3-44d5-abb1-5439f24576bc",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "Which tumor is least likely to be malignant?",
+    "options": {
+      "A": "Pituitary carcinoma",
+      "B": "Thyroid carcinoma",
+      "C": "Parathyroid adenoma",
+      "D": "Pheochromocytoma"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0050f697-a999-4fc4-aeb0-efdad5962cc1",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A Sestamibi scan is used to locate:",
+    "options": {
+      "A": "Adrenal tumors",
+      "B": "Pituitary tumors",
+      "C": "Thyroid nodules",
+      "D": "Parathyroid adenomas"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "794ba846-b7f3-4a41-8e9f-25ad0d9cacdc",
+    "section": "MCQ on Diabetes insipidus and SIADH",
+    "question": "A patient with a pituitary adenoma may experience:",
+    "options": {
+      "A": "Polyuria",
+      "B": "Hypocalcemia",
+      "C": "Galactorrhea",
+      "D": "Weight loss"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "96556f1d-c6cd-41f5-81be-157522cc615c",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Post-adrenalectomy for pheochromocytoma, patients may need:",
+    "options": {
+      "A": "Insulin therapy",
+      "B": "Calcium supplements",
+      "C": "Thyroid hormone replacement",
+      "D": "Lifelong glucocorticoid replacement"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "4ff8c4c9-c4be-4bbe-ad4d-32c866aa4e49",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Cholelithiasis refers to:",
     "options": {
       "A": "Obstruction of the common bile duct",
       "B": "Inflammation of the gallbladder",
-      "C": "Formation of gallstones in the gallbladder",
-      "D": "Infection of the bile ducts"
+      "C": "Infection of the bile ducts",
+      "D": "Formation of gallstones in the gallbladder"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "848f2a64-6438-499a-91ba-202dbb310c74",
+    "id": "6795ae86-dad8-4174-92df-019bd087b94d",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "The primary component of most gallstones is:",
     "options": {
       "A": "Cholesterol",
-      "B": "Sodium",
-      "C": "Protein",
-      "D": "Calcium"
+      "B": "Protein",
+      "C": "Calcium",
+      "D": "Sodium"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "a826fe84-6597-4d30-bbf5-94164b584f09",
+    "id": "241c1dd5-4bc3-4e08-8706-35448b98fc8d",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A common risk factor for cholelithiasis is:",
     "options": {
-      "A": "Obesity",
-      "B": "Low-fat diet",
+      "A": "Dehydration",
+      "B": "Obesity",
       "C": "Hypothyroidism",
-      "D": "Dehydration"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "be3890d0-f298-4710-98ea-6ac0a904016d",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which symptom is commonly associated with cholelithiasis?",
-    "options": {
-      "A": "Generalized itching",
-      "B": "Right upper quadrant pain",
-      "C": "Left-sided chest pain",
-      "D": "Lower abdominal pain"
+      "D": "Low-fat diet"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "5c874bb1-2562-4a8e-b549-972046cf8f70",
+    "id": "736cff55-fa5e-4520-aaee-476e8ae50049",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which symptom is commonly associated with cholelithiasis?",
+    "options": {
+      "A": "Generalized itching",
+      "B": "Left-sided chest pain",
+      "C": "Right upper quadrant pain",
+      "D": "Lower abdominal pain"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "f9e53279-177b-4714-8ca1-69e694256287",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Gallstones are most commonly found in which organ?",
     "options": {
-      "A": "Liver",
+      "A": "Spleen",
       "B": "Gallbladder",
-      "C": "Spleen",
+      "C": "Liver",
       "D": "Pancreas"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "8323aad6-e275-4bea-b423-d0fee22a3492",
+    "id": "d64aae7e-1bf0-435a-82af-9a1bef7b1b08",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which diagnostic test is used to detect gallstones?",
     "options": {
-      "A": "Blood glucose test",
-      "B": "Chest X-ray",
+      "A": "Ultrasound of the abdomen",
+      "B": "Blood glucose test",
       "C": "ECG",
-      "D": "Ultrasound of the abdomen"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "b4860f45-c3b1-4774-ba9f-031f473b78e0",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "The “4 Fs” risk factors for cholelithiasis include all except:",
-    "options": {
-      "A": "Fat (obesity)",
-      "B": "Fever",
-      "C": "Fertile",
-      "D": "Female"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "000aae5c-8527-45fa-a2b2-8ee72c0d6c57",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which dietary factor increases the risk of gallstone formation?",
-    "options": {
-      "A": "Low-sugar diet",
-      "B": "High-fiber diet",
-      "C": "High-protein diet",
-      "D": "High-fat diet"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "182838ac-114a-4b7e-b40e-1e8813c73e17",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "A complication of cholelithiasis is:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Pancreatitis",
-      "C": "Osteoporosis",
-      "D": "Hypoglycemia"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "626085fb-edc8-42c4-a819-a5546f20985a",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which test measures liver function in cholelithiasis?",
-    "options": {
-      "A": "Liver function tests (LFTs)",
-      "B": "Glucose tolerance test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid function tests"
+      "D": "Chest X-ray"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "36bce935-6189-466d-8a9c-023a032df140",
+    "id": "e2dfd800-cf03-41f0-9e43-10124c438a1d",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "The pain from gallstones is often triggered by:",
+    "question": "The ���4 Fs��� risk factors for cholelithiasis include all except:",
     "options": {
-      "A": "Fasting",
-      "B": "Exercising",
-      "C": "Drinking water",
-      "D": "Eating a fatty meal"
+      "A": "Fever",
+      "B": "Fertile",
+      "C": "Fat (obesity)",
+      "D": "Female"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "fec33906-612d-4abf-8ca5-abedc3f6e4be",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which dietary factor increases the risk of gallstone formation?",
+    "options": {
+      "A": "High-fiber diet",
+      "B": "Low-sugar diet",
+      "C": "High-fat diet",
+      "D": "High-protein diet"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "9556e177-a29e-4e23-990f-ed9f00799b18",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "A complication of cholelithiasis is:",
+    "options": {
+      "A": "Hyperthyroidism",
+      "B": "Osteoporosis",
+      "C": "Hypoglycemia",
+      "D": "Pancreatitis"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "cb635136-d90a-45b0-a9dd-6e9d5d39bc0a",
+    "id": "ce3c7c72-6111-4975-ac00-0c63d9e72191",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which surgical procedure removes gallstones along with the gallbladder?",
+    "question": "Which test measures liver function in cholelithiasis?",
     "options": {
-      "A": "Adrenalectomy",
-      "B": "Cholecystectomy",
-      "C": "Thyroidectomy",
-      "D": "Appendectomy"
+      "A": "Glucose tolerance test",
+      "B": "Thyroid function tests",
+      "C": "ACTH stimulation test",
+      "D": "Liver function tests (LFTs)"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "5eb324c2-3579-43ac-a820-5ce7d183bc64",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "The pain from gallstones is often triggered by:",
+    "options": {
+      "A": "Exercising",
+      "B": "Eating a fatty meal",
+      "C": "Drinking water",
+      "D": "Fasting"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "8da76567-50d3-4046-af48-a7cf429dfb76",
+    "id": "b2510b3a-fbf2-42d2-867e-6f55f88da6de",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Murphy’s sign is associated with:",
+    "question": "Which surgical procedure removes gallstones along with the gallbladder?",
     "options": {
-      "A": "Choledocholithiasis",
+      "A": "Appendectomy",
+      "B": "Cholecystectomy",
+      "C": "Thyroidectomy",
+      "D": "Adrenalectomy"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "5215599b-c4ab-4048-b54d-0a18e7dced7a",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Murphy���s sign is associated with:",
+    "options": {
+      "A": "Pancreatitis",
       "B": "Cholecystitis",
-      "C": "Pancreatitis",
+      "C": "Choledocholithiasis",
       "D": "Cholelithiasis"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "1062d9c7-b2bd-4e75-974e-dd0aa4b8b3ce",
+    "id": "35e440c2-16d4-4e08-b1c5-2be275af6729",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A dietary recommendation for preventing cholelithiasis is:",
     "options": {
       "A": "High-fat diet",
       "B": "Low-protein diet",
-      "C": "High-sugar diet",
-      "D": "Low-fat, high-fiber diet"
+      "C": "Low-fat, high-fiber diet",
+      "D": "High-sugar diet"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "5ed87ff1-3e93-43c5-ba48-abaedd5342b9",
+    "id": "afdff8f4-1a73-4b47-88d1-90c960316322",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which type of gallstone is most common?",
     "options": {
-      "A": "Protein stones",
+      "A": "Pigment stones",
       "B": "Cholesterol stones",
-      "C": "Pigment stones",
+      "C": "Protein stones",
       "D": "Calcium stones"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "25c56414-2499-4632-9792-6559080c2c02",
+    "id": "f2357bf5-d2b3-49bf-aeb3-a2509f7eb171",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Cholecystitis is defined as:",
     "options": {
-      "A": "Inflammation of the gallbladder",
-      "B": "Obstruction of the bile duct",
-      "C": "Formation of gallstones",
-      "D": "Tumor of the gallbladder"
+      "A": "Obstruction of the bile duct",
+      "B": "Inflammation of the gallbladder",
+      "C": "Tumor of the gallbladder",
+      "D": "Formation of gallstones"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "e8a7c6ee-ee99-463f-ab1e-e4c12b2e760e",
+    "id": "583be64d-dd03-4429-b504-76f6ff117689",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "The most common cause of acute cholecystitis is:",
     "options": {
-      "A": "High blood sugar",
+      "A": "Iodine deficiency",
       "B": "Gallstone obstruction",
-      "C": "Iodine deficiency",
+      "C": "High blood sugar",
       "D": "Bacterial infection"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "3ade3a59-7bba-4f89-9856-c5c5d62d2a6a",
+    "id": "1193c840-116a-46bb-a6c3-397c694b07b2",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A classic symptom of acute cholecystitis is:",
     "options": {
-      "A": "Lower back pain",
-      "B": "Generalized itching",
-      "C": "Left-sided chest pain",
+      "A": "Left-sided chest pain",
+      "B": "Lower back pain",
+      "C": "Generalized itching",
       "D": "Right upper quadrant pain radiating to the shoulder"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e52e7349-cc97-49b9-b79d-bbdf1794568b",
+    "id": "c8ea7bdd-108d-41e5-8ecb-3053764eed78",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which sign is positive when pain occurs on palpation of the gallbladder during inspiration?",
     "options": {
-      "A": "Babinski’s sign",
-      "B": "Chvostek’s sign",
-      "C": "Murphy’s sign",
-      "D": "Trousseau’s sign"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "9f8ae5fc-9a0a-4ee6-b713-fb0a2e77e864",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which diagnostic test is used to confirm cholecystitis?",
-    "options": {
-      "A": "Thyroid scan",
-      "B": "DEXA scan",
-      "C": "Abdominal ultrasound",
-      "D": "ECG"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "281350ac-75b1-4841-9732-5c2a2b9142aa",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "A common complication of cholecystitis is:",
-    "options": {
-      "A": "Osteoporosis",
-      "B": "Hyperthyroidism",
-      "C": "Hypoglycemia",
-      "D": "Gallbladder rupture"
+      "A": "Trousseau���s sign",
+      "B": "Chvostek���s sign",
+      "C": "Babinski���s sign",
+      "D": "Murphy���s sign"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "2fdc6cde-6af0-4506-b82d-641ec66bd5d4",
+    "id": "ac3b4485-16d0-4b8c-a967-94b316f275bb",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which laboratory finding is elevated in cholecystitis?",
+    "question": "Which diagnostic test is used to confirm cholecystitis?",
     "options": {
-      "A": "Thyroid hormone levels",
-      "B": "Serum calcium",
-      "C": "White blood cell (WBC) count",
-      "D": "Blood glucose"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "5266462f-d32f-49b6-bed6-da96509ceade",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "The treatment for acute cholecystitis often includes:",
-    "options": {
-      "A": "Antibiotics",
-      "B": "Insulin",
-      "C": "Calcitonin",
-      "D": "Levothyroxine"
+      "A": "Abdominal ultrasound",
+      "B": "DEXA scan",
+      "C": "Thyroid scan",
+      "D": "ECG"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "73876492-6fe0-41bf-8729-279294175d69",
+    "id": "b7ad11a5-860d-49fd-85d0-fc4a0d004820",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Nausea and vomiting in cholecystitis are often triggered by:",
+    "question": "A common complication of cholecystitis is:",
     "options": {
-      "A": "Resting",
-      "B": "Eating fatty foods",
-      "C": "Exercising",
-      "D": "Drinking water"
+      "A": "Osteoporosis",
+      "B": "Gallbladder rupture",
+      "C": "Hypoglycemia",
+      "D": "Hyperthyroidism"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "f9f28eb3-9d67-4063-8c07-e8b0a9f39f44",
+    "id": "f2783650-d220-4c9e-9cb6-446914f1e79a",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which laboratory finding is elevated in cholecystitis?",
+    "options": {
+      "A": "Blood glucose",
+      "B": "White blood cell (WBC) count",
+      "C": "Thyroid hormone levels",
+      "D": "Serum calcium"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "d958f1e3-3aa2-4381-b384-bbf31d0227c0",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "The treatment for acute cholecystitis often includes:",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Insulin",
+      "C": "Antibiotics",
+      "D": "Levothyroxine"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "8890a85f-054b-4206-ad2b-b54d61acfff9",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Nausea and vomiting in cholecystitis are often triggered by:",
+    "options": {
+      "A": "Exercising",
+      "B": "Eating fatty foods",
+      "C": "Drinking water",
+      "D": "Resting"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "a41f6f08-13fd-4539-b67d-3901d29a52ae",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which imaging test visualizes the gallbladder and bile ducts in cholecystitis?",
     "options": {
-      "A": "Chest X-ray",
-      "B": "MRI brain",
+      "A": "MRI brain",
+      "B": "Chest X-ray",
       "C": "Bone scan",
       "D": "HIDA scan"
     },
@@ -5474,259 +5474,259 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "2701f4c0-1860-4364-99e4-27fb7be3aa0a",
+    "id": "60f28d14-652d-4417-a6ed-84b151165679",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A nursing intervention for cholecystitis includes:",
     "options": {
-      "A": "Encouraging a high-fat diet",
-      "B": "Monitoring for fever and pain",
-      "C": "Restricting all fluids",
-      "D": "Limiting antibiotic use"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "2547c526-ca3e-48d5-989f-6f469655f1bd",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Chronic cholecystitis is often caused by:",
-    "options": {
-      "A": "High blood sugar",
-      "B": "Autoimmune disease",
-      "C": "Repeated gallstone irritation",
-      "D": "Iodine deficiency"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "df0ccaff-a45f-4517-b330-fcc34db60cbe",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which symptom is NOT typical of cholecystitis?",
-    "options": {
-      "A": "Tetany",
-      "B": "Abdominal pain",
-      "C": "Fever",
-      "D": "Jaundice"
+      "A": "Monitoring for fever and pain",
+      "B": "Limiting antibiotic use",
+      "C": "Encouraging a high-fat diet",
+      "D": "Restricting all fluids"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "3e86ecce-f47d-46dc-b108-da9bc1e41060",
+    "id": "7ea830d4-5e03-4e5c-bb2a-3aaee0191ed8",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Chronic cholecystitis is often caused by:",
+    "options": {
+      "A": "Repeated gallstone irritation",
+      "B": "High blood sugar",
+      "C": "Iodine deficiency",
+      "D": "Autoimmune disease"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "8c2d953a-1bf0-4bc0-9d0e-144c3bf9aa80",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which symptom is NOT typical of cholecystitis?",
+    "options": {
+      "A": "Abdominal pain",
+      "B": "Fever",
+      "C": "Tetany",
+      "D": "Jaundice"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "99d3e22f-a4a5-4a17-ac6e-1e98004b6f5f",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A low-fat diet is recommended post-cholecystectomy to:",
     "options": {
-      "A": "Reduce calcium absorption",
+      "A": "Prevent diarrhea",
       "B": "Promote weight gain",
-      "C": "Increase bile production",
-      "D": "Prevent diarrhea"
+      "C": "Reduce calcium absorption",
+      "D": "Increase bile production"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "1249c7dd-c847-4ef3-8303-8d67a7dad569",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Choledocholithiasis refers to:",
+    "options": {
+      "A": "Tumor of the bile duct",
+      "B": "Gallstones in the gallbladder",
+      "C": "Inflammation of the gallbladder",
+      "D": "Stones in the common bile duct"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "415659e0-b72c-4c31-93dc-061f0d38260d",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Choledocholithiasis refers to:",
-    "options": {
-      "A": "Stones in the common bile duct",
-      "B": "Inflammation of the gallbladder",
-      "C": "Gallstones in the gallbladder",
-      "D": "Tumor of the bile duct"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "ff9d0700-6259-4ba2-9ea9-c1fe4946f712",
+    "id": "cc4bee28-c06d-4457-b277-349e82805848",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A common symptom of choledocholithiasis is:",
     "options": {
-      "A": "Tetany",
-      "B": "Jaundice",
-      "C": "Weight gain",
-      "D": "Hypoglycemia"
+      "A": "Hypoglycemia",
+      "B": "Tetany",
+      "C": "Jaundice",
+      "D": "Weight gain"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "96200475-582b-4399-a4aa-40e77a176b0b",
+    "id": "54698a45-21bf-4e9f-b58a-518e063d7661",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Choledocholithiasis can lead to obstruction of:",
     "options": {
-      "A": "The adrenal gland",
+      "A": "The common bile duct",
       "B": "The thyroid gland",
-      "C": "The common bile duct",
+      "C": "The adrenal gland",
       "D": "The pancreatic duct"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "5ace8242-df55-48c7-8772-013be9f886f7",
+    "id": "f9a52bba-18a6-484f-9503-32b59d57645a",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which diagnostic test is used to visualize bile duct stones?",
     "options": {
-      "A": "Endoscopic retrograde cholangiopancreatography (ERCP)",
-      "B": "ACTH stimulation test",
-      "C": "Thyroid ultrasound",
-      "D": "Dexamethasone suppression test"
+      "A": "ACTH stimulation test",
+      "B": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+      "C": "Dexamethasone suppression test",
+      "D": "Thyroid ultrasound"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "db059240-21e9-4a91-ba22-be10b0c66d88",
+    "id": "f9a59370-593d-4524-9a04-bb2b8865aa57",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A complication of choledocholithiasis is:",
     "options": {
-      "A": "Cholangitis",
-      "B": "Hypothyroidism",
+      "A": "Hypothyroidism",
+      "B": "Hyperglycemia",
       "C": "Osteoporosis",
-      "D": "Hyperglycemia"
+      "D": "Cholangitis"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "24f09e33-4296-4f20-aebf-671f25ee7b0c",
+    "id": "8f6a19d4-e8d0-473e-8785-7f67d62792d1",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which laboratory finding is elevated in choledocholithiasis?",
     "options": {
-      "A": "Serum bilirubin",
-      "B": "Blood glucose",
-      "C": "Serum calcium",
-      "D": "Thyroid hormone levels"
+      "A": "Blood glucose",
+      "B": "Serum bilirubin",
+      "C": "Thyroid hormone levels",
+      "D": "Serum calcium"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "0df2f57f-40d9-4409-8c42-944cd8038127",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "The treatment for choledocholithiasis often includes:",
+    "options": {
+      "A": "Thyroid hormone replacement",
+      "B": "Insulin therapy",
+      "C": "Calcium supplements",
+      "D": "ERCP with stone removal"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "0df1da0a-9031-4dd2-94a6-2804e3913b22",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which symptom is associated with bile duct obstruction in choledocholithiasis?",
+    "options": {
+      "A": "Dark urine",
+      "B": "Muscle spasms",
+      "C": "Cold intolerance",
+      "D": "Weight loss"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "cf5f5faa-6e9a-4005-a16a-a29c3e8ccf99",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "The treatment for choledocholithiasis often includes:",
-    "options": {
-      "A": "Insulin therapy",
-      "B": "ERCP with stone removal",
-      "C": "Thyroid hormone replacement",
-      "D": "Calcium supplements"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "2ca29d2f-deb0-4c98-bc05-694df3c68cfe",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which symptom is associated with bile duct obstruction in choledocholithiasis?",
-    "options": {
-      "A": "Cold intolerance",
-      "B": "Dark urine",
-      "C": "Weight loss",
-      "D": "Muscle spasms"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "d66a9368-0e0c-4438-9482-0ab0e911a733",
+    "id": "a5529875-3ca1-465f-8029-cfe4ead55a3a",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A nursing intervention for choledocholithiasis includes:",
     "options": {
-      "A": "Restricting all fluids",
-      "B": "Monitoring for jaundice",
+      "A": "Monitoring for jaundice",
+      "B": "Limiting antibiotic use",
       "C": "Encouraging a high-fat diet",
-      "D": "Limiting antibiotic use"
+      "D": "Restricting all fluids"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "069ee3ec-19e1-41e4-abbe-0990a8819ebd",
+    "id": "0943771d-2102-45c6-a6f3-d3208cdc9af3",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which procedure may be performed to remove bile duct stones?",
     "options": {
-      "A": "Thyroidectomy",
-      "B": "Cholecystectomy",
-      "C": "ERCP",
+      "A": "ERCP",
+      "B": "Thyroidectomy",
+      "C": "Cholecystectomy",
       "D": "Adrenalectomy"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "4b24de57-4b9c-4982-998d-fa0e58c5cf42",
+    "id": "fae13dde-7e0c-4f19-ade4-ed4c6d072b90",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Itching (pruritus) in choledocholithiasis is caused by:",
     "options": {
-      "A": "Thyroid dysfunction",
+      "A": "Low calcium levels",
       "B": "High blood sugar",
-      "C": "Bile salt accumulation in the skin",
-      "D": "Low calcium levels"
+      "C": "Thyroid dysfunction",
+      "D": "Bile salt accumulation in the skin"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "5df2c151-6f78-4582-97d5-dbd53afa698f",
+    "id": "71faea92-02cb-4234-b1f3-75b2a083e8da",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which drug may be used to manage pain in choledocholithiasis?",
     "options": {
-      "A": "Calcitonin",
-      "B": "Insulin",
-      "C": "Analgesics (e.g., morphine)",
-      "D": "Levothyroxine"
+      "A": "Levothyroxine",
+      "B": "Calcitonin",
+      "C": "Insulin",
+      "D": "Analgesics (e.g., morphine)"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "bebb9948-a531-4adb-98f9-af64f3bdfd53",
+    "id": "8e04f328-93d8-4a78-a46c-69dcea9356b3",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Pale stools are a symptom of:",
     "options": {
-      "A": "Cholelithiasis",
-      "B": "Choledocholithiasis",
-      "C": "Cholecystitis",
+      "A": "Cholecystitis",
+      "B": "Cholelithiasis",
+      "C": "Choledocholithiasis",
       "D": "Hypothyroidism"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "dcd32c07-ad24-4249-837f-8ffa2b3ac66f",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "Which test confirms bile duct obstruction in choledocholithiasis?",
-    "options": {
-      "A": "Glucose tolerance test",
-      "B": "Magnetic resonance cholangiopancreatography (MRCP)",
-      "C": "VMA test",
-      "D": "Thyroid scan"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "cd50d2f2-ba92-4657-849d-9e28f09262b3",
-    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
-    "question": "A common cause of choledocholithiasis is:",
-    "options": {
-      "A": "Autoimmune disease",
-      "B": "Iodine deficiency",
-      "C": "Gallstones migrating from the gallbladder",
-      "D": "High blood sugar"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "5ef5ae3c-a913-4786-820f-2d75c0a51bd2",
+    "id": "88ac2762-8f41-4ccc-abbc-d93fd2df7156",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "Which test confirms bile duct obstruction in choledocholithiasis?",
+    "options": {
+      "A": "Magnetic resonance cholangiopancreatography (MRCP)",
+      "B": "Glucose tolerance test",
+      "C": "Thyroid scan",
+      "D": "VMA test"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "f4639dba-3cad-4e4f-a2c1-f6a033cdce03",
+    "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
+    "question": "A common cause of choledocholithiasis is:",
+    "options": {
+      "A": "Gallstones migrating from the gallbladder",
+      "B": "Iodine deficiency",
+      "C": "Autoimmune disease",
+      "D": "High blood sugar"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "4287fb32-507d-4c73-a15f-38a8c4dd72d1",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which complication of choledocholithiasis requires urgent treatment?",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Osteoporosis",
+      "A": "Osteoporosis",
+      "B": "Hyperthyroidism",
       "C": "Hypoglycemia",
       "D": "Acute cholangitis"
     },
@@ -5734,376 +5734,376 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "98ca9bc2-6f07-4443-9c21-177251eaa9f0",
+    "id": "44b17a99-a8a4-4f3a-85db-8b6adbe161c9",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "A dietary recommendation for choledocholithiasis includes:",
     "options": {
-      "A": "Low-protein diet",
+      "A": "High-fat diet",
       "B": "Low-fat diet",
-      "C": "High-fat diet",
-      "D": "High-sugar diet"
+      "C": "High-sugar diet",
+      "D": "Low-protein diet"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "e662d39a-d194-4f62-81e8-1b15bee7a10b",
+    "id": "893b3bdf-cc8d-43fc-a7cd-025abcddb850",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Which symptom is NOT typical of choledocholithiasis?",
     "options": {
-      "A": "Tetany",
+      "A": "Abdominal pain",
       "B": "Jaundice",
       "C": "Dark urine",
-      "D": "Abdominal pain"
+      "D": "Tetany"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "84c2ed3c-204e-4516-818f-a0bd3f11e694",
+    "id": "59a5fa42-ac11-496d-8a7a-e1808de98656",
     "section": "MCQ on Cholelithiasis, Cholecystitis, Choledocholelithiasis",
     "question": "Post-ERCP, a patient should be monitored for:",
     "options": {
-      "A": "Osteoporosis",
+      "A": "Pancreatitis",
       "B": "Hyperglycemia",
-      "C": "Pancreatitis",
+      "C": "Osteoporosis",
       "D": "Hypothyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "6c3c6979-246a-43a4-b92e-e355b5f56fc8",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which organ is primarily affected in choledocholithiasis?",
-    "options": {
-      "A": "Gallbladder",
-      "B": "Thyroid",
-      "C": "Common bile duct",
-      "D": "Pancreas"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "fbb5db93-4a7d-474c-84d3-4de8529bb64b",
-    "section": "MCQ on Pancreatitis",
-    "question": "Pancreatitis is defined as:",
-    "options": {
-      "A": "Inflammation of the pancreas",
-      "B": "Formation of gallstones",
-      "C": "Obstruction of the bile duct",
-      "D": "Inflammation of the gallbladder"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "06c6f2dc-169e-44a8-b641-55cdaba50bd2",
+    "id": "7d851036-ecf3-425c-85a4-ed8c3f903165",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which organ is primarily affected in choledocholithiasis?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Gallbladder",
+      "C": "Thyroid",
+      "D": "Common bile duct"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "315c0e86-588c-42f1-9f69-6fa544e50bc0",
+    "section": "MCQ on Pancreatitis",
+    "question": "Pancreatitis is defined as:",
+    "options": {
+      "A": "Formation of gallstones",
+      "B": "Obstruction of the bile duct",
+      "C": "Inflammation of the gallbladder",
+      "D": "Inflammation of the pancreas"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "f034517e-7feb-4c92-b5be-4f84e06e1ba6",
     "section": "MCQ on Pancreatitis",
     "question": "The two main types of pancreatitis are:",
     "options": {
       "A": "Acute and chronic",
       "B": "Autoimmune and infectious",
-      "C": "Central and nephrogenic",
-      "D": "Primary and secondary"
+      "C": "Primary and secondary",
+      "D": "Central and nephrogenic"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ebb8a640-9863-4b3c-95c3-71881b2f0414",
+    "id": "31406eeb-b3be-4a7b-bff6-3bbc29ea5150",
     "section": "MCQ on Pancreatitis",
     "question": "A common cause of acute pancreatitis is:",
     "options": {
-      "A": "Iodine deficiency",
-      "B": "Hyperglycemia",
-      "C": "Hypothyroidism",
-      "D": "Gallstones"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2174aa56-ba72-40d5-b88a-ffbf919aadce",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which symptom is characteristic of acute pancreatitis?",
-    "options": {
-      "A": "Severe epigastric pain",
-      "B": "Exophthalmos",
-      "C": "Weight gain",
-      "D": "Tetany"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "8e156f3e-3f86-4de1-b97d-f533470cd280",
-    "section": "MCQ on Pancreatitis",
-    "question": "Chronic pancreatitis is often associated with:",
-    "options": {
-      "A": "High-fiber diet",
-      "B": "Low-fat diet",
-      "C": "Short-term alcohol use",
-      "D": "Long-term alcohol abuse"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "185903ec-d412-4680-9bba-9d565d652171",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which laboratory test is elevated in pancreatitis?",
-    "options": {
-      "A": "Serum amylase",
-      "B": "Blood glucose",
-      "C": "Thyroid hormone levels",
-      "D": "Serum calcium"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5fa7a189-8f17-470c-b14a-ea61ee16cae0",
-    "section": "MCQ on Pancreatitis",
-    "question": "The normal range for serum amylase is approximately:",
-    "options": {
-      "A": "25-125 U/L",
-      "B": "150-200 U/L",
-      "C": "Below 20 U/L",
-      "D": "200-300 U/L"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "9a5da5aa-b39c-4681-b76b-4d62ca62d5be",
-    "section": "MCQ on Pancreatitis",
-    "question": "Another enzyme elevated in pancreatitis is:",
-    "options": {
-      "A": "Thyroxine",
-      "B": "Lipase",
-      "C": "Cortisol",
-      "D": "Insulin"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "5536a5af-9b35-413f-8e43-2fa3105a08d0",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which diagnostic imaging test is used to confirm pancreatitis?",
-    "options": {
-      "A": "DEXA scan",
-      "B": "Abdominal CT scan",
-      "C": "Chest X-ray",
-      "D": "Thyroid ultrasound"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "4118caf7-e8fb-4a9d-856b-4a36e4e3e4dc",
-    "section": "MCQ on Pancreatitis",
-    "question": "A common symptom of pancreatitis is:",
-    "options": {
-      "A": "Weight gain",
-      "B": "Cold intolerance",
-      "C": "Hypoglycemia",
-      "D": "Nausea and vomiting"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "31f27f06-bbf5-4367-8f66-052a2f20d699",
-    "section": "MCQ on Pancreatitis",
-    "question": "Pain in acute pancreatitis often radiates to:",
-    "options": {
-      "A": "The chest",
-      "B": "The legs",
-      "C": "The back",
-      "D": "The arms"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "1eb1b119-223a-47de-8779-4d9da82ac0b6",
-    "section": "MCQ on Pancreatitis",
-    "question": "A complication of acute pancreatitis is:",
-    "options": {
-      "A": "Pancreatic pseudocyst",
-      "B": "Osteoporosis",
-      "C": "Hyperthyroidism",
-      "D": "Kidney stones"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "042202a4-d125-4fc5-8d18-b12b6db5ff68",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which drug is used to manage pain in acute pancreatitis?",
-    "options": {
-      "A": "Calcitonin",
-      "B": "Insulin",
-      "C": "Analgesics (e.g., morphine)",
-      "D": "Levothyroxine"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "88afcba4-3690-4818-9464-e803d14f95c2",
-    "section": "MCQ on Pancreatitis",
-    "question": "A nursing intervention for acute pancreatitis includes:",
-    "options": {
-      "A": "Encouraging a high-fat diet",
-      "B": "Restricting all fluids",
-      "C": "Maintaining NPO (nothing by mouth) status",
-      "D": "Limiting pain medication"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "55dadf4d-a8da-4821-8e8c-e6549ceee6dd",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which electrolyte imbalance is common in acute pancreatitis?",
-    "options": {
-      "A": "Hypocalcemia",
-      "B": "Hyperphosphatemia",
-      "C": "Hyperkalemia",
-      "D": "Hyponatremia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "8a0f4a60-aa2b-49bd-a010-3a6102769de8",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which condition can trigger acute pancreatitis?",
-    "options": {
       "A": "Hypothyroidism",
-      "B": "Adrenal insufficiency",
-      "C": "Hypertriglyceridemia",
+      "B": "Hyperglycemia",
+      "C": "Gallstones",
       "D": "Iodine deficiency"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a50e5e84-ddfb-4f90-9ec5-fd0d938586f7",
+    "id": "6e28f7df-8fb2-45f2-86a3-0e027a95c1f4",
     "section": "MCQ on Pancreatitis",
-    "question": "A dietary recommendation for pancreatitis includes:",
+    "question": "Which symptom is characteristic of acute pancreatitis?",
     "options": {
-      "A": "High-fat diet",
-      "B": "High-sugar diet",
-      "C": "Low-fat diet",
-      "D": "Low-protein diet"
+      "A": "Exophthalmos",
+      "B": "Tetany",
+      "C": "Severe epigastric pain",
+      "D": "Weight gain"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "88b8ef16-4d8e-4224-8fdf-546d924d8bf2",
+    "id": "8324455f-7548-4bfd-bab0-41dd78acf927",
     "section": "MCQ on Pancreatitis",
-    "question": "Which sign is associated with severe acute pancreatitis?",
+    "question": "Chronic pancreatitis is often associated with:",
     "options": {
-      "A": "Chvostek’s sign",
-      "B": "Murphy’s sign",
-      "C": "Cullen’s sign",
-      "D": "Trousseau’s sign"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "939f9393-bc3e-4aed-9a4e-250c14ee3b72",
-    "section": "MCQ on Pancreatitis",
-    "question": "Grey Turner’s sign in pancreatitis indicates:",
-    "options": {
-      "A": "Muscle spasms",
-      "B": "Bruising around the flank",
-      "C": "Pain on inspiration",
-      "D": "Facial twitching"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "99a5da85-40c4-42a3-a0a6-5f17c6145519",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which test assesses pancreatic function in chronic pancreatitis?",
-    "options": {
-      "A": "Thyroid function test",
-      "B": "ACTH stimulation test",
-      "C": "Fecal elastase test",
-      "D": "Water deprivation test"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "bab16b5b-198f-42f5-9571-0a7a545d896b",
-    "section": "MCQ on Pancreatitis",
-    "question": "A common complication of chronic pancreatitis is:",
-    "options": {
-      "A": "Hypocalcemia",
-      "B": "Kidney stones",
-      "C": "Diabetes mellitus",
-      "D": "Hyperthyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b86dc04f-394a-44a7-bd0c-3a474430c789",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which imaging test visualizes the pancreatic duct in pancreatitis?",
-    "options": {
-      "A": "Chest X-ray",
-      "B": "Endoscopic retrograde cholangiopancreatography (ERCP)",
-      "C": "Thyroid scan",
-      "D": "Bone scan"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "bb2d5658-3e9b-4d86-b385-5153cd241d56",
-    "section": "MCQ on Pancreatitis",
-    "question": "A patient with pancreatitis should avoid:",
-    "options": {
-      "A": "Lean proteins",
-      "B": "Non-starchy vegetables",
-      "C": "High-fiber foods",
-      "D": "Alcohol"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "ede07a41-eede-49a0-bef6-0b96fe914d5a",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which symptom is NOT typical of acute pancreatitis?",
-    "options": {
-      "A": "Weight loss",
-      "B": "Nausea",
-      "C": "Fever",
-      "D": "Abdominal pain"
+      "A": "Long-term alcohol abuse",
+      "B": "Low-fat diet",
+      "C": "Short-term alcohol use",
+      "D": "High-fiber diet"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "618bc946-81eb-4671-89f1-c530b3e784a2",
+    "id": "058d24e2-b51d-4682-8f4f-4508f21f436a",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which laboratory test is elevated in pancreatitis?",
+    "options": {
+      "A": "Blood glucose",
+      "B": "Serum amylase",
+      "C": "Serum calcium",
+      "D": "Thyroid hormone levels"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cf657b0d-d068-4c0d-b428-f87510316e59",
+    "section": "MCQ on Pancreatitis",
+    "question": "The normal range for serum amylase is approximately:",
+    "options": {
+      "A": "200-300 U/L",
+      "B": "25-125 U/L",
+      "C": "150-200 U/L",
+      "D": "Below 20 U/L"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "a9e052ee-f206-4136-9910-241bb43f4207",
+    "section": "MCQ on Pancreatitis",
+    "question": "Another enzyme elevated in pancreatitis is:",
+    "options": {
+      "A": "Cortisol",
+      "B": "Thyroxine",
+      "C": "Insulin",
+      "D": "Lipase"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "1591ebe6-98e0-4af9-bba4-b9e457f0959e",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which diagnostic imaging test is used to confirm pancreatitis?",
+    "options": {
+      "A": "DEXA scan",
+      "B": "Abdominal CT scan",
+      "C": "Thyroid ultrasound",
+      "D": "Chest X-ray"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "4e5bf0f8-95f3-4f9b-8410-2f3f2168309d",
+    "section": "MCQ on Pancreatitis",
+    "question": "A common symptom of pancreatitis is:",
+    "options": {
+      "A": "Weight gain",
+      "B": "Nausea and vomiting",
+      "C": "Hypoglycemia",
+      "D": "Cold intolerance"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "44574acb-2b29-4354-9aa7-6ec75f55968c",
+    "section": "MCQ on Pancreatitis",
+    "question": "Pain in acute pancreatitis often radiates to:",
+    "options": {
+      "A": "The back",
+      "B": "The legs",
+      "C": "The arms",
+      "D": "The chest"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "b8733c19-944a-4368-ae87-064c174ce2f1",
+    "section": "MCQ on Pancreatitis",
+    "question": "A complication of acute pancreatitis is:",
+    "options": {
+      "A": "Pancreatic pseudocyst",
+      "B": "Kidney stones",
+      "C": "Hyperthyroidism",
+      "D": "Osteoporosis"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "65eda06f-daf3-45e1-bb68-92a811803fe7",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which drug is used to manage pain in acute pancreatitis?",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Insulin",
+      "C": "Analgesics (e.g., morphine)",
+      "D": "Calcitonin"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "a7e0471d-68d0-4e9b-97b2-3e01f541b63b",
+    "section": "MCQ on Pancreatitis",
+    "question": "A nursing intervention for acute pancreatitis includes:",
+    "options": {
+      "A": "Encouraging a high-fat diet",
+      "B": "Limiting pain medication",
+      "C": "Maintaining NPO (nothing by mouth) status",
+      "D": "Restricting all fluids"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "5efacbd8-225e-413b-9b53-5b56805c3a14",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which electrolyte imbalance is common in acute pancreatitis?",
+    "options": {
+      "A": "Hyperphosphatemia",
+      "B": "Hypocalcemia",
+      "C": "Hyperkalemia",
+      "D": "Hyponatremia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "798edb34-f03a-4254-ab2c-203780bce472",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which condition can trigger acute pancreatitis?",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Iodine deficiency",
+      "C": "Hypertriglyceridemia",
+      "D": "Adrenal insufficiency"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "07803ee0-5819-40ff-b8a3-c8e03b85604a",
+    "section": "MCQ on Pancreatitis",
+    "question": "A dietary recommendation for pancreatitis includes:",
+    "options": {
+      "A": "Low-fat diet",
+      "B": "High-fat diet",
+      "C": "High-sugar diet",
+      "D": "Low-protein diet"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "b9caddd4-d27b-4646-8988-c7bb5e68de07",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which sign is associated with severe acute pancreatitis?",
+    "options": {
+      "A": "Murphy���s sign",
+      "B": "Cullen���s sign",
+      "C": "Chvostek���s sign",
+      "D": "Trousseau���s sign"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "9415bbc6-f3f6-44df-9aef-7e7754a91364",
+    "section": "MCQ on Pancreatitis",
+    "question": "Grey Turner���s sign in pancreatitis indicates:",
+    "options": {
+      "A": "Muscle spasms",
+      "B": "Bruising around the flank",
+      "C": "Facial twitching",
+      "D": "Pain on inspiration"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "7bc122f8-fb98-45ac-9ecb-64c38735f900",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which test assesses pancreatic function in chronic pancreatitis?",
+    "options": {
+      "A": "Water deprivation test",
+      "B": "Fecal elastase test",
+      "C": "Thyroid function test",
+      "D": "ACTH stimulation test"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "dbf03d5c-e6e9-4aeb-bc5a-35c4854a43f5",
+    "section": "MCQ on Pancreatitis",
+    "question": "A common complication of chronic pancreatitis is:",
+    "options": {
+      "A": "Diabetes mellitus",
+      "B": "Kidney stones",
+      "C": "Hyperthyroidism",
+      "D": "Hypocalcemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "1981e639-1b5c-4e60-8b72-53bb4f85dd50",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which imaging test visualizes the pancreatic duct in pancreatitis?",
+    "options": {
+      "A": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+      "B": "Thyroid scan",
+      "C": "Chest X-ray",
+      "D": "Bone scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "d267265e-180b-4836-9dc8-31253dccae42",
+    "section": "MCQ on Pancreatitis",
+    "question": "A patient with pancreatitis should avoid:",
+    "options": {
+      "A": "Lean proteins",
+      "B": "Alcohol",
+      "C": "High-fiber foods",
+      "D": "Non-starchy vegetables"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "ef86bfa5-016e-4dfb-b8e2-15f2210d113a",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which symptom is NOT typical of acute pancreatitis?",
+    "options": {
+      "A": "Nausea",
+      "B": "Abdominal pain",
+      "C": "Fever",
+      "D": "Weight loss"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "2ee0017f-718c-446d-8bc7-f627cce6b4d8",
     "section": "MCQ on Pancreatitis",
     "question": "The treatment for acute pancreatitis often includes:",
     "options": {
-      "A": "Thyroid hormone replacement",
-      "B": "Oral glucose",
+      "A": "Oral glucose",
+      "B": "Thyroid hormone replacement",
       "C": "Calcium supplements",
       "D": "Intravenous fluids"
     },
@@ -6111,98 +6111,98 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "298e88a0-fe0e-4736-83e9-38ad8656a006",
+    "id": "5a83ce59-c0d9-4cd6-aaff-c7ff5400f058",
     "section": "MCQ on Pancreatitis",
     "question": "Chronic pancreatitis may lead to:",
     "options": {
       "A": "Malabsorption of fats",
       "B": "Hyperglycemia",
-      "C": "Hypercalcemia",
-      "D": "Hypothyroidism"
+      "C": "Hypothyroidism",
+      "D": "Hypercalcemia"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "9ea932d5-09e4-48db-8d4c-09183b75e682",
+    "id": "27768ba9-7d47-4de1-8ba8-b710e4196504",
     "section": "MCQ on Pancreatitis",
     "question": "Which drug may be used to reduce pancreatic secretions in acute pancreatitis?",
     "options": {
-      "A": "Levothyroxine",
-      "B": "Metformin",
+      "A": "Octreotide",
+      "B": "Levothyroxine",
       "C": "Desmopressin",
-      "D": "Octreotide"
+      "D": "Metformin"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "dc69b30e-97e9-46c7-957b-1e1737cfa386",
+    "section": "MCQ on Pancreatitis",
+    "question": "A nursing priority in acute pancreatitis is to monitor:",
+    "options": {
+      "A": "Thyroid function",
+      "B": "Blood glucose only",
+      "C": "Calcium levels only",
+      "D": "Blood pressure and pain"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "76c7aa3a-e9d0-4d27-b0a4-d7213e6a4269",
-    "section": "MCQ on Pancreatitis",
-    "question": "A nursing priority in acute pancreatitis is to monitor:",
-    "options": {
-      "A": "Blood glucose only",
-      "B": "Blood pressure and pain",
-      "C": "Thyroid function",
-      "D": "Calcium levels only"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "7590a167-0ed4-4083-9ed2-de3b926e020f",
+    "id": "ef0b568d-1794-430e-bc0d-5b5d8f7b220b",
     "section": "MCQ on Pancreatitis",
     "question": "Which laboratory finding indicates severe pancreatitis?",
     "options": {
-      "A": "High cortisol",
-      "B": "Low thyroid hormone",
-      "C": "Elevated C-reactive protein (CRP)",
-      "D": "Low insulin"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "c6214fc8-1162-465d-94fa-ef413e5f762b",
-    "section": "MCQ on Pancreatitis",
-    "question": "A risk factor for chronic pancreatitis is:",
-    "options": {
-      "A": "Dehydration",
-      "B": "Smoking",
-      "C": "Low-fat diet",
-      "D": "Hypothyroidism"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "3706b9ba-bc83-45a0-9991-ce2fd5810078",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which symptom is specific to chronic pancreatitis?",
-    "options": {
-      "A": "Steatorrhea",
-      "B": "Polyuria",
-      "C": "Tetany",
-      "D": "Weight gain"
+      "A": "Elevated C-reactive protein (CRP)",
+      "B": "Low insulin",
+      "C": "High cortisol",
+      "D": "Low thyroid hormone"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ab491e91-666c-4f43-8648-799f04c6002a",
+    "id": "9fccac98-f47b-4443-9aff-e0793234a9cc",
     "section": "MCQ on Pancreatitis",
-    "question": "Pancreatic enzyme supplements are used in chronic pancreatitis to:",
+    "question": "A risk factor for chronic pancreatitis is:",
     "options": {
-      "A": "Lower blood sugar",
-      "B": "Reduce pain",
-      "C": "Aid digestion",
-      "D": "Increase bile production"
+      "A": "Hypothyroidism",
+      "B": "Smoking",
+      "C": "Dehydration",
+      "D": "Low-fat diet"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "67b4c325-32cf-437c-ad4e-a9c09372dc8d",
+    "id": "096c978f-09f5-475f-b1d8-c4616819053b",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which symptom is specific to chronic pancreatitis?",
+    "options": {
+      "A": "Tetany",
+      "B": "Steatorrhea",
+      "C": "Weight gain",
+      "D": "Polyuria"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "94313cad-74ed-40ff-8fc7-6e9a93b4f0b2",
+    "section": "MCQ on Pancreatitis",
+    "question": "Pancreatic enzyme supplements are used in chronic pancreatitis to:",
+    "options": {
+      "A": "Reduce pain",
+      "B": "Aid digestion",
+      "C": "Increase bile production",
+      "D": "Lower blood sugar"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "318287c6-d51d-4976-90cf-3246055490b1",
     "section": "MCQ on Pancreatitis",
     "question": "Which test confirms gallstone-related pancreatitis?",
     "options": {
@@ -6215,228 +6215,228 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "6ae9bc19-9d24-4e52-81ec-eff1df715556",
+    "id": "aa092819-9886-4b84-a6b2-ddd6a33a3bfa",
     "section": "MCQ on Pancreatitis",
     "question": "A severe complication of acute pancreatitis is:",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Osteoporosis",
-      "C": "Hypoglycemia",
-      "D": "Acute respiratory distress syndrome (ARDS)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "578d75dd-0a90-402e-a3db-3781c8df145b",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which symptom of pancreatitis is due to fat malabsorption?",
-    "options": {
-      "A": "Tetany",
-      "B": "Steatorrhea",
-      "C": "Jaundice",
-      "D": "Fever"
+      "A": "Hypoglycemia",
+      "B": "Acute respiratory distress syndrome (ARDS)",
+      "C": "Hyperthyroidism",
+      "D": "Osteoporosis"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "f593cd15-d4a7-4ca0-b67e-58338b64c353",
+    "id": "47203d95-2888-4468-8fdf-51fb432d2e78",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which symptom of pancreatitis is due to fat malabsorption?",
+    "options": {
+      "A": "Jaundice",
+      "B": "Steatorrhea",
+      "C": "Fever",
+      "D": "Tetany"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "6af6c30e-f7f3-41ad-b467-e4ad6d530ec2",
     "section": "MCQ on Pancreatitis",
     "question": "A patient with acute pancreatitis may be placed on:",
     "options": {
       "A": "A high-fat diet",
-      "B": "Bowel rest (NPO)",
-      "C": "Unlimited fluids",
-      "D": "A high-sugar diet"
+      "B": "A high-sugar diet",
+      "C": "Bowel rest (NPO)",
+      "D": "Unlimited fluids"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "1fd15a2f-4481-4672-a91e-f1c6d333d2a5",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which drug is used to manage nausea in pancreatitis?",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Levothyroxine",
+      "C": "Insulin",
+      "D": "Antiemetics (e.g., ondansetron)"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "3db155ec-ea4d-45a0-b7d8-8ef3fa939da9",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which condition is NOT a common cause of pancreatitis?",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Alcohol abuse",
+      "C": "Hypertriglyceridemia",
+      "D": "Gallstones"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cc759582-1e51-4093-b985-3ecc1070ba72",
+    "section": "MCQ on Pancreatitis",
+    "question": "A patient with chronic pancreatitis may develop:",
+    "options": {
+      "A": "Pancreatic cancer",
+      "B": "Hypocalcemia",
+      "C": "Hyperthyroidism",
+      "D": "Kidney stones"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "f8cf1025-0089-443e-9d63-6cbf05ae9d00",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which imaging test is used to detect pancreatic pseudocysts?",
+    "options": {
+      "A": "Chest X-ray",
+      "B": "Abdominal CT scan",
+      "C": "Thyroid ultrasound",
+      "D": "DEXA scan"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "ec819247-b79e-4c2e-b584-0cda48cc68cf",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which drug is used to manage nausea in pancreatitis?",
-    "options": {
-      "A": "Levothyroxine",
-      "B": "Insulin",
-      "C": "Antiemetics (e.g., ondansetron)",
-      "D": "Calcitonin"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "83ea15ef-abcf-42d1-b062-ad047aa8eec4",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which condition is NOT a common cause of pancreatitis?",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Gallstones",
-      "C": "Hypertriglyceridemia",
-      "D": "Alcohol abuse"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "8dc3d4bd-41d9-4af5-a7d8-f98714a37d09",
-    "section": "MCQ on Pancreatitis",
-    "question": "A patient with chronic pancreatitis may develop:",
-    "options": {
-      "A": "Hyperthyroidism",
-      "B": "Kidney stones",
-      "C": "Hypocalcemia",
-      "D": "Pancreatic cancer"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "a116c2d8-6050-40b1-9fef-63a894c4f481",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which imaging test is used to detect pancreatic pseudocysts?",
-    "options": {
-      "A": "Chest X-ray",
-      "B": "Thyroid ultrasound",
-      "C": "DEXA scan",
-      "D": "Abdominal CT scan"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "235b1d3a-760a-45f4-8a9c-5514e9744c41",
+    "id": "e097192c-9660-4325-960a-11469c101a3d",
     "section": "MCQ on Pancreatitis",
     "question": "A nursing intervention for chronic pancreatitis includes:",
     "options": {
-      "A": "Limiting pain management",
-      "B": "Restricting all carbohydrates",
+      "A": "Monitoring for malabsorption symptoms",
+      "B": "Limiting pain management",
       "C": "Encouraging alcohol consumption",
-      "D": "Monitoring for malabsorption symptoms"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2ab10d28-9988-4e91-b339-1f2722b4e5e3",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which electrolyte should be monitored in acute pancreatitis?",
-    "options": {
-      "A": "Calcium",
-      "B": "Potassium",
-      "C": "Sodium",
-      "D": "Magnesium"
+      "D": "Restricting all carbohydrates"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "fb43ae47-4b79-48a2-81d5-b0765b6ea0e9",
+    "id": "f04336ac-6d7e-42b6-8eb4-be26b997c863",
     "section": "MCQ on Pancreatitis",
-    "question": "The Ranson criteria are used to assess:",
+    "question": "Which electrolyte should be monitored in acute pancreatitis?",
     "options": {
-      "A": "Blood glucose levels",
-      "B": "Adrenal function",
-      "C": "Severity of acute pancreatitis",
-      "D": "Thyroid function"
+      "A": "Magnesium",
+      "B": "Sodium",
+      "C": "Calcium",
+      "D": "Potassium"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "b35fbb71-073f-4efe-9bba-b86f9eb5cbbf",
+    "id": "8a16fd76-38a4-464c-aaac-0ccf15163c0a",
+    "section": "MCQ on Pancreatitis",
+    "question": "The Ranson criteria are used to assess:",
+    "options": {
+      "A": "Severity of acute pancreatitis",
+      "B": "Adrenal function",
+      "C": "Blood glucose levels",
+      "D": "Thyroid function"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "2bd0e60f-f073-4fb8-8faa-2acb0caeaa26",
     "section": "MCQ on Pancreatitis",
     "question": "Which symptom is associated with severe acute pancreatitis?",
     "options": {
       "A": "Shock",
       "B": "Cold intolerance",
-      "C": "Hypoglycemia",
-      "D": "Weight gain"
+      "C": "Weight gain",
+      "D": "Hypoglycemia"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "e1f31aad-a253-4bd7-894f-2bc7cdc1a353",
+    "id": "136f3d75-dc73-4c32-8160-c4c25fa3c6dd",
     "section": "MCQ on Pancreatitis",
     "question": "Pancreatic pseudocysts are treated with:",
     "options": {
-      "A": "Drainage or surgery",
+      "A": "Insulin therapy",
       "B": "Calcium supplements",
       "C": "Thyroid hormone replacement",
-      "D": "Insulin therapy"
+      "D": "Drainage or surgery"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "2194ceca-d7c8-4d04-a762-4ae2c75a67c1",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which dietary recommendation is appropriate for chronic pancreatitis?",
+    "options": {
+      "A": "Low-protein diet",
+      "B": "Low-fat, small frequent meals",
+      "C": "High-fat diet",
+      "D": "High-sugar diet"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "1c2e2467-e569-448b-b489-66099fda59bf",
+    "section": "MCQ on Pancreatitis",
+    "question": "Which complication of pancreatitis affects the lungs?",
+    "options": {
+      "A": "Pleural effusion",
+      "B": "Osteoporosis",
+      "C": "Hypothyroidism",
+      "D": "Kidney stones"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "9d464909-088b-4cf8-b6d0-43746e29d054",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which dietary recommendation is appropriate for chronic pancreatitis?",
-    "options": {
-      "A": "High-fat diet",
-      "B": "High-sugar diet",
-      "C": "Low-fat, small frequent meals",
-      "D": "Low-protein diet"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "51bb6797-6470-47db-8bb3-511d64cfe5cb",
-    "section": "MCQ on Pancreatitis",
-    "question": "Which complication of pancreatitis affects the lungs?",
-    "options": {
-      "A": "Osteoporosis",
-      "B": "Hypothyroidism",
-      "C": "Pleural effusion",
-      "D": "Kidney stones"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "c2b1f068-a549-4b04-bc5a-7c18ebc4f0b3",
+    "id": "5b275847-78f0-4eab-828f-9f6fb2c99a47",
     "section": "MCQ on Jaundice",
     "question": "Post-pancreatitis, a patient may need:",
     "options": {
-      "A": "Antithyroid drugs",
+      "A": "Thyroid hormone replacement",
       "B": "Calcium supplements",
-      "C": "Thyroid hormone replacement",
+      "C": "Antithyroid drugs",
       "D": "Pancreatic enzyme supplements"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "affe12c0-9a45-4f53-8914-56a8cddbbf6e",
+    "id": "ecd14a37-fe82-4d36-9614-234474809848",
     "section": "MCQ on Jaundice",
     "question": "Jaundice is characterized by:",
     "options": {
-      "A": "Muscle spasms",
-      "B": "Yellowing of the skin and eyes",
+      "A": "Hypoglycemia",
+      "B": "Muscle spasms",
       "C": "Weight gain",
-      "D": "Hypoglycemia"
+      "D": "Yellowing of the skin and eyes"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "25e7c73d-8970-474a-bb42-ba39a86c97fb",
+    "section": "MCQ on Jaundice",
+    "question": "The primary cause of jaundice is an elevation of:",
+    "options": {
+      "A": "Blood glucose",
+      "B": "Bilirubin",
+      "C": "Thyroid hormone",
+      "D": "Serum calcium"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "e0b09c85-e089-425d-bca5-914a521d3064",
-    "section": "MCQ on Jaundice",
-    "question": "The primary cause of jaundice is an elevation of:",
-    "options": {
-      "A": "Serum calcium",
-      "B": "Blood glucose",
-      "C": "Bilirubin",
-      "D": "Thyroid hormone"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b1a9e853-4272-4f2d-a5f0-48842506b7a1",
+    "id": "4d278146-b0d9-4c89-93b3-f229916e73f1",
     "section": "MCQ on Jaundice",
     "question": "Which type of jaundice is caused by liver dysfunction?",
     "options": {
@@ -6449,245 +6449,63 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "1010d6d3-4b70-4fff-8ffd-0c851fe40a96",
+    "id": "88ab23cb-e98f-472a-ac19-a9a04576a2ba",
     "section": "MCQ on Jaundice",
     "question": "A common symptom of jaundice is:",
     "options": {
-      "A": "Polyuria",
-      "B": "Tetany",
-      "C": "Dark urine",
-      "D": "Weight gain"
+      "A": "Tetany",
+      "B": "Polyuria",
+      "C": "Weight gain",
+      "D": "Dark urine"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "4c2bd8f5-b1dd-452a-8260-a6a8e5f12cd1",
+    "id": "7af5bf1d-fd26-4240-aba6-30f3cf1881b9",
     "section": "MCQ on Jaundice",
     "question": "Which diagnostic test confirms elevated bilirubin levels in jaundice?",
     "options": {
-      "A": "ACTH stimulation test",
+      "A": "Glucose tolerance test",
       "B": "Liver function tests (LFTs)",
-      "C": "Glucose tolerance test",
+      "C": "ACTH stimulation test",
       "D": "Thyroid function tests"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "f0bd5f72-10fb-4d98-a15d-6b412671cc60",
+    "id": "c5eb28f4-40db-44bf-8ea3-9f54c11d6710",
     "section": "MCQ on Jaundice",
     "question": "Post-hepatic jaundice is often caused by:",
     "options": {
       "A": "Alcohol abuse",
       "B": "Gallstones obstructing the bile duct",
-      "C": "Hypothyroidism",
-      "D": "Hemolysis"
+      "C": "Hemolysis",
+      "D": "Hypothyroidism"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "d4ec2f1e-d2cc-4254-8751-de290034c462",
+    "id": "ecd46041-953b-4b8a-9d1c-ed321b8a1843",
     "section": "MCQ on Jaundice",
     "question": "A nursing intervention for jaundice includes:",
     "options": {
       "A": "Encouraging a high-fat diet",
       "B": "Monitoring for itching (pruritus)",
-      "C": "Restricting all fluids",
-      "D": "Limiting skin care"
+      "C": "Limiting skin care",
+      "D": "Restricting all fluids"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "3fc40a85-4597-4b41-8821-e291f1c54cba",
+    "id": "794f2663-a5bc-420e-b4dd-4c09882d46fa",
     "section": "MCQ on Jaundice",
     "question": "Hepatic cirrhosis is defined as:",
     "options": {
-      "A": "Formation of gallstones",
-      "B": "Scarring of the liver tissue",
-      "C": "Obstruction of the bile duct",
-      "D": "Inflammation of the liver"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "32bcdd00-0a56-4e8b-92af-be94199ae844",
-    "section": "MCQ on Jaundice",
-    "question": "A common cause of hepatic cirrhosis is:",
-    "options": {
-      "A": "Chronic alcohol abuse",
-      "B": "Iodine deficiency",
-      "C": "Hypothyroidism",
-      "D": "Hyperglycemia"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "60ee12cd-15a2-457f-a7e6-211d51136cbd",
-    "section": "MCQ on Jaundice",
-    "question": "Which symptom is associated with hepatic cirrhosis?",
-    "options": {
-      "A": "Exophthalmos",
-      "B": "Ascites",
-      "C": "Tetany",
-      "D": "Weight loss"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "d7d01f76-5701-4105-8aba-0c07d3d5613b",
-    "section": "MCQ on Jaundice",
-    "question": "The normal range for serum albumin is:",
-    "options": {
-      "A": "5.5-7.0 g/dL",
-      "B": "1.0-2.0 g/dL",
-      "C": "3.5-5.0 g/dL",
-      "D": "Below 1.0 g/dL"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "20849cd5-8965-4169-9a47-720802b72ca5",
-    "section": "MCQ on Jaundice",
-    "question": "Which diagnostic test evaluates liver damage in cirrhosis?",
-    "options": {
-      "A": "Liver biopsy",
-      "B": "Thyroid scan",
-      "C": "ACTH stimulation test",
-      "D": "Glucose tolerance test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "9bd8528e-dab6-4ee5-8b7d-8116447e9025",
-    "section": "MCQ on Jaundice",
-    "question": "A complication of hepatic cirrhosis is:",
-    "options": {
-      "A": "Osteoporosis",
-      "B": "Portal hypertension",
-      "C": "Hyperthyroidism",
-      "D": "Hypoglycemia"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "451c06cb-61d5-45e8-b6a5-775db68e137a",
-    "section": "MCQ on Jaundice",
-    "question": "Which drug is used to reduce ammonia levels in cirrhosis?",
-    "options": {
-      "A": "Lactulose",
-      "B": "Calcitonin",
-      "C": "Insulin",
-      "D": "Levothyroxine"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "f3c21ba2-74f0-41b9-ab4b-eaa538c03311",
-    "section": "MCQ on Jaundice",
-    "question": "Portal hypertension is caused by:",
-    "options": {
-      "A": "Decreased bilirubin levels",
-      "B": "Increased pressure in the portal vein",
-      "C": "Hypocalcemia",
-      "D": "Increased blood flow to the liver"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "ef2be3d6-98b1-4499-b8db-692888fd1187",
-    "section": "MCQ on Jaundice",
-    "question": "A common cause of portal hypertension is:",
-    "options": {
-      "A": "Hyperglycemia",
-      "B": "Hypothyroidism",
-      "C": "Gallstones",
-      "D": "Hepatic cirrhosis"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "527e874c-c7a6-4680-bd20-09be04fc4637",
-    "section": "MCQ on Jaundice",
-    "question": "Which symptom is associated with portal hypertension?",
-    "options": {
-      "A": "Tetany",
-      "B": "Polyuria",
-      "C": "Weight gain",
-      "D": "Esophageal varices"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "96c32a57-c644-4522-a1d0-8733646cbc2b",
-    "section": "MCQ on Jaundice",
-    "question": "Which diagnostic test visualizes esophageal varices in portal hypertension?",
-    "options": {
-      "A": "DEXA scan",
-      "B": "Endoscopy",
-      "C": "Thyroid ultrasound",
-      "D": "ECG"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "663eca1f-ff96-4912-b21c-190aff4aa71f",
-    "section": "MCQ on Jaundice",
-    "question": "A complication of portal hypertension is:",
-    "options": {
-      "A": "Kidney stones",
-      "B": "Hypothyroidism",
-      "C": "Hyperglycemia",
-      "D": "Variceal bleeding"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "ea3a01f4-0665-429d-9152-71c7682bf7c3",
-    "section": "MCQ on Jaundice",
-    "question": "Which drug is used to prevent bleeding from esophageal varices?",
-    "options": {
-      "A": "Desmopressin",
-      "B": "Levothyroxine",
-      "C": "Propranolol",
-      "D": "Metformin"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "ddd60543-f12c-4207-afbf-569aa66487f7",
-    "section": "MCQ on Jaundice",
-    "question": "A nursing intervention for portal hypertension includes:",
-    "options": {
-      "A": "Restricting all fluids",
-      "B": "Monitoring for signs of bleeding",
-      "C": "Limiting physical activity",
-      "D": "Encouraging a high-sodium diet"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "d123a340-732f-494f-8e8a-2e773f7c2701",
-    "section": "MCQ on Jaundice",
-    "question": "Ascites is defined as:",
-    "options": {
-      "A": "Fluid accumulation in the peritoneal cavity",
+      "A": "Scarring of the liver tissue",
       "B": "Inflammation of the liver",
       "C": "Obstruction of the bile duct",
       "D": "Formation of gallstones"
@@ -6696,103 +6514,285 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "b6afecd8-a609-4514-820c-44700da4a6e2",
+    "id": "72daf66c-8cd3-4287-9301-f79427dee784",
     "section": "MCQ on Jaundice",
-    "question": "A common cause of ascites is:",
+    "question": "A common cause of hepatic cirrhosis is:",
     "options": {
       "A": "Hypothyroidism",
-      "B": "Iodine deficiency",
-      "C": "Hepatic cirrhosis",
-      "D": "Hyperglycemia"
+      "B": "Hyperglycemia",
+      "C": "Iodine deficiency",
+      "D": "Chronic alcohol abuse"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "503fe524-3c3a-4941-9324-a19c50d00e40",
+    "section": "MCQ on Jaundice",
+    "question": "Which symptom is associated with hepatic cirrhosis?",
+    "options": {
+      "A": "Exophthalmos",
+      "B": "Ascites",
+      "C": "Weight loss",
+      "D": "Tetany"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "bc3fba87-c8e9-41c4-900a-f5dfa45a8b3d",
+    "section": "MCQ on Jaundice",
+    "question": "The normal range for serum albumin is:",
+    "options": {
+      "A": "Below 1.0 g/dL",
+      "B": "3.5-5.0 g/dL",
+      "C": "5.5-7.0 g/dL",
+      "D": "1.0-2.0 g/dL"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "fefa0c1e-9093-401c-b4f8-a544455bfdd1",
+    "section": "MCQ on Jaundice",
+    "question": "Which diagnostic test evaluates liver damage in cirrhosis?",
+    "options": {
+      "A": "Liver biopsy",
+      "B": "Glucose tolerance test",
+      "C": "ACTH stimulation test",
+      "D": "Thyroid scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "2e401370-78f4-434b-aee3-d89db6c2f1d9",
+    "section": "MCQ on Jaundice",
+    "question": "A complication of hepatic cirrhosis is:",
+    "options": {
+      "A": "Portal hypertension",
+      "B": "Osteoporosis",
+      "C": "Hypoglycemia",
+      "D": "Hyperthyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "49341059-eb2c-42fd-aa24-0de084faeec1",
+    "section": "MCQ on Jaundice",
+    "question": "Which drug is used to reduce ammonia levels in cirrhosis?",
+    "options": {
+      "A": "Calcitonin",
+      "B": "Levothyroxine",
+      "C": "Insulin",
+      "D": "Lactulose"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "fc991c2c-22ee-4b13-956c-7601da56f4c7",
+    "section": "MCQ on Jaundice",
+    "question": "Portal hypertension is caused by:",
+    "options": {
+      "A": "Increased blood flow to the liver",
+      "B": "Hypocalcemia",
+      "C": "Decreased bilirubin levels",
+      "D": "Increased pressure in the portal vein"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "d974ed7d-d72e-4223-9c59-10e64c839c1a",
+    "section": "MCQ on Jaundice",
+    "question": "A common cause of portal hypertension is:",
+    "options": {
+      "A": "Hepatic cirrhosis",
+      "B": "Hyperglycemia",
+      "C": "Hypothyroidism",
+      "D": "Gallstones"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "60e7c52a-571d-4a73-99c7-5128e7979749",
+    "section": "MCQ on Jaundice",
+    "question": "Which symptom is associated with portal hypertension?",
+    "options": {
+      "A": "Tetany",
+      "B": "Polyuria",
+      "C": "Esophageal varices",
+      "D": "Weight gain"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "068c49de-7347-4cbe-b074-598a38764e89",
+    "id": "5612e753-a3e2-4c3f-b54b-34e6ad958115",
+    "section": "MCQ on Jaundice",
+    "question": "Which diagnostic test visualizes esophageal varices in portal hypertension?",
+    "options": {
+      "A": "Endoscopy",
+      "B": "Thyroid ultrasound",
+      "C": "ECG",
+      "D": "DEXA scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "984fe664-18ef-45ba-9ddd-1a4d4bf98419",
+    "section": "MCQ on Jaundice",
+    "question": "A complication of portal hypertension is:",
+    "options": {
+      "A": "Variceal bleeding",
+      "B": "Kidney stones",
+      "C": "Hyperglycemia",
+      "D": "Hypothyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e4d9baf5-6c21-4bb3-b7a0-35bc4796a097",
+    "section": "MCQ on Jaundice",
+    "question": "Which drug is used to prevent bleeding from esophageal varices?",
+    "options": {
+      "A": "Desmopressin",
+      "B": "Propranolol",
+      "C": "Levothyroxine",
+      "D": "Metformin"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "0ef794bd-d5e9-410d-b016-723d3d86d6d1",
+    "section": "MCQ on Jaundice",
+    "question": "A nursing intervention for portal hypertension includes:",
+    "options": {
+      "A": "Restricting all fluids",
+      "B": "Limiting physical activity",
+      "C": "Monitoring for signs of bleeding",
+      "D": "Encouraging a high-sodium diet"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "ef7d5e58-5efe-4490-8255-aeef37a78cb3",
+    "section": "MCQ on Jaundice",
+    "question": "Ascites is defined as:",
+    "options": {
+      "A": "Formation of gallstones",
+      "B": "Fluid accumulation in the peritoneal cavity",
+      "C": "Obstruction of the bile duct",
+      "D": "Inflammation of the liver"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "3894a737-8e7a-4709-a3b0-814ad44fc98a",
+    "section": "MCQ on Jaundice",
+    "question": "A common cause of ascites is:",
+    "options": {
+      "A": "Hepatic cirrhosis",
+      "B": "Hypothyroidism",
+      "C": "Iodine deficiency",
+      "D": "Hyperglycemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "62901b82-a6fa-46af-982b-25e3abd4196f",
     "section": "MCQ on Jaundice",
     "question": "Which symptom is associated with ascites?",
     "options": {
-      "A": "Abdominal distension",
-      "B": "Polyuria",
+      "A": "Polyuria",
+      "B": "Abdominal distension",
       "C": "Weight loss",
       "D": "Tetany"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "eee3b49f-8cb0-4213-b977-bbb320a5e682",
+    "id": "247409d9-b64d-40d3-be2a-a9d9d8f20b82",
     "section": "MCQ on Jaundice",
     "question": "Which diagnostic test confirms ascites?",
     "options": {
-      "A": "ACTH stimulation test",
-      "B": "Abdominal ultrasound",
-      "C": "Glucose tolerance test",
-      "D": "Thyroid scan"
+      "A": "Glucose tolerance test",
+      "B": "Thyroid scan",
+      "C": "Abdominal ultrasound",
+      "D": "ACTH stimulation test"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "1909ea12-adb7-4200-bb09-889c4e5f8263",
+    "id": "2b6e61f6-91b0-410e-b930-b2a3961cfeab",
     "section": "MCQ on Jaundice",
     "question": "A drug used to manage ascites is:",
     "options": {
-      "A": "Insulin",
-      "B": "Spironolactone",
-      "C": "Levothyroxine",
-      "D": "Calcitonin"
+      "A": "Levothyroxine",
+      "B": "Calcitonin",
+      "C": "Insulin",
+      "D": "Spironolactone"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "b862780c-65b1-4ab2-bed5-25dab17e5a70",
+    "id": "bd404c45-29c1-4dc4-bfc0-e51369a039d7",
     "section": "MCQ on Jaundice",
     "question": "A nursing intervention for ascites includes:",
     "options": {
-      "A": "Monitoring daily weight",
-      "B": "Restricting all fluids",
-      "C": "Limiting diuretic use",
-      "D": "Encouraging a high-sodium diet"
+      "A": "Restricting all fluids",
+      "B": "Encouraging a high-sodium diet",
+      "C": "Monitoring daily weight",
+      "D": "Limiting diuretic use"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bf44164d-9316-48e5-a9f2-c9b7b53b13ce",
+    "id": "c213834e-997b-4cc2-b20c-4cd932e2c3a8",
     "section": "MCQ on Jaundice",
     "question": "Paracentesis is a procedure used to:",
     "options": {
-      "A": "Remove fluid from the peritoneal cavity",
-      "B": "Treat hyperglycemia",
+      "A": "Diagnose thyroid disorders",
+      "B": "Remove fluid from the peritoneal cavity",
       "C": "Remove gallstones",
-      "D": "Diagnose thyroid disorders"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "ae69e4fd-e526-4fc1-9ce4-8ae48740eb04",
-    "section": "MCQ on Jaundice",
-    "question": "Hepatic encephalopathy is caused by:",
-    "options": {
-      "A": "High thyroid hormone",
-      "B": "High ammonia levels in the blood",
-      "C": "Low blood sugar",
-      "D": "Low calcium levels"
+      "D": "Treat hyperglycemia"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "27baf904-7071-4bec-9a64-d57d14a85c19",
+    "id": "e7e72b6b-181e-49c5-a2fb-f0cc4ee3eca2",
+    "section": "MCQ on Jaundice",
+    "question": "Hepatic encephalopathy is caused by:",
+    "options": {
+      "A": "Low calcium levels",
+      "B": "High ammonia levels in the blood",
+      "C": "Low blood sugar",
+      "D": "High thyroid hormone"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "5383c5ec-29b5-408b-a0d8-84a0bf6955bd",
     "section": "MCQ on Jaundice",
     "question": "A common symptom of hepatic encephalopathy is:",
     "options": {
-      "A": "Weight gain",
-      "B": "Tetany",
+      "A": "Tetany",
+      "B": "Weight gain",
       "C": "Confusion",
       "D": "Polyuria"
     },
@@ -6800,7 +6800,7 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "b8fa9446-52b9-4bba-a6c0-2090f6acc7ba",
+    "id": "f660d8c7-d090-4e36-9911-8d6f01b11117",
     "section": "MCQ on Jaundice",
     "question": "Which drug is used to reduce ammonia levels in hepatic encephalopathy?",
     "options": {
@@ -6813,33 +6813,33 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "1348e482-5e25-4779-bb86-5a33d679dc03",
+    "id": "8c92adf6-5d40-4c20-b3c9-2afa988717be",
     "section": "MCQ on Jaundice",
     "question": "A nursing intervention for hepatic encephalopathy includes:",
     "options": {
       "A": "Encouraging a high-protein diet",
-      "B": "Limiting lactulose use",
-      "C": "Monitoring neurological status",
-      "D": "Restricting all fluids"
+      "B": "Restricting all fluids",
+      "C": "Limiting lactulose use",
+      "D": "Monitoring neurological status"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "5a3b397b-7de8-4728-b724-59d334447758",
+    "id": "9c639185-358c-4395-a364-46aa2dd1a0db",
     "section": "MCQ on Jaundice",
     "question": "Hepatic coma is a severe form of:",
     "options": {
       "A": "Ascites",
-      "B": "Jaundice",
-      "C": "Hepatic encephalopathy",
-      "D": "Portal hypertension"
+      "B": "Hepatic encephalopathy",
+      "C": "Portal hypertension",
+      "D": "Jaundice"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "32eba738-96e3-4074-aa5a-b873d5745680",
+    "id": "c7b62694-149c-4e83-a3ed-80372c759b1f",
     "section": "MCQ on Jaundice",
     "question": "Which diagnostic test monitors ammonia levels in hepatic encephalopathy?",
     "options": {
@@ -6852,319 +6852,319 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "af501aa2-da2d-4b7e-ba14-24fefbfd1328",
+    "id": "8ddd6856-f451-4e40-97ca-d05170bb455e",
     "section": "MCQ on Jaundice",
     "question": "A dietary recommendation for hepatic encephalopathy is:",
     "options": {
-      "A": "High-sodium diet",
-      "B": "High-protein diet",
-      "C": "Low-protein diet",
-      "D": "High-fat diet"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "711b42b3-7ed2-4b6d-b200-5f8b2253e71d",
-    "section": "MCQ on Jaundice",
-    "question": "Viral hepatitis is caused by:",
-    "options": {
-      "A": "Viruses (e.g., Hepatitis A, B, C)",
-      "B": "Alcohol abuse",
-      "C": "Hypothyroidism",
-      "D": "Gallstones"
+      "A": "Low-protein diet",
+      "B": "High-fat diet",
+      "C": "High-protein diet",
+      "D": "High-sodium diet"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "c17b3bc8-05c4-4512-8d82-5a8302c0593e",
+    "id": "a8842071-06a6-40d2-819f-0436f5e30fc7",
+    "section": "MCQ on Jaundice",
+    "question": "Viral hepatitis is caused by:",
+    "options": {
+      "A": "Gallstones",
+      "B": "Hypothyroidism",
+      "C": "Viruses (e.g., Hepatitis A, B, C)",
+      "D": "Alcohol abuse"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "083d20f1-e267-4b41-be61-98717724beb1",
     "section": "MCQ on Jaundice",
     "question": "Which type of hepatitis is transmitted through contaminated food or water?",
     "options": {
       "A": "Hepatitis B",
-      "B": "Hepatitis C",
+      "B": "Hepatitis A",
       "C": "Hepatitis D",
-      "D": "Hepatitis A"
+      "D": "Hepatitis C"
     },
-    "correct": "D",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "033ca23f-cca8-49f0-b0da-124eceee72e5",
+    "id": "28d12770-1344-400c-9ca1-c5efb4bbfd29",
     "section": "MCQ on Jaundice",
     "question": "A common symptom of viral hepatitis is:",
     "options": {
       "A": "Tetany",
       "B": "Hypoglycemia",
-      "C": "Jaundice",
-      "D": "Weight gain"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "4c2dd044-f72e-46a4-ab08-ba454a159a79",
-    "section": "MCQ on Jaundice",
-    "question": "Which diagnostic test confirms viral hepatitis?",
-    "options": {
-      "A": "Hepatitis serology (e.g., anti-HAV, HBsAg)",
-      "B": "Thyroid function test",
-      "C": "ACTH stimulation test",
-      "D": "Glucose tolerance test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c2129ef8-4959-4157-aa41-8b6cf2711c4f",
-    "section": "MCQ on Jaundice",
-    "question": "A nursing intervention for viral hepatitis includes:",
-    "options": {
-      "A": "Encouraging a high-fat diet",
-      "B": "Restricting all fluids",
-      "C": "Promoting rest and hydration",
-      "D": "Limiting antiviral drugs"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b151714d-a594-4a56-85d9-8a509ae4ea75",
-    "section": "MCQ on Jaundice",
-    "question": "A complication of chronic hepatitis B or C is:",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Hepatocellular carcinoma",
-      "C": "Osteoporosis",
-      "D": "Kidney stones"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "438c6d85-119b-4a33-83cd-e56e3ae50a08",
-    "section": "MCQ on Jaundice",
-    "question": "A common malignant tumor of the liver is:",
-    "options": {
-      "A": "Pancreatic pseudocyst",
-      "B": "Thyroid adenoma",
-      "C": "Hepatocellular carcinoma",
-      "D": "Adrenal adenoma"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "c657b05b-a843-4f1b-a762-6e105092c793",
-    "section": "MCQ on Jaundice",
-    "question": "A benign liver lesion is:",
-    "options": {
-      "A": "Pheochromocytoma",
-      "B": "Hepatocellular carcinoma",
-      "C": "Metastatic liver tumor",
-      "D": "Hepatic cyst"
+      "C": "Weight gain",
+      "D": "Jaundice"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "1844c687-bf2c-46c3-82df-8574d78d92f6",
+    "id": "77b6621d-410f-4a81-bb6e-1138f0dfa45d",
     "section": "MCQ on Jaundice",
-    "question": "Which diagnostic test detects liver tumors or cysts?",
+    "question": "Which diagnostic test confirms viral hepatitis?",
     "options": {
-      "A": "DEXA scan",
-      "B": "Thyroid ultrasound",
-      "C": "Abdominal CT scan",
-      "D": "ECG"
+      "A": "Glucose tolerance test",
+      "B": "ACTH stimulation test",
+      "C": "Thyroid function test",
+      "D": "Hepatitis serology (e.g., anti-HAV, HBsAg)"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "aa58350f-4b55-45de-a891-d835bf33550a",
+    "section": "MCQ on Jaundice",
+    "question": "A nursing intervention for viral hepatitis includes:",
+    "options": {
+      "A": "Limiting antiviral drugs",
+      "B": "Promoting rest and hydration",
+      "C": "Encouraging a high-fat diet",
+      "D": "Restricting all fluids"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "167abb13-177a-45f5-8a4c-3f95cb1e3e57",
+    "section": "MCQ on Jaundice",
+    "question": "A complication of chronic hepatitis B or C is:",
+    "options": {
+      "A": "Kidney stones",
+      "B": "Osteoporosis",
+      "C": "Hepatocellular carcinoma",
+      "D": "Hypothyroidism"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "6d6d3b7d-1429-4648-9ba3-abb66507ab03",
+    "id": "6f053979-ac50-4674-8f36-5da4906c4731",
+    "section": "MCQ on Jaundice",
+    "question": "A common malignant tumor of the liver is:",
+    "options": {
+      "A": "Hepatocellular carcinoma",
+      "B": "Adrenal adenoma",
+      "C": "Pancreatic pseudocyst",
+      "D": "Thyroid adenoma"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "462766d7-979b-4b00-b1bc-f52e908466f0",
+    "section": "MCQ on Jaundice",
+    "question": "A benign liver lesion is:",
+    "options": {
+      "A": "Metastatic liver tumor",
+      "B": "Pheochromocytoma",
+      "C": "Hepatic cyst",
+      "D": "Hepatocellular carcinoma"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "e79b0e10-35d9-4936-ae4f-5d6949d8beb3",
+    "section": "MCQ on Jaundice",
+    "question": "Which diagnostic test detects liver tumors or cysts?",
+    "options": {
+      "A": "Abdominal CT scan",
+      "B": "DEXA scan",
+      "C": "ECG",
+      "D": "Thyroid ultrasound"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "29295e4b-bfe0-4671-b1fc-1903c59a2aad",
     "section": "MCQ on Jaundice",
     "question": "A risk factor for hepatocellular carcinoma is:",
     "options": {
       "A": "Hypothyroidism",
-      "B": "Chronic hepatitis B or C",
-      "C": "Hyperglycemia",
+      "B": "Hyperglycemia",
+      "C": "Chronic hepatitis B or C",
       "D": "Iodine deficiency"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "fb706ad9-2d8c-498d-935d-b0ae12337811",
+    "id": "7b406330-62bf-4143-8994-119fe13f7e3a",
     "section": "MCQ on Jaundice",
     "question": "A liver abscess is:",
     "options": {
-      "A": "A benign liver tumor",
+      "A": "A pus-filled cavity in the liver",
       "B": "Obstruction of the portal vein",
       "C": "Inflammation of the bile duct",
-      "D": "A pus-filled cavity in the liver"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2aebc15d-8b01-425a-a901-db1c0c2ea6ea",
-    "section": "MCQ on Jaundice",
-    "question": "A common cause of liver abscess is:",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Iodine deficiency",
-      "C": "Bacterial infection",
-      "D": "Hyperglycemia"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "71fb428a-8650-4ed9-bccb-29420b042865",
-    "section": "MCQ on Jaundice",
-    "question": "Which symptom is associated with liver abscess?",
-    "options": {
-      "A": "Weight gain",
-      "B": "Right upper quadrant pain",
-      "C": "Polyuria",
-      "D": "Tetany"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "92cc3488-f150-43a1-a2d5-ab7b7356c508",
-    "section": "MCQ on Jaundice",
-    "question": "Which treatment is used for liver abscess?",
-    "options": {
-      "A": "Thyroid hormone replacement",
-      "B": "Insulin therapy",
-      "C": "Antibiotics and drainage",
-      "D": "Calcium supplements"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "aef60f40-3dd3-4319-bf79-9cd79e4dd0c0",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which diagnostic test confirms a liver abscess?",
-    "options": {
-      "A": "ACTH stimulation test",
-      "B": "Glucose tolerance test",
-      "C": "Abdominal ultrasound or CT scan",
-      "D": "Thyroid scan"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a46f6658-c5df-4401-a2ea-ba67df89499c",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Viral hepatitis is primarily caused by:",
-    "options": {
-      "A": "Parasites",
-      "B": "Viruses (e.g., Hepatitis A, B, C)",
-      "C": "Bacteria",
-      "D": "Fungi"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "feb76120-e24d-4caa-b29e-e6c97283704a",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Hepatitis B is primarily transmitted through:",
-    "options": {
-      "A": "Contaminated food",
-      "B": "Blood and body fluids",
-      "C": "Airborne droplets",
-      "D": "Skin contact"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "3e51f3aa-5940-4ae2-8290-c85ffc59edea",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which diagnostic test confirms Hepatitis A infection?",
-    "options": {
-      "A": "Anti-HAV IgM",
-      "B": "ACTH stimulation test",
-      "C": "Thyroid function test",
-      "D": "Glucose tolerance test"
+      "D": "A benign liver tumor"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "f53353dc-2949-4f53-89f4-fb9346336999",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "The normal range for serum bilirubin is:",
+    "id": "de04af0c-90f0-4eba-b4e1-11727aea1796",
+    "section": "MCQ on Jaundice",
+    "question": "A common cause of liver abscess is:",
     "options": {
-      "A": "Above 4.0 mg/dL",
-      "B": "2.5-3.5 mg/dL",
-      "C": "1.5-2.5 mg/dL",
-      "D": "0.1-1.0 mg/dL"
+      "A": "Hypothyroidism",
+      "B": "Bacterial infection",
+      "C": "Iodine deficiency",
+      "D": "Hyperglycemia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "e8d88853-dce4-4469-b068-d1ec0b0b3785",
+    "section": "MCQ on Jaundice",
+    "question": "Which symptom is associated with liver abscess?",
+    "options": {
+      "A": "Polyuria",
+      "B": "Right upper quadrant pain",
+      "C": "Tetany",
+      "D": "Weight gain"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "85609ecf-871b-4d9e-a49e-1c1b5e9a8c1c",
+    "section": "MCQ on Jaundice",
+    "question": "Which treatment is used for liver abscess?",
+    "options": {
+      "A": "Calcium supplements",
+      "B": "Thyroid hormone replacement",
+      "C": "Insulin therapy",
+      "D": "Antibiotics and drainage"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "952d6f94-8d05-4c08-bfe1-2ace53fb759e",
+    "id": "0701bf3f-ff35-497b-998a-f441357ad77f",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which diagnostic test confirms a liver abscess?",
+    "options": {
+      "A": "ACTH stimulation test",
+      "B": "Thyroid scan",
+      "C": "Abdominal ultrasound or CT scan",
+      "D": "Glucose tolerance test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "adcb10b9-046a-4d4f-b4d5-85a00ff9ad68",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Viral hepatitis is primarily caused by:",
+    "options": {
+      "A": "Fungi",
+      "B": "Viruses (e.g., Hepatitis A, B, C)",
+      "C": "Parasites",
+      "D": "Bacteria"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "fe915713-6062-49b9-ba32-abaf578f0858",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Hepatitis B is primarily transmitted through:",
+    "options": {
+      "A": "Contaminated food",
+      "B": "Skin contact",
+      "C": "Airborne droplets",
+      "D": "Blood and body fluids"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "3e64b05a-dcb7-411a-b561-49018b77bc86",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which diagnostic test confirms Hepatitis A infection?",
+    "options": {
+      "A": "ACTH stimulation test",
+      "B": "Glucose tolerance test",
+      "C": "Anti-HAV IgM",
+      "D": "Thyroid function test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "ab3ce341-ea93-477c-af73-0e34d219a0e9",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "The normal range for serum bilirubin is:",
+    "options": {
+      "A": "0.1-1.0 mg/dL",
+      "B": "2.5-3.5 mg/dL",
+      "C": "1.5-2.5 mg/dL",
+      "D": "Above 4.0 mg/dL"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "1af221da-9241-4c3a-af8a-8696859ba82f",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which type of hepatitis is associated with chronic liver disease?",
     "options": {
       "A": "Hepatitis A",
       "B": "Hepatitis B",
-      "C": "Hepatitis E",
-      "D": "Hepatitis G"
+      "C": "Hepatitis G",
+      "D": "Hepatitis E"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "efb2dd7c-6e78-48dc-acc7-3994fe7716a1",
+    "id": "dc23deb2-3ff2-475d-bfb6-ea76ca4ca313",
     "section": "MCQs on Viral Hepatitis",
     "question": "A common cause of Hepatitis C is:",
     "options": {
-      "A": "Blood transfusion with infected blood",
+      "A": "Insect bites",
       "B": "Contaminated water",
       "C": "Casual contact",
-      "D": "Insect bites"
+      "D": "Blood transfusion with infected blood"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "aa91c638-0426-4a5e-b1d6-407a81ac554b",
+    "id": "7a10b95e-c6dc-45b0-a04a-a8263ec43716",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which symptom is NOT typically associated with viral hepatitis?",
     "options": {
-      "A": "Muscle spasms",
-      "B": "Dark urine",
-      "C": "Nausea",
-      "D": "Fatigue"
+      "A": "Dark urine",
+      "B": "Muscle spasms",
+      "C": "Fatigue",
+      "D": "Nausea"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "afd6f36d-5302-42f9-917b-9d6087b6a75b",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "The vaccine is available for which types of viral hepatitis?",
+    "options": {
+      "A": "Hepatitis A and B",
+      "B": "Hepatitis C and D",
+      "C": "Hepatitis A and C",
+      "D": "Hepatitis D and E"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "af901dc8-251b-466b-ba16-7681d81991c7",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "The vaccine is available for which types of viral hepatitis?",
-    "options": {
-      "A": "Hepatitis D and E",
-      "B": "Hepatitis A and C",
-      "C": "Hepatitis A and B",
-      "D": "Hepatitis C and D"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "3628bdcc-c343-41b6-a850-c74d082c956e",
+    "id": "9910f8f2-c969-45f1-8dbf-1e466cfda201",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which laboratory test is elevated in viral hepatitis?",
     "options": {
@@ -7177,129 +7177,129 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "5186947e-1f87-4230-b856-79769630703f",
+    "id": "660835c8-5c3e-4fcb-bc1a-fe62f580ab2c",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which type of hepatitis requires co-infection with Hepatitis B?",
     "options": {
-      "A": "Hepatitis A",
-      "B": "Hepatitis D",
-      "C": "Hepatitis E",
-      "D": "Hepatitis C"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "28571822-fe1d-4782-854d-bbf5310d209e",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "A complication of chronic viral hepatitis is:",
-    "options": {
-      "A": "Hepatocellular carcinoma",
-      "B": "Hypothyroidism",
-      "C": "Osteoporosis",
-      "D": "Hypoglycemia"
+      "A": "Hepatitis D",
+      "B": "Hepatitis C",
+      "C": "Hepatitis A",
+      "D": "Hepatitis E"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "c126cc0c-b34e-4d68-9028-8d6a268d77db",
+    "id": "8b8d93de-80fb-45a1-8672-96d7ea800b83",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A complication of chronic viral hepatitis is:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Hypoglycemia",
+      "C": "Hepatocellular carcinoma",
+      "D": "Hypothyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "6af61e58-9ed7-4dcf-af56-4f9077934eac",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which drug is used to treat chronic Hepatitis C?",
     "options": {
       "A": "Calcitonin",
-      "B": "Sofosbuvir",
+      "B": "Insulin",
       "C": "Levothyroxine",
-      "D": "Insulin"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "e8412497-5f33-4d00-a809-03a7ebfbb7e7",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Hepatitis E is commonly transmitted through:",
-    "options": {
-      "A": "Sexual contact",
-      "B": "Airborne droplets",
-      "C": "Contaminated water",
-      "D": "Blood transfusion"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "25122f29-26f2-4f4e-98e1-9b554764c250",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which symptom of viral hepatitis is due to bilirubin accumulation in the skin?",
-    "options": {
-      "A": "Weight gain",
-      "B": "Pruritus (itching)",
-      "C": "Polyuria",
-      "D": "Tetany"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "a1d23a63-3572-43d3-aa55-1bf4ebedbbff",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which diagnostic test visualizes liver damage in viral hepatitis?",
-    "options": {
-      "A": "ECG",
-      "B": "DEXA scan",
-      "C": "Abdominal ultrasound",
-      "D": "Thyroid scan"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "8ccb76c5-b54a-4c74-9fa0-0bf13d1aea86",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "A dietary recommendation for viral hepatitis includes:",
-    "options": {
-      "A": "Balanced diet with adequate calories",
-      "B": "High-sugar diet",
-      "C": "High-fat diet",
-      "D": "Low-protein diet"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "f47784fa-3a01-4fe6-8950-91b880517301",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which type of hepatitis is self-limiting and rarely becomes chronic?",
-    "options": {
-      "A": "Hepatitis D",
-      "B": "Hepatitis B",
-      "C": "Hepatitis C",
-      "D": "Hepatitis A"
+      "D": "Sofosbuvir"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "147b9c5a-66ad-48f5-89a5-e7b66aed279e",
+    "id": "6b57b3af-d4fa-4849-a471-d0f50250e902",
     "section": "MCQs on Viral Hepatitis",
-    "question": "A common sign of viral hepatitis is:",
+    "question": "Hepatitis E is commonly transmitted through:",
     "options": {
-      "A": "Hypoglycemia",
-      "B": "Pale stools",
-      "C": "Weight gain",
-      "D": "Muscle spasms"
+      "A": "Contaminated water",
+      "B": "Blood transfusion",
+      "C": "Sexual contact",
+      "D": "Airborne droplets"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "02efba9e-ad06-4587-a1aa-a82fae20b1d3",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which symptom of viral hepatitis is due to bilirubin accumulation in the skin?",
+    "options": {
+      "A": "Pruritus (itching)",
+      "B": "Polyuria",
+      "C": "Tetany",
+      "D": "Weight gain"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "a6ec9de4-e085-4bc5-adc2-67bb15927c8c",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which diagnostic test visualizes liver damage in viral hepatitis?",
+    "options": {
+      "A": "ECG",
+      "B": "DEXA scan",
+      "C": "Thyroid scan",
+      "D": "Abdominal ultrasound"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "c1c34991-934b-48ff-b359-30507108d1fc",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A dietary recommendation for viral hepatitis includes:",
+    "options": {
+      "A": "High-sugar diet",
+      "B": "Low-protein diet",
+      "C": "High-fat diet",
+      "D": "Balanced diet with adequate calories"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "455107a6-c218-48ba-ae7c-e8b1ba5d2edc",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which type of hepatitis is self-limiting and rarely becomes chronic?",
+    "options": {
+      "A": "Hepatitis C",
+      "B": "Hepatitis A",
+      "C": "Hepatitis D",
+      "D": "Hepatitis B"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "c5f03885-25e4-423d-ad15-ca962ef3cafb",
+    "id": "7f3ed3f5-3ce7-44b1-928c-b2311a6fbe19",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A common sign of viral hepatitis is:",
+    "options": {
+      "A": "Hypoglycemia",
+      "B": "Weight gain",
+      "C": "Pale stools",
+      "D": "Muscle spasms"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "f03a8ed7-a28f-466a-9925-5444b642bf69",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which test confirms Hepatitis B infection?",
     "options": {
-      "A": "ACTH stimulation test",
-      "B": "Anti-HCV",
+      "A": "Anti-HCV",
+      "B": "ACTH stimulation test",
       "C": "HBsAg (Hepatitis B surface antigen)",
       "D": "Thyroid function test"
     },
@@ -7307,310 +7307,206 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "7fc206cc-999a-4742-939f-9300b2a7a607",
+    "id": "6dbde18f-1721-4a87-a175-c4d6d6f45461",
     "section": "MCQs on Viral Hepatitis",
     "question": "A nursing priority for a patient with viral hepatitis is to prevent:",
     "options": {
       "A": "Hyperthyroidism",
-      "B": "High blood sugar",
+      "B": "Hypocalcemia",
       "C": "Spread of infection",
-      "D": "Hypocalcemia"
+      "D": "High blood sugar"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a3fb3e6c-d4a1-40ac-a759-690dca22911f",
+    "id": "4078dcc3-b41c-403d-a0b3-3aa5ae9f809c",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which precaution is important for Hepatitis B and C to prevent transmission?",
     "options": {
-      "A": "Airborne precautions",
-      "B": "Standard precautions",
-      "C": "Droplet precautions",
-      "D": "Contact precautions only"
+      "A": "Droplet precautions",
+      "B": "Contact precautions only",
+      "C": "Airborne precautions",
+      "D": "Standard precautions"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "79e32393-ac97-4cd0-b1aa-0075df6ab836",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Chronic Hepatitis B may lead to:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Cirrhosis",
+      "C": "Hypothyroidism",
+      "D": "Kidney stones"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "b287f427-7bd8-49b4-9e76-b668f216f221",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Chronic Hepatitis B may lead to:",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Kidney stones",
-      "C": "Osteoporosis",
-      "D": "Cirrhosis"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "032e546f-51f2-4597-b4b5-a0308a60444f",
+    "id": "18d319e5-b5f8-47c1-9303-7b7a6690adc6",
     "section": "MCQs on Viral Hepatitis",
     "question": "Which symptom is associated with severe viral hepatitis?",
     "options": {
-      "A": "Ascites",
-      "B": "Weight gain",
+      "A": "Tetany",
+      "B": "Ascites",
       "C": "Polyuria",
-      "D": "Tetany"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "536dcab7-1078-4666-92d4-5b1f02374c9f",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "A liver biopsy is used to assess:",
-    "options": {
-      "A": "Thyroid function",
-      "B": "Adrenal function",
-      "C": "Blood glucose levels",
-      "D": "Severity of liver damage"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "e45fed74-d44b-4d84-856a-2a08b9069a39",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which type of hepatitis is most common in pregnant women in developing countries?",
-    "options": {
-      "A": "Hepatitis B",
-      "B": "Hepatitis A",
-      "C": "Hepatitis E",
-      "D": "Hepatitis C"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "5976497d-c52a-45b3-8d0a-326275f53aee",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "A complication of viral hepatitis is:",
-    "options": {
-      "A": "Hepatic encephalopathy",
-      "B": "Hypoglycemia",
-      "C": "Hyperthyroidism",
-      "D": "Tetany"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "c60b98d3-5a7b-45fd-8d20-51418afa7c90",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which laboratory finding indicates liver damage in viral hepatitis?",
-    "options": {
-      "A": "Low thyroid hormone",
-      "B": "High cortisol",
-      "C": "Low insulin",
-      "D": "Elevated aspartate aminotransferase (AST)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "3bcd4939-9ec0-4a09-96ff-ca065d77ad04",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "A patient with viral hepatitis should avoid:",
-    "options": {
-      "A": "Lean proteins",
-      "B": "Non-starchy vegetables",
-      "C": "Alcohol",
-      "D": "High-fiber foods"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "d05b1421-6e66-44a1-8a75-cd5d7c78d67e",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which symptom is due to bile duct obstruction in viral hepatitis?",
-    "options": {
-      "A": "Hypoglycemia",
-      "B": "Dark urine",
-      "C": "Muscle spasms",
       "D": "Weight gain"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "cae1aed2-de35-4b42-8bbd-44050bf2cf5c",
+    "id": "22920d7c-970a-4c26-83bd-14187cc4b300",
     "section": "MCQs on Viral Hepatitis",
-    "question": "The incubation period for Hepatitis A is typically:",
+    "question": "A liver biopsy is used to assess:",
     "options": {
-      "A": "Over 120 days",
-      "B": "15-50 days",
-      "C": "1-7 days",
-      "D": "60-90 days"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "175b9e38-b3f4-4522-9692-67e15ff23fa6",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which test monitors liver function in viral hepatitis?",
-    "options": {
-      "A": "Thyroid function tests",
-      "B": "Liver function tests (LFTs)",
-      "C": "ACTH stimulation test",
-      "D": "Glucose tolerance test"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "7453f36a-208c-4000-900f-709eb70dd22c",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which type of hepatitis has no vaccine available?",
-    "options": {
-      "A": "Hepatitis C",
-      "B": "Hepatitis A",
-      "C": "Hepatitis D",
-      "D": "Hepatitis B"
+      "A": "Severity of liver damage",
+      "B": "Thyroid function",
+      "C": "Blood glucose levels",
+      "D": "Adrenal function"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "d576f9f3-1710-436a-be9d-b71e83528dc2",
+    "id": "a0be2165-a701-407e-b26c-318ef5195ec2",
     "section": "MCQs on Viral Hepatitis",
-    "question": "Which symptom is NOT typical of viral hepatitis?",
+    "question": "Which type of hepatitis is most common in pregnant women in developing countries?",
     "options": {
-      "A": "Abdominal pain",
-      "B": "Moon face",
-      "C": "Anorexia",
-      "D": "Fatigue"
+      "A": "Hepatitis B",
+      "B": "Hepatitis C",
+      "C": "Hepatitis E",
+      "D": "Hepatitis A"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "e7d76b1e-574c-4dee-a70a-e805c4c5ceda",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A complication of viral hepatitis is:",
+    "options": {
+      "A": "Tetany",
+      "B": "Hyperthyroidism",
+      "C": "Hypoglycemia",
+      "D": "Hepatic encephalopathy"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "b4bf15f2-601a-482a-81a9-5c4c7ff971a6",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which laboratory finding indicates liver damage in viral hepatitis?",
+    "options": {
+      "A": "Low insulin",
+      "B": "Elevated aspartate aminotransferase (AST)",
+      "C": "High cortisol",
+      "D": "Low thyroid hormone"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "676dc14c-cb5d-44cf-8d3c-ac3046b212da",
+    "id": "0f8c97c7-a9be-4041-8d98-8c1b85600a7a",
     "section": "MCQs on Viral Hepatitis",
-    "question": "A preventive measure for Hepatitis A includes:",
+    "question": "A patient with viral hepatitis should avoid:",
     "options": {
-      "A": "Avoiding all carbohydrates",
-      "B": "Handwashing and safe food practices",
-      "C": "Limiting physical activity",
-      "D": "Restricting water intake"
+      "A": "High-fiber foods",
+      "B": "Non-starchy vegetables",
+      "C": "Alcohol",
+      "D": "Lean proteins"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "2d907a99-48e7-4d1e-9cea-fe3cccfbec70",
+    "id": "4847f510-b015-4695-9478-de102a650b4b",
     "section": "MCQs on Viral Hepatitis",
-    "question": "Which complication is associated with chronic Hepatitis C?",
+    "question": "Which symptom is due to bile duct obstruction in viral hepatitis?",
     "options": {
-      "A": "Hypothyroidism",
-      "B": "Liver fibrosis",
-      "C": "Osteoporosis",
+      "A": "Dark urine",
+      "B": "Weight gain",
+      "C": "Muscle spasms",
       "D": "Hypoglycemia"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "3d0ae86f-aebd-40a6-aba9-547ea3490ba8",
+    "id": "30fb7389-0f6e-49c7-8d4b-d2f90c48f5ac",
     "section": "MCQs on Viral Hepatitis",
-    "question": "Which drug is used as part of combination therapy for Hepatitis C?",
+    "question": "The incubation period for Hepatitis A is typically:",
     "options": {
-      "A": "Levothyroxine",
-      "B": "Calcitonin",
-      "C": "Insulin",
-      "D": "Ribavirin"
+      "A": "Over 120 days",
+      "B": "60-90 days",
+      "C": "1-7 days",
+      "D": "15-50 days"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "07233c3a-b4f7-46a4-a9ef-bd2105b25404",
+    "id": "11b202bb-ecb9-470e-bb16-09a8732369c4",
     "section": "MCQs on Viral Hepatitis",
-    "question": "A patient with viral hepatitis may develop:",
+    "question": "Which test monitors liver function in viral hepatitis?",
     "options": {
-      "A": "Weight gain",
-      "B": "Hyperthyroidism",
-      "C": "Tetany",
-      "D": "Portal hypertension"
+      "A": "Thyroid function tests",
+      "B": "ACTH stimulation test",
+      "C": "Glucose tolerance test",
+      "D": "Liver function tests (LFTs)"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "aa1d90cf-4305-4edb-831e-d3f353ccf848",
+    "id": "291a78b4-e580-4ddf-bcd8-7e8ec5d351a7",
     "section": "MCQs on Viral Hepatitis",
-    "question": "Which imaging test detects liver damage in viral hepatitis?",
+    "question": "Which type of hepatitis has no vaccine available?",
     "options": {
-      "A": "Thyroid ultrasound",
-      "B": "ECG",
-      "C": "DEXA scan",
-      "D": "Abdominal CT scan"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "84fc44bc-19ca-4a2e-ac4b-b657453a5b47",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which type of hepatitis is bloodborne and associated with IV drug use?",
-    "options": {
-      "A": "Hepatitis G",
+      "A": "Hepatitis B",
       "B": "Hepatitis A",
-      "C": "Hepatitis E",
+      "C": "Hepatitis D",
       "D": "Hepatitis C"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "dfd3c49e-2048-4e91-a838-2b31838074bc",
+    "id": "f079289c-f369-4067-9cf1-290fb22b75cd",
     "section": "MCQs on Viral Hepatitis",
-    "question": "A nursing intervention for Hepatitis B includes:",
+    "question": "Which symptom is NOT typical of viral hepatitis?",
     "options": {
-      "A": "Encouraging alcohol consumption",
-      "B": "Educating on safe sexual practices",
-      "C": "Restricting all fluids",
-      "D": "Limiting antiviral therapy"
+      "A": "Abdominal pain",
+      "B": "Anorexia",
+      "C": "Moon face",
+      "D": "Fatigue"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "bfce98b9-e3d7-45bd-8170-1eaf0ff0774a",
+    "id": "4d39007a-a9ec-4cee-9598-80e89fb312d0",
     "section": "MCQs on Viral Hepatitis",
-    "question": "Which symptom is associated with acute viral hepatitis?",
+    "question": "A preventive measure for Hepatitis A includes:",
     "options": {
-      "A": "Weight gain",
-      "B": "Fever",
-      "C": "Polyuria",
-      "D": "Tetany"
+      "A": "Limiting physical activity",
+      "B": "Restricting water intake",
+      "C": "Handwashing and safe food practices",
+      "D": "Avoiding all carbohydrates"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "81b7818c-f510-499d-a710-8bfb9518dd34",
+    "id": "9ee71164-06f3-4fc2-9a52-b5a31c87a2f2",
     "section": "MCQs on Viral Hepatitis",
-    "question": "The HBeAg test is used to assess:",
+    "question": "Which complication is associated with chronic Hepatitis C?",
     "options": {
-      "A": "Thyroid function",
-      "B": "Hepatitis B infectivity",
-      "C": "Adrenal function",
-      "D": "Blood glucose levels"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "0d3088b6-b2e0-47b4-853d-934d0e232a3c",
-    "section": "MCQs on Viral Hepatitis",
-    "question": "Which complication of viral hepatitis requires urgent treatment?",
-    "options": {
-      "A": "Fulminant hepatitis",
+      "A": "Liver fibrosis",
       "B": "Osteoporosis",
       "C": "Hypoglycemia",
       "D": "Hypothyroidism"
@@ -7619,254 +7515,358 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "89402bd7-f8f8-4587-b7c6-82f137d3cac0",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A common complication of liver cirrhosis is:",
+    "id": "6f94deed-c004-4f67-9fe2-1bc4a6434753",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which drug is used as part of combination therapy for Hepatitis C?",
     "options": {
-      "A": "Hypothyroidism",
-      "B": "Osteoporosis",
-      "C": "Hyperglycemia",
-      "D": "Portal hypertension"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "5358f078-dfd8-4a50-8e49-d7977462b1ee",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Ascites in liver cirrhosis is defined as:",
-    "options": {
-      "A": "Fluid accumulation in the peritoneal cavity",
-      "B": "Inflammation of the liver",
-      "C": "Formation of gallstones",
-      "D": "Obstruction of the bile duct"
+      "A": "Ribavirin",
+      "B": "Calcitonin",
+      "C": "Levothyroxine",
+      "D": "Insulin"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ad17de98-297e-4806-9726-6a6e29f5ffe4",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A hallmark symptom of ascites is:",
+    "id": "ceb4e04c-57c4-4b30-b344-1054714a9ec5",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A patient with viral hepatitis may develop:",
     "options": {
-      "A": "Abdominal distension",
-      "B": "Tetany",
-      "C": "Polyuria",
-      "D": "Weight loss"
+      "A": "Tetany",
+      "B": "Weight gain",
+      "C": "Portal hypertension",
+      "D": "Hyperthyroidism"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "51c49183-9440-4afa-bb57-a9ce0b8aa002",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which imaging test detects liver damage in viral hepatitis?",
+    "options": {
+      "A": "ECG",
+      "B": "DEXA scan",
+      "C": "Abdominal CT scan",
+      "D": "Thyroid ultrasound"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "d945c7e8-e83b-46c0-adc3-5c5c0df4cdb0",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which type of hepatitis is bloodborne and associated with IV drug use?",
+    "options": {
+      "A": "Hepatitis C",
+      "B": "Hepatitis A",
+      "C": "Hepatitis G",
+      "D": "Hepatitis E"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "4a98ab85-765c-4b65-8dcd-6fc8c1708382",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Esophageal varices are a complication of:",
+    "id": "3d28fae2-f6c3-4253-a5fc-67d1f6fe5fdc",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "A nursing intervention for Hepatitis B includes:",
     "options": {
-      "A": "Hypocalcemia",
-      "B": "Hyperglycemia",
-      "C": "Hypothyroidism",
-      "D": "Portal hypertension"
+      "A": "Restricting all fluids",
+      "B": "Limiting antiviral therapy",
+      "C": "Encouraging alcohol consumption",
+      "D": "Educating on safe sexual practices"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "0f644a41-7425-4c12-bab6-093726f18257",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A life-threatening complication of esophageal varices is:",
+    "id": "0bc22cc5-e7af-4881-9abe-35149f04e61f",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which symptom is associated with acute viral hepatitis?",
     "options": {
-      "A": "Hyperthyroidism",
-      "B": "Variceal bleeding",
-      "C": "Hypoglycemia",
-      "D": "Osteoporosis"
+      "A": "Weight gain",
+      "B": "Fever",
+      "C": "Tetany",
+      "D": "Polyuria"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "70c39674-1fd0-4d9f-af68-b597da741806",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "The normal range for serum ammonia is approximately:",
+    "id": "6ea8ee42-a4a5-43ca-bd43-a86f49475a66",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "The HBeAg test is used to assess:",
     "options": {
-      "A": "50-100 µg/dL",
-      "B": "Above 200 µg/dL",
-      "C": "100-150 µg/dL",
-      "D": "15-45 µg/dL"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "358ebaae-462c-444a-b125-b6e4095ebf80",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which diagnostic test confirms ascites in liver cirrhosis?",
-    "options": {
-      "A": "Abdominal ultrasound",
-      "B": "Glucose tolerance test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid scan"
+      "A": "Hepatitis B infectivity",
+      "B": "Adrenal function",
+      "C": "Thyroid function",
+      "D": "Blood glucose levels"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "cce761bd-3948-4331-b607-504170dfd76f",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which procedure is used to remove fluid in ascites?",
+    "id": "dfb03959-bb31-4cca-9f03-a3c8afa03a9a",
+    "section": "MCQs on Viral Hepatitis",
+    "question": "Which complication of viral hepatitis requires urgent treatment?",
     "options": {
-      "A": "Thyroidectomy",
-      "B": "Endoscopy",
-      "C": "Cholecystectomy",
-      "D": "Paracentesis"
+      "A": "Osteoporosis",
+      "B": "Hypothyroidism",
+      "C": "Hypoglycemia",
+      "D": "Fulminant hepatitis"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f3f02385-a1ad-456a-9a78-82015a380ada",
+    "id": "86b922d0-e6fd-470c-9e8a-175397a2070f",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A common complication of liver cirrhosis is:",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Hypothyroidism",
+      "C": "Osteoporosis",
+      "D": "Portal hypertension"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "a5604343-c24e-4c3d-bbad-d4646d4444ed",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Ascites in liver cirrhosis is defined as:",
+    "options": {
+      "A": "Inflammation of the liver",
+      "B": "Obstruction of the bile duct",
+      "C": "Formation of gallstones",
+      "D": "Fluid accumulation in the peritoneal cavity"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "22f40640-f944-4987-965e-2064e8a8e7f3",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A hallmark symptom of ascites is:",
+    "options": {
+      "A": "Weight loss",
+      "B": "Polyuria",
+      "C": "Abdominal distension",
+      "D": "Tetany"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "8246f804-db24-463a-807e-a70549bacc41",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Esophageal varices are a complication of:",
+    "options": {
+      "A": "Hypocalcemia",
+      "B": "Portal hypertension",
+      "C": "Hyperglycemia",
+      "D": "Hypothyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "bd8d1ba1-65b9-48dc-ab78-00e95c33fb4e",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A life-threatening complication of esophageal varices is:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Variceal bleeding",
+      "C": "Hyperthyroidism",
+      "D": "Hypoglycemia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "94c647fe-d1e3-4ceb-b2f1-6c71cf6f7b6a",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "The normal range for serum ammonia is approximately:",
+    "options": {
+      "A": "Above 200 ��g/dL",
+      "B": "100-150 ��g/dL",
+      "C": "15-45 ��g/dL",
+      "D": "50-100 ��g/dL"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "0d61df30-0321-45e4-bb5a-f52c9cfb745a",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which diagnostic test confirms ascites in liver cirrhosis?",
+    "options": {
+      "A": "ACTH stimulation test",
+      "B": "Thyroid scan",
+      "C": "Glucose tolerance test",
+      "D": "Abdominal ultrasound"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "26643f3b-f70f-48e6-8246-9d4846802007",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which procedure is used to remove fluid in ascites?",
+    "options": {
+      "A": "Paracentesis",
+      "B": "Endoscopy",
+      "C": "Cholecystectomy",
+      "D": "Thyroidectomy"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "d111ae8c-9f75-4990-96f8-629e80c8a146",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "A common symptom of esophageal varices is:",
     "options": {
       "A": "Weight gain",
       "B": "Polyuria",
-      "C": "Tetany",
-      "D": "Hematemesis"
+      "C": "Hematemesis",
+      "D": "Tetany"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "e5b9d2ec-c66a-43db-9b62-002d5ddc4166",
+    "id": "2d40e1eb-2c8b-4630-b712-46f9a7e5904b",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which diagnostic test visualizes esophageal varices?",
     "options": {
-      "A": "Upper endoscopy",
-      "B": "ECG",
-      "C": "DEXA scan",
-      "D": "Thyroid ultrasound"
+      "A": "DEXA scan",
+      "B": "Upper endoscopy",
+      "C": "Thyroid ultrasound",
+      "D": "ECG"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "80360b60-aef9-457b-89b9-127e60c5f081",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A drug used to prevent bleeding from esophageal varices is:",
+    "options": {
+      "A": "Propranolol",
+      "B": "Insulin",
+      "C": "Calcitonin",
+      "D": "Levothyroxine"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "d149f72d-b01a-4bc6-8e2f-65e19231f958",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A drug used to prevent bleeding from esophageal varices is:",
-    "options": {
-      "A": "Calcitonin",
-      "B": "Insulin",
-      "C": "Levothyroxine",
-      "D": "Propranolol"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "dcd7233a-ff1f-4459-bbbf-1030c8807faf",
+    "id": "bf991e8e-7a4f-4722-84ae-dd45ce523382",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Hepatocellular carcinoma is a complication of:",
     "options": {
       "A": "Hypothyroidism",
-      "B": "Chronic liver cirrhosis",
-      "C": "Hyperglycemia",
-      "D": "Osteoporosis"
+      "B": "Osteoporosis",
+      "C": "Chronic liver cirrhosis",
+      "D": "Hyperglycemia"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "a1975055-397b-4bfb-8225-8943ea7a9000",
+    "id": "1f081006-c66c-4695-bc11-cdd3e7ce1105",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which diagnostic test detects hepatocellular carcinoma?",
     "options": {
       "A": "Glucose tolerance test",
-      "B": "Abdominal CT scan",
-      "C": "Thyroid scan",
-      "D": "ACTH stimulation test"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "80b8c4c8-e901-40d5-86fb-7df5d590e68b",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Hepatorenal syndrome is a complication of liver cirrhosis affecting:",
-    "options": {
-      "A": "The kidneys",
-      "B": "The pancreas",
-      "C": "The adrenal glands",
-      "D": "The thyroid"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "a0863e6a-9d9e-4ae2-a9e9-ba6af76537b2",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A symptom of hepatorenal syndrome is:",
-    "options": {
-      "A": "Tetany",
-      "B": "Polyuria",
-      "C": "Weight gain",
-      "D": "Oliguria"
+      "B": "Thyroid scan",
+      "C": "ACTH stimulation test",
+      "D": "Abdominal CT scan"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f940e71a-0225-4227-b685-0a62c730b49a",
+    "id": "952ed0f4-4833-40f8-b56c-bb41c97de9eb",
     "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Spontaneous bacterial peritonitis (SBP) is an infection of:",
+    "question": "Hepatorenal syndrome is a complication of liver cirrhosis affecting:",
     "options": {
-      "A": "The bile duct",
-      "B": "Ascitic fluid",
-      "C": "The pancreas",
-      "D": "The gallbladder"
+      "A": "The pancreas",
+      "B": "The adrenal glands",
+      "C": "The kidneys",
+      "D": "The thyroid"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "73d98ec5-9033-48b3-b1ba-77ac22b186b7",
+    "id": "4e8b8698-aeb2-4b57-83a5-4ac7e4d5b686",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A symptom of hepatorenal syndrome is:",
+    "options": {
+      "A": "Oliguria",
+      "B": "Polyuria",
+      "C": "Tetany",
+      "D": "Weight gain"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "f7c1e985-0e42-481d-b6f9-2ce5b23bb128",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Spontaneous bacterial peritonitis (SBP) is an infection of:",
+    "options": {
+      "A": "Ascitic fluid",
+      "B": "The gallbladder",
+      "C": "The pancreas",
+      "D": "The bile duct"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "a207b707-e9aa-46ec-849b-5e2ce0adf93b",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which diagnostic test confirms spontaneous bacterial peritonitis?",
     "options": {
       "A": "Glucose tolerance test",
-      "B": "Ascitic fluid analysis",
-      "C": "Thyroid function test",
-      "D": "ACTH stimulation test"
+      "B": "ACTH stimulation test",
+      "C": "Ascitic fluid analysis",
+      "D": "Thyroid function test"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "4af1d72c-5e98-44a9-b812-57fc04a30d9a",
+    "id": "7d2a4e8f-a3c8-4aee-8b33-6c8a34f2df3d",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which drug is used to treat spontaneous bacterial peritonitis?",
     "options": {
-      "A": "Calcitonin",
-      "B": "Insulin",
-      "C": "Levothyroxine",
+      "A": "Levothyroxine",
+      "B": "Calcitonin",
+      "C": "Insulin",
       "D": "Antibiotics (e.g., ceftriaxone)"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e47f5709-c7ea-449e-b3f7-a20648a0d0c9",
+    "id": "717ae26a-8e1e-401c-9abd-13c6896b5685",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "A nursing intervention for esophageal varices includes:",
     "options": {
-      "A": "Encouraging a high-sodium diet",
-      "B": "Restricting all fluids",
-      "C": "Limiting beta-blocker use",
+      "A": "Limiting beta-blocker use",
+      "B": "Encouraging a high-sodium diet",
+      "C": "Restricting all fluids",
       "D": "Monitoring for signs of bleeding"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "64fd8893-c2c4-4c4d-8419-acec58336d06",
+    "id": "87c1aaf1-b1d0-4019-a224-00998cd5abd7",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "A complication of untreated hepatic encephalopathy is:",
     "options": {
@@ -7879,128 +7879,63 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "1b752ecf-6b34-4126-8a05-e2d8e30259e8",
+    "id": "9da5b2fa-2b08-4756-9191-e506ff2090be",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which test monitors ammonia levels in hepatic encephalopathy?",
     "options": {
-      "A": "Serum ammonia test",
-      "B": "Glucose tolerance test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid function test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "4836c8bf-5c58-4dfe-8243-6b57eabaee83",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which symptom is NOT typical of portal hypertension?",
-    "options": {
-      "A": "Splenomegaly",
-      "B": "Ascites",
-      "C": "Esophageal varices",
-      "D": "Tetany"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "2a1db580-72e6-4c6c-a7d2-95a128f15771",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Hypoalbuminemia in liver cirrhosis contributes to:",
-    "options": {
-      "A": "Tetany",
-      "B": "Hyperthyroidism",
-      "C": "Ascites",
-      "D": "Hypoglycemia"
+      "A": "Glucose tolerance test",
+      "B": "Thyroid function test",
+      "C": "Serum ammonia test",
+      "D": "ACTH stimulation test"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "948ede6d-c68d-4998-b8cb-338dc0f46bb2",
+    "id": "ec762d77-4dd7-4730-8cbb-5de1baf765d0",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which symptom is NOT typical of portal hypertension?",
+    "options": {
+      "A": "Tetany",
+      "B": "Ascites",
+      "C": "Splenomegaly",
+      "D": "Esophageal varices"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e70bcb75-f3cd-4032-9a0e-79de0f046b17",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Hypoalbuminemia in liver cirrhosis contributes to:",
+    "options": {
+      "A": "Ascites",
+      "B": "Tetany",
+      "C": "Hyperthyroidism",
+      "D": "Hypoglycemia"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "5e14d7f8-5439-4657-afb1-0150ffeef11f",
     "section": "MCQs on Liver Cirrhosis complications",
     "question": "Which procedure is used to manage bleeding esophageal varices?",
     "options": {
       "A": "Cholecystectomy",
-      "B": "Thyroidectomy",
-      "C": "Paracentesis",
-      "D": "Endoscopic band ligation"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "ebfa43be-9858-4d53-8015-15fc69c4c4b8",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A symptom of hepatocellular carcinoma is:",
-    "options": {
-      "A": "Polyuria",
-      "B": "Weight gain",
-      "C": "Right upper quadrant pain",
-      "D": "Tetany"
+      "B": "Paracentesis",
+      "C": "Endoscopic band ligation",
+      "D": "Thyroidectomy"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "2e2a53b8-5a3a-498d-8414-bffab83a5284",
+    "id": "df9baf4f-6ea8-4cdb-ae31-0369c3a7248f",
     "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which tumor marker is elevated in hepatocellular carcinoma?",
+    "question": "A symptom of hepatocellular carcinoma is:",
     "options": {
-      "A": "Alpha-fetoprotein (AFP)",
-      "B": "Blood glucose",
-      "C": "Serum calcium",
-      "D": "Thyroid-stimulating hormone (TSH)"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "5f035844-5baf-4c0a-b081-d41adc34e4a4",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A nursing intervention for hepatorenal syndrome includes:",
-    "options": {
-      "A": "Monitoring renal function",
-      "B": "Limiting diuretic use",
-      "C": "Encouraging a high-sodium diet",
-      "D": "Restricting all fluids"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "b4a86266-6fa8-45cb-9332-022f9ec9d840",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which electrolyte imbalance is common in ascites?",
-    "options": {
-      "A": "Hypercalcemia",
-      "B": "Hypophosphatemia",
-      "C": "Hyperkalemia",
-      "D": "Hyponatremia"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "d7a3af80-a074-45c0-a16a-38477571d273",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A transjugular intrahepatic portosystemic shunt (TIPS) is used to treat:",
-    "options": {
-      "A": "Portal hypertension",
-      "B": "Hyperglycemia",
-      "C": "Hypothyroidism",
-      "D": "Osteoporosis"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "80074b03-d235-4480-841f-31ee9a799b2b",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A symptom of spontaneous bacterial peritonitis is:",
-    "options": {
-      "A": "Fever and abdominal pain",
+      "A": "Right upper quadrant pain",
       "B": "Tetany",
       "C": "Weight gain",
       "D": "Polyuria"
@@ -8009,128 +7944,63 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "e77768e4-4ef0-44a8-a19d-a2f6299b8708",
+    "id": "369033ae-789d-4586-85ac-4b23c0add625",
     "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which drug is used to manage portal hypertension?",
+    "question": "Which tumor marker is elevated in hepatocellular carcinoma?",
     "options": {
-      "A": "Insulin",
-      "B": "Levothyroxine",
-      "C": "Calcitonin",
-      "D": "Nadolol"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "c2a92370-ea86-418b-9689-6a19091409b3",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Coagulopathy in liver cirrhosis is due to:",
-    "options": {
-      "A": "Decreased clotting factor production",
-      "B": "Increased thyroid hormone",
-      "C": "Low calcium levels",
-      "D": "High blood sugar"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "e35a5b59-0193-424e-a5c2-6d25d67bc3fc",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which test assesses clotting function in liver cirrhosis?",
-    "options": {
-      "A": "ACTH stimulation test",
-      "B": "Prothrombin time (PT/INR)",
-      "C": "Glucose tolerance test",
-      "D": "Thyroid function test"
+      "A": "Thyroid-stimulating hormone (TSH)",
+      "B": "Alpha-fetoprotein (AFP)",
+      "C": "Serum calcium",
+      "D": "Blood glucose"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "278175d3-f990-49f3-9212-eb3ae2d9be9b",
+    "id": "96e91e52-8218-48c1-bec3-5016ba4101fa",
     "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A complication of liver cirrhosis is:",
+    "question": "A nursing intervention for hepatorenal syndrome includes:",
     "options": {
-      "A": "Hyperglycemia",
+      "A": "Restricting all fluids",
+      "B": "Encouraging a high-sodium diet",
+      "C": "Limiting diuretic use",
+      "D": "Monitoring renal function"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "3ea1620e-5e49-4d4a-8264-96ce6ac5882d",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which electrolyte imbalance is common in ascites?",
+    "options": {
+      "A": "Hypophosphatemia",
+      "B": "Hyperkalemia",
+      "C": "Hypercalcemia",
+      "D": "Hyponatremia"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "08224436-66a3-4b20-a217-cc2727e06fb9",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A transjugular intrahepatic portosystemic shunt (TIPS) is used to treat:",
+    "options": {
+      "A": "Portal hypertension",
       "B": "Hypothyroidism",
-      "C": "Hepatic encephalopathy",
+      "C": "Hyperglycemia",
       "D": "Osteoporosis"
     },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "360c1ead-ce41-473b-b9e2-5f4f5aab15d4",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which symptom is associated with severe hepatic encephalopathy?",
-    "options": {
-      "A": "Weight gain",
-      "B": "Asterixis (flapping tremor)",
-      "C": "Tetany",
-      "D": "Polyuria"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "13e90cf9-d5c6-40ce-aec4-0e74a827c5e2",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A dietary recommendation for ascites includes:",
-    "options": {
-      "A": "Low-sodium diet",
-      "B": "High-sodium diet",
-      "C": "High-fat diet",
-      "D": "Low-protein diet"
-    },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "44eaccd1-f65e-49d2-b920-24533cdf50f4",
+    "id": "40507667-28c7-4871-9f64-35ecf54ff262",
     "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which imaging test detects complications like hepatocellular carcinoma?",
+    "question": "A symptom of spontaneous bacterial peritonitis is:",
     "options": {
-      "A": "ECG",
-      "B": "DEXA scan",
-      "C": "Thyroid ultrasound",
-      "D": "Abdominal MRI"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "f678b71e-9484-4036-879a-415b4ae11b2b",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A nursing intervention for spontaneous bacterial peritonitis includes:",
-    "options": {
-      "A": "Encouraging a high-sodium diet",
-      "B": "Monitoring for fever and abdominal pain",
-      "C": "Limiting antibiotic use",
-      "D": "Restricting all fluids"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "c688d206-e0e3-4fe3-82c9-35d992a2eecc",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "Which complication of liver cirrhosis affects the lungs?",
-    "options": {
-      "A": "Osteoporosis",
-      "B": "Hyperglycemia",
-      "C": "Hepatopulmonary syndrome",
-      "D": "Hypothyroidism"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "80055954-4be6-4c95-9083-d2b360f64c1c",
-    "section": "MCQs on Liver Cirrhosis complications",
-    "question": "A symptom of hepatopulmonary syndrome is:",
-    "options": {
-      "A": "Dyspnea",
+      "A": "Fever and abdominal pain",
       "B": "Polyuria",
       "C": "Weight gain",
       "D": "Tetany"
@@ -8139,194 +8009,324 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "a85c4b27-d3c8-4e8c-a9ba-44714545d9b5",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which drug may be used to improve clotting in liver cirrhosis?",
+    "id": "f5dc2fe4-80c1-47d2-8a34-05f02aaefe0c",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which drug is used to manage portal hypertension?",
     "options": {
-      "A": "Vitamin K",
-      "B": "Calcitonin",
-      "C": "Insulin",
-      "D": "Levothyroxine"
+      "A": "Nadolol",
+      "B": "Insulin",
+      "C": "Levothyroxine",
+      "D": "Calcitonin"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "ed72a19a-ac90-4e28-b7e0-cc9272f53520",
+    "id": "f799c8ac-4b73-4086-9cbe-a8ece3562ed5",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Coagulopathy in liver cirrhosis is due to:",
+    "options": {
+      "A": "High blood sugar",
+      "B": "Increased thyroid hormone",
+      "C": "Decreased clotting factor production",
+      "D": "Low calcium levels"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "c6c9323b-83de-4225-acc5-1eb2787ee738",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which test assesses clotting function in liver cirrhosis?",
+    "options": {
+      "A": "Thyroid function test",
+      "B": "Glucose tolerance test",
+      "C": "Prothrombin time (PT/INR)",
+      "D": "ACTH stimulation test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "ad933474-51fa-4efa-a52a-abbd1738829d",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A complication of liver cirrhosis is:",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "Hepatic encephalopathy",
+      "C": "Hypothyroidism",
+      "D": "Hyperglycemia"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "1e47b210-200a-4e03-8cd8-aa881230ce4d",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which symptom is associated with severe hepatic encephalopathy?",
+    "options": {
+      "A": "Weight gain",
+      "B": "Polyuria",
+      "C": "Asterixis (flapping tremor)",
+      "D": "Tetany"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "6ffe5284-b365-4ee1-8969-56aebbf84b91",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A dietary recommendation for ascites includes:",
+    "options": {
+      "A": "High-fat diet",
+      "B": "Low-protein diet",
+      "C": "High-sodium diet",
+      "D": "Low-sodium diet"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "d1288944-0bb0-4900-a05a-06b27361c2a0",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which imaging test detects complications like hepatocellular carcinoma?",
+    "options": {
+      "A": "Abdominal MRI",
+      "B": "Thyroid ultrasound",
+      "C": "ECG",
+      "D": "DEXA scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "bd16d855-f66d-4383-a0a0-f68ac5060857",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A nursing intervention for spontaneous bacterial peritonitis includes:",
+    "options": {
+      "A": "Limiting antibiotic use",
+      "B": "Monitoring for fever and abdominal pain",
+      "C": "Restricting all fluids",
+      "D": "Encouraging a high-sodium diet"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "cc87e95c-2e77-4731-986f-c3025c5ce271",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "Which complication of liver cirrhosis affects the lungs?",
+    "options": {
+      "A": "Hepatopulmonary syndrome",
+      "B": "Hyperglycemia",
+      "C": "Osteoporosis",
+      "D": "Hypothyroidism"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "cb3bb85a-7143-4eaf-a510-fef0916085ab",
+    "section": "MCQs on Liver Cirrhosis complications",
+    "question": "A symptom of hepatopulmonary syndrome is:",
+    "options": {
+      "A": "Dyspnea",
+      "B": "Tetany",
+      "C": "Polyuria",
+      "D": "Weight gain"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "e429e04a-b35d-486f-b938-47825e44ca3b",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which drug may be used to improve clotting in liver cirrhosis?",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Vitamin K",
+      "C": "Calcitonin",
+      "D": "Insulin"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "80c11ed7-53d7-481b-9ef0-d217a6c4467b",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "When assessing endocrine function, which symptom is commonly reported in the history of a patient with hypothyroidism?",
     "options": {
       "A": "Increased appetite",
       "B": "Tremors",
-      "C": "Fatigue and cold intolerance",
-      "D": "Weight loss"
+      "C": "Weight loss",
+      "D": "Fatigue and cold intolerance"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "587eb0a2-6b40-43c0-87a3-82c67c8b24d0",
+    "id": "05b7fa4e-daf0-4742-bed4-99320908e468",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A patient with a history of polyuria and polydipsia may be suspected of having:",
     "options": {
-      "A": "Diabetes mellitus or diabetes insipidus",
+      "A": "Cushing���s syndrome",
       "B": "Hypoparathyroidism",
-      "C": "Cushing’s syndrome",
-      "D": "Hyperthyroidism"
+      "C": "Hyperthyroidism",
+      "D": "Diabetes mellitus or diabetes insipidus"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "0810cf64-4fce-4fbe-bd47-7c8f74b278f5",
+    "id": "cada8334-2eeb-4045-afec-5452260e7846",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which question is important to ask when taking a history for suspected hyperthyroidism?",
     "options": {
-      "A": "“Do you feel nervous or have palpitations?”",
-      "B": "“Do you experience weight gain?”",
-      "C": "“Do you have muscle cramps?”",
-      "D": "“Do you feel cold all the time?”"
+      "A": "���Do you feel cold all the time?���",
+      "B": "���Do you experience weight gain?���",
+      "C": "���Do you have muscle cramps?���",
+      "D": "���Do you feel nervous or have palpitations?���"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "e6d3b8d9-11a8-4cfd-afb1-d3994a7555b7",
+    "id": "5e4d7b1c-b3e0-4f36-9dc5-0c9fc2da2041",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A family history of which condition is relevant for assessing endocrine disorders?",
     "options": {
       "A": "Asthma",
       "B": "Hypertension",
-      "C": "Osteoarthritis",
-      "D": "Autoimmune diseases"
+      "C": "Autoimmune diseases",
+      "D": "Osteoarthritis"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "92820454-d2a2-4740-b9a1-348210115c42",
+    "id": "c00a34d9-2a0e-45b2-8df0-bff3da2fdea9",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A history of excessive thirst and dilute urine suggests:",
     "options": {
       "A": "Hypothyroidism",
-      "B": "Diabetes insipidus",
-      "C": "Addison’s disease",
-      "D": "Hyperparathyroidism"
+      "B": "Hyperparathyroidism",
+      "C": "Diabetes insipidus",
+      "D": "Addison���s disease"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "cd8cbc01-3983-4438-9544-f6687ba3d080",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "When assessing for Cushing���s syndrome, which symptom should be explored in the history?",
+    "options": {
+      "A": "Cold intolerance",
+      "B": "Weight gain and easy bruising",
+      "C": "Polyuria only",
+      "D": "Weight loss and tremors"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "4c326c7e-65f9-43db-b74a-7a286da59a22",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "When assessing for Cushing’s syndrome, which symptom should be explored in the history?",
-    "options": {
-      "A": "Weight gain and easy bruising",
-      "B": "Weight loss and tremors",
-      "C": "Polyuria only",
-      "D": "Cold intolerance"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "fd848dc0-f5c8-4920-b3c8-ba82918bebad",
+    "id": "65e468b7-4acb-43f3-ad2b-65d748d93aff",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A history of salt craving and dizziness may indicate:",
     "options": {
       "A": "Hypoparathyroidism",
       "B": "Hyperthyroidism",
-      "C": "Diabetes mellitus",
-      "D": "Addison’s disease"
+      "C": "Addison���s disease",
+      "D": "Diabetes mellitus"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "7e3d9e13-99d6-4590-974a-06c39df6262c",
+    "id": "25251b12-a361-448e-81b8-fb73974bffdc",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which medication history is relevant for endocrine assessment?",
     "options": {
-      "A": "Antihypertensives",
-      "B": "Antihistamines",
+      "A": "Antihistamines",
+      "B": "Antibiotics",
       "C": "Long-term glucocorticoid use",
-      "D": "Antibiotics"
+      "D": "Antihypertensives"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "04896a32-28c1-43dd-a98b-d14fbd991f99",
+    "id": "f323381b-ee1c-4374-ba43-c664a2c4d31c",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A patient reporting irregular menstrual cycles may have a disorder related to:",
     "options": {
-      "A": "Adrenal medulla",
+      "A": "Pituitary or thyroid gland",
       "B": "Parathyroid gland",
-      "C": "Pituitary or thyroid gland",
+      "C": "Adrenal medulla",
       "D": "Pancreas only"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": ""
   },
   {
-    "id": "7663abfb-175f-45a7-895d-fc7299c4b8f7",
+    "id": "e71d40ed-07a4-411b-a0b4-306e0f5756bf",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A history of recent head trauma is significant when assessing for:",
     "options": {
       "A": "Diabetes insipidus",
-      "B": "Hypothyroidism",
+      "B": "Pheochromocytoma",
       "C": "Hyperparathyroidism",
-      "D": "Pheochromocytoma"
+      "D": "Hypothyroidism"
     },
     "correct": "A",
     "explanation": ""
   },
   {
-    "id": "e562374f-80bb-46d5-86ad-13a45d25ba08",
+    "id": "cbe3090b-85bb-4b9e-bde9-2b855f35d6ed",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which physical sign is observed in hyperthyroidism?",
     "options": {
-      "A": "Tetany",
+      "A": "Bronze skin pigmentation",
       "B": "Exophthalmos",
-      "C": "Bronze skin pigmentation",
-      "D": "Moon face"
+      "C": "Moon face",
+      "D": "Tetany"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "db0e2a2e-d155-44ac-a09d-86485ae6e199",
+    "id": "beab12cf-572d-4b72-a9e4-ec770d178a2e",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A patient with Cushing’s syndrome may exhibit:",
+    "question": "A patient with Cushing���s syndrome may exhibit:",
     "options": {
-      "A": "Buffalo hump",
-      "B": "Cold intolerance",
-      "C": "Weight loss",
-      "D": "Hypopigmentation"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "469a4b22-0531-4057-b812-85e2836e6fbe",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Chvostek’s sign is assessed in suspected:",
-    "options": {
-      "A": "Addison’s disease",
-      "B": "Hypoparathyroidism",
-      "C": "Diabetes mellitus",
-      "D": "Hyperthyroidism"
+      "A": "Weight loss",
+      "B": "Buffalo hump",
+      "C": "Hypopigmentation",
+      "D": "Cold intolerance"
     },
     "correct": "B",
     "explanation": ""
   },
   {
-    "id": "b1d003d7-06f7-4999-bd44-4ea08bb1495b",
+    "id": "e1d1c5e8-3022-4be0-ad6a-02647d5c4b46",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Chvostek���s sign is assessed in suspected:",
+    "options": {
+      "A": "Addison���s disease",
+      "B": "Hyperthyroidism",
+      "C": "Hypoparathyroidism",
+      "D": "Diabetes mellitus"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "c32921e1-8695-46bb-870f-4296325c2fc2",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A goiter is a physical finding associated with:",
     "options": {
-      "A": "Adrenal disorders",
-      "B": "Pancreatic disorders",
+      "A": "Pancreatic disorders",
+      "B": "Adrenal disorders",
       "C": "Thyroid disorders",
       "D": "Parathyroid disorders"
     },
@@ -8334,33 +8334,33 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "23405724-5ef1-4c6f-a6d4-2053d0a1bd0f",
+    "id": "e3885e47-680d-4212-93de-7ed0f304038a",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Bronze skin pigmentation is a physical sign of:",
     "options": {
-      "A": "Addison’s disease",
-      "B": "Hyperparathyroidism",
-      "C": "Cushing’s syndrome",
-      "D": "Diabetes insipidus"
+      "A": "Hyperparathyroidism",
+      "B": "Cushing���s syndrome",
+      "C": "Diabetes insipidus",
+      "D": "Addison���s disease"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "648b1faa-5f28-40fd-bdfc-1719826a1cbe",
+    "id": "a5624412-4b10-4936-b692-9ef709193e10",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which physical examination finding is associated with acromegaly?",
     "options": {
-      "A": "Muscle spasms",
-      "B": "Weight loss",
-      "C": "Enlarged hands and feet",
-      "D": "Hypopigmentation"
+      "A": "Weight loss",
+      "B": "Muscle spasms",
+      "C": "Hypopigmentation",
+      "D": "Enlarged hands and feet"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": ""
   },
   {
-    "id": "24b5327c-8670-4c6c-90b4-ca0a3e95f912",
+    "id": "22f2d477-3623-4968-bef8-4ccfe6cbd029",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A patient with diabetes mellitus may show:",
     "options": {
@@ -8373,77 +8373,77 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "27185fe1-3d3c-4117-ac20-f48b5b821341",
+    "id": "91941bb3-b74d-449a-b075-2848ade49688",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Tremors and tachycardia on physical examination suggest:",
     "options": {
-      "A": "Hypoparathyroidism",
-      "B": "Hypothyroidism",
-      "C": "Addison’s disease",
+      "A": "Hypothyroidism",
+      "B": "Hypoparathyroidism",
+      "C": "Addison���s disease",
       "D": "Hyperthyroidism"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "f512535f-d4fd-4be7-b381-2d1a1424f97d",
+    "id": "380bb95e-cfa0-43e9-b066-3e40f77e647d",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which physical sign is NOT typically associated with endocrine disorders?",
     "options": {
       "A": "Striae",
-      "B": "Moon face",
-      "C": "Jaundice",
-      "D": "Hirsutism"
+      "B": "Jaundice",
+      "C": "Hirsutism",
+      "D": "Moon face"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "219d8188-7380-46be-8270-57ce9aeeda01",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "The normal range for fasting blood glucose is:",
+    "options": {
+      "A": "151-200 mg/dL",
+      "B": "Above 200 mg/dL",
+      "C": "70-99 mg/dL",
+      "D": "100-150 mg/dL"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "aeac203c-b75f-4f48-887b-a30b0695daf0",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "The normal range for fasting blood glucose is:",
-    "options": {
-      "A": "151-200 mg/dL",
-      "B": "70-99 mg/dL",
-      "C": "100-150 mg/dL",
-      "D": "Above 200 mg/dL"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "907d6e87-a452-41b8-97cd-64f8ba5f4d53",
+    "id": "d71fd43d-7029-46d4-97d7-c8181528d5c0",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "The normal range for thyroid-stimulating hormone (TSH) is approximately:",
     "options": {
       "A": "5.0-10.0 mIU/L",
-      "B": "10-20 mIU/L",
-      "C": "Below 0.1 mIU/L",
-      "D": "0.4-4.0 mIU/L"
+      "B": "Below 0.1 mIU/L",
+      "C": "0.4-4.0 mIU/L",
+      "D": "10-20 mIU/L"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "f6629e33-b7fd-4733-85ad-c95700bd29cf",
+    "id": "3114e551-b290-499f-9aee-1961626b19a1",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which test assesses thyroid function?",
     "options": {
-      "A": "Serum cortisol",
-      "B": "Free T4 and TSH",
-      "C": "Blood glucose",
-      "D": "Serum calcium"
+      "A": "Blood glucose",
+      "B": "Serum calcium",
+      "C": "Free T4 and TSH",
+      "D": "Serum cortisol"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": ""
   },
   {
-    "id": "4da818b7-a810-4122-8aee-d5caaa0cf0cd",
+    "id": "66ae6a8d-29e2-40c8-a524-86b619b4af26",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A high serum cortisol level suggests:",
     "options": {
-      "A": "Cushing’s syndrome",
-      "B": "Addison’s disease",
+      "A": "Cushing���s syndrome",
+      "B": "Addison���s disease",
       "C": "Hypoparathyroidism",
       "D": "Diabetes mellitus"
     },
@@ -8451,264 +8451,277 @@ const questions = [
     "explanation": ""
   },
   {
-    "id": "766d7a1e-bef3-4d4e-b468-52af9367043d",
+    "id": "27c4a7ff-799c-4c26-a878-530e4ac60754",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test confirms Addison’s disease?",
+    "question": "Which test confirms Addison���s disease?",
     "options": {
       "A": "Thyroid function test",
-      "B": "Dexamethasone suppression test",
-      "C": "ACTH stimulation test",
-      "D": "Glucose tolerance test"
+      "B": "ACTH stimulation test",
+      "C": "Glucose tolerance test",
+      "D": "Dexamethasone suppression test"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": ""
   },
   {
-    "id": "dee900ff-2748-4089-b1ce-30ab59bea831",
+    "id": "caf64364-4f9c-4d42-a1a5-5a7a760370fc",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "Which test detects parathyroid hormone levels?",
     "options": {
-      "A": "VMA test",
-      "B": "Glucose tolerance test",
-      "C": "PTH blood test",
-      "D": "Thyroid scan"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "2ee80bee-5db5-4e25-9dec-4ec55cfef1bb",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "The dexamethasone suppression test is used to diagnose:",
-    "options": {
-      "A": "Hypothyroidism",
-      "B": "Diabetes insipidus",
-      "C": "Hyperparathyroidism",
-      "D": "Cushing’s syndrome"
+      "A": "Thyroid scan",
+      "B": "VMA test",
+      "C": "Glucose tolerance test",
+      "D": "PTH blood test"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "bf56c145-dd04-4f5b-9e93-0efddd47e5cd",
+    "id": "66c43be8-6035-46d4-be23-6e2b6f6ee513",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which imaging test is used to evaluate the pituitary gland?",
+    "question": "The dexamethasone suppression test is used to diagnose:",
     "options": {
-      "A": "DEXA scan",
-      "B": "Thyroid ultrasound",
-      "C": "MRI brain",
-      "D": "Chest X-ray"
+      "A": "Hyperparathyroidism",
+      "B": "Hypothyroidism",
+      "C": "Cushing���s syndrome",
+      "D": "Diabetes insipidus"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "ad2de658-153b-42c1-9481-32cccc0796bf",
+    "id": "d4446ad8-8a4a-49ed-a606-0ade86eff238",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which imaging test is used to evaluate the pituitary gland?",
+    "options": {
+      "A": "MRI brain",
+      "B": "Thyroid ultrasound",
+      "C": "Chest X-ray",
+      "D": "DEXA scan"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "275b802b-8012-47a2-ad72-c03b7a2cbbe7",
     "section": "MCQ on Assessment of Endocrinal function History",
     "question": "A low serum sodium level may indicate:",
     "options": {
       "A": "Pheochromocytoma",
       "B": "Hyperthyroidism",
-      "C": "Hypoparathyroidism",
-      "D": "Syndrome of inappropriate ADH (SIADH)"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "cf73f9cc-9aec-461f-ad42-8f71282b2eab",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test measures catecholamines in pheochromocytoma?",
-    "options": {
-      "A": "Serum calcium test",
-      "B": "24-hour urinary metanephrines",
-      "C": "Glucose tolerance test",
-      "D": "Thyroid function test"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "3b74dfea-0503-4acc-91c3-3bcace5773e2",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A thyroid scan is used to evaluate:",
-    "options": {
-      "A": "Pituitary adenomas",
-      "B": "Pancreatic function",
-      "C": "Thyroid nodules",
-      "D": "Adrenal tumors"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "b2d165f1-686f-43b0-aeea-d2aa2fd75e77",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test confirms diabetes mellitus in a symptomatic patient?",
-    "options": {
-      "A": "Random blood glucose ≥200 mg/dL",
-      "B": "Serum cortisol test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid function test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "4639dfd3-d1b3-461f-8bef-3f0ecb70470f",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A high HbA1c level indicates:",
-    "options": {
-      "A": "Poor long-term glucose control",
-      "B": "Hyperparathyroidism",
-      "C": "Hypothyroidism",
-      "D": "Addison’s disease"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "f564397c-3cce-4849-a8fe-d244ea8cd63e",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test is used to diagnose hyperparathyroidism?",
-    "options": {
-      "A": "Thyroid function test",
-      "B": "Glucose tolerance test",
-      "C": "VMA test",
-      "D": "Serum calcium and PTH levels"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "c7f50157-1934-4ffe-b9e0-7b6a73230b7e",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test assesses adrenal function in suspected Addison’s disease?",
-    "options": {
-      "A": "Glucose tolerance test",
-      "B": "Serum cortisol and ACTH levels",
-      "C": "Water deprivation test",
-      "D": "Thyroid scan"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "d8175a07-441c-4d09-98bd-cf220a370d25",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A fine needle aspiration biopsy is used to evaluate:",
-    "options": {
-      "A": "Pancreatic function",
-      "B": "Adrenal tumors",
-      "C": "Pituitary adenomas",
-      "D": "Thyroid nodules"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "e5b4ec84-7660-4ba8-8342-def768c27051",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test measures urine concentration in diabetes insipidus?",
-    "options": {
-      "A": "Urine osmolality test",
-      "B": "Dexamethasone suppression test",
-      "C": "ACTH stimulation test",
-      "D": "Thyroid function test"
-    },
-    "correct": "A",
-    "explanation": ""
-  },
-  {
-    "id": "7c7abab3-4699-4d9b-b582-ef7b0986d517",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A high serum sodium level may indicate:",
-    "options": {
-      "A": "SIADH",
-      "B": "Diabetes insipidus",
-      "C": "Hypothyroidism",
-      "D": "Cushing’s syndrome"
-    },
-    "correct": "B",
-    "explanation": ""
-  },
-  {
-    "id": "7ab474d1-d640-4e67-8926-7637a8de73f5",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which imaging test detects adrenal tumors?",
-    "options": {
-      "A": "DEXA scan",
-      "B": "Chest X-ray",
-      "C": "Thyroid ultrasound",
-      "D": "CT scan of the abdomen"
-    },
-    "correct": "D",
-    "explanation": ""
-  },
-  {
-    "id": "9241c992-2364-4c98-b0b6-fccc259297e2",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A low TSH level with high T4 suggests:",
-    "options": {
-      "A": "Addison’s disease",
-      "B": "Hypothyroidism",
-      "C": "Hyperthyroidism",
+      "C": "Syndrome of inappropriate ADH (SIADH)",
       "D": "Hypoparathyroidism"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "65046779-d9f2-4a9e-8cb0-52cee4fb8298",
+    "id": "c5a6c50c-8f42-4783-ba2c-bd80613639d4",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test is used to confirm acromegaly?",
+    "question": "Which test measures catecholamines in pheochromocytoma?",
+    "options": {
+      "A": "Glucose tolerance test",
+      "B": "Thyroid function test",
+      "C": "Serum calcium test",
+      "D": "24-hour urinary metanephrines"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "ed8eaaca-b88c-425a-b96c-11302083f150",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A thyroid scan is used to evaluate:",
+    "options": {
+      "A": "Thyroid nodules",
+      "B": "Pancreatic function",
+      "C": "Adrenal tumors",
+      "D": "Pituitary adenomas"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "fef8f5f0-b37b-4722-973a-0972bd684a6e",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which test confirms diabetes mellitus in a symptomatic patient?",
     "options": {
       "A": "ACTH stimulation test",
-      "B": "Glucose tolerance test",
-      "C": "Insulin-like growth factor-1 (IGF-1) test",
+      "B": "Serum cortisol test",
+      "C": "Random blood glucose ���200 mg/dL",
       "D": "Thyroid function test"
     },
     "correct": "C",
     "explanation": ""
   },
   {
-    "id": "42fc6abe-bd70-46c0-aa74-da1e7de2b964",
+    "id": "c4e62b65-a0d5-4d45-9986-77118f328e55",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A nursing priority during diagnostic evaluation is to:",
+    "question": "A high HbA1c level indicates:",
     "options": {
-      "A": "Encourage a high-sodium diet",
-      "B": "Limit patient education",
-      "C": "Monitor for adverse reactions to tests",
-      "D": "Restrict all fluids"
-    },
-    "correct": "C",
-    "explanation": ""
-  },
-  {
-    "id": "a9ef79d2-6443-4558-9acc-97c287a23d55",
-    "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "Which test assesses pituitary function in suspected hypopituitarism?",
-    "options": {
-      "A": "VMA test",
-      "B": "Thyroid scan",
-      "C": "Glucose tolerance test",
-      "D": "ACTH and growth hormone levels"
+      "A": "Hyperparathyroidism",
+      "B": "Addison���s disease",
+      "C": "Hypothyroidism",
+      "D": "Poor long-term glucose control"
     },
     "correct": "D",
     "explanation": ""
   },
   {
-    "id": "5ea572be-dfec-4f16-a1d6-615a5ad106f6",
+    "id": "44ba13e1-3e8d-4389-9eb6-32a5e6b811dc",
     "section": "MCQ on Assessment of Endocrinal function History",
-    "question": "A high serum prolactin level may indicate:",
+    "question": "Which test is used to diagnose hyperparathyroidism?",
     "options": {
-      "A": "Addison’s disease",
-      "B": "Hypothyroidism",
-      "C": "Prolactinoma",
-      "D": "Hyperparathyroidism"
+      "A": "VMA test",
+      "B": "Glucose tolerance test",
+      "C": "Serum calcium and PTH levels",
+      "D": "Thyroid function test"
     },
     "correct": "C",
     "explanation": ""
+  },
+  {
+    "id": "59c8635c-e115-4671-9862-dc355d0ae79b",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which test assesses adrenal function in suspected Addison���s disease?",
+    "options": {
+      "A": "Glucose tolerance test",
+      "B": "Serum cortisol and ACTH levels",
+      "C": "Thyroid scan",
+      "D": "Water deprivation test"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "dd426e53-5bd1-44b9-9121-2f4e3ed302b3",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A fine needle aspiration biopsy is used to evaluate:",
+    "options": {
+      "A": "Pituitary adenomas",
+      "B": "Thyroid nodules",
+      "C": "Pancreatic function",
+      "D": "Adrenal tumors"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "ae1379c0-490e-43f8-99ce-87527dcf3609",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which test measures urine concentration in diabetes insipidus?",
+    "options": {
+      "A": "Dexamethasone suppression test",
+      "B": "ACTH stimulation test",
+      "C": "Urine osmolality test",
+      "D": "Thyroid function test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "8ad73481-d5b2-4158-88d4-2658a8dcaad4",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A high serum sodium level may indicate:",
+    "options": {
+      "A": "Diabetes insipidus",
+      "B": "Cushing���s syndrome",
+      "C": "Hypothyroidism",
+      "D": "SIADH"
+    },
+    "correct": "A",
+    "explanation": ""
+  },
+  {
+    "id": "6ea30d0b-b20c-41b1-8f72-422b79fac0a2",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which imaging test detects adrenal tumors?",
+    "options": {
+      "A": "Chest X-ray",
+      "B": "Thyroid ultrasound",
+      "C": "DEXA scan",
+      "D": "CT scan of the abdomen"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "c8acf60f-e4d4-4e74-b085-bf9c51d83c59",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A low TSH level with high T4 suggests:",
+    "options": {
+      "A": "Hypoparathyroidism",
+      "B": "Hyperthyroidism",
+      "C": "Hypothyroidism",
+      "D": "Addison���s disease"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "5f7dfc5e-5e02-4cd0-a634-555ad3cc1853",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which test is used to confirm acromegaly?",
+    "options": {
+      "A": "ACTH stimulation test",
+      "B": "Glucose tolerance test",
+      "C": "Thyroid function test",
+      "D": "Insulin-like growth factor-1 (IGF-1) test"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "bf90aa78-b3d9-46ea-81c4-eda67b0c11fe",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A nursing priority during diagnostic evaluation is to:",
+    "options": {
+      "A": "Restrict all fluids",
+      "B": "Encourage a high-sodium diet",
+      "C": "Limit patient education",
+      "D": "Monitor for adverse reactions to tests"
+    },
+    "correct": "D",
+    "explanation": ""
+  },
+  {
+    "id": "8537ef0d-e99e-412c-93b6-08bed965fcf0",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "Which test assesses pituitary function in suspected hypopituitarism?",
+    "options": {
+      "A": "VMA test",
+      "B": "Thyroid scan",
+      "C": "ACTH and growth hormone levels",
+      "D": "Glucose tolerance test"
+    },
+    "correct": "C",
+    "explanation": ""
+  },
+  {
+    "id": "57c855f1-3b3f-4e60-82ef-d02254562ded",
+    "section": "MCQ on Assessment of Endocrinal function History",
+    "question": "A high serum prolactin level may indicate:",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Prolactinoma",
+      "C": "Addison���s disease",
+      "D": "Hyperparathyroidism"
+    },
+    "correct": "B",
+    "explanation": ""
+  },
+  {
+    "id": "365a1cab-9bb0-468c-8e13-daa807672c00",
+    "section": "MCQ on Scenario Based",
+    "question": "A patient presents with fatigue, weight gain, and cold intolerance. Lab tests show elevated TSH and low T4 levels. What is the likely diagnosis, and which gland is primarily affected?",
+    "options": {
+      "A": "Hypothyroidism, thyroid gland",
+      "B": "Hyperthyroidism, thyroid gland",
+      "C": "Acromegaly, pituitary gland",
+      "D": "Cushing' s syndrome, adrenal gland"
+    },
+    "correct": "A",
+    "explanation": "Elevated TSH with low T4 indicates primary hypothyroidism, where the thyroid fails to produce sufficient hormones, often due to autoimmune conditions like Hashimoto's thyroiditis."
   }
 ];
 
@@ -8744,6 +8757,10 @@ const sections = {
   "MCQ on Parathyroid Glands": {
     "name": "MCQ on Parathyroid Glands",
     "description": "Questions about MCQ on Parathyroid Glands"
+  },
+  "MCQ on Scenario Based": {
+    "name": "MCQ on Scenario Based",
+    "description": "Questions about MCQ on Scenario Based"
   },
   "MCQ on Thyroid Disorders": {
     "name": "MCQ on Thyroid Disorders",

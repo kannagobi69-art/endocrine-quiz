@@ -1,4 +1,4 @@
-Section,Question,Option A,Option B,Option C,Option D,Correct Answer,
+Section,Question,A,B,C,D,Correct,Explanation
 MCQ on Thyroid Disorders,1. Which condition is caused by deficiency of thyroid hormone in adults?,A) Hyperthyroidism,B) Hypothyroidism,C) Goiter,D) Cretinism,B,
 MCQ on Thyroid Disorders,2. What is the normal range for fasting blood glucose level?,A) 70-99 mg/dL,B) 100-150 mg/dL,C) 151-200 mg/dL,D) Above 200 mg/dL,A,
 MCQ on Thyroid Disorders,3. Buffalo hump is a sign of which endocrine disorder?,A) Hypothyroidism,B) Cushing's syndrome,C) Addison's disease,D) Diabetes insipidus,B,
@@ -670,10 +670,4 @@ MCQ on Assessment of Endocrinal function History,46. Which test is used to confi
 MCQ on Assessment of Endocrinal function History,47. A nursing priority during diagnostic evaluation is to:,A) Monitor for adverse reactions to tests,B) Encourage a high-sodium diet,C) Restrict all fluids,D) Limit patient education,A,
 MCQ on Assessment of Endocrinal function History,48. Which test assesses pituitary function in suspected hypopituitarism?,A) ACTH and growth hormone levels,B) Thyroid scan,C) Glucose tolerance test,D) VMA test,A,
 MCQ on Assessment of Endocrinal function History,49. A high serum prolactin level may indicate:,A) Prolactinoma,B) Hypothyroidism,C) Hyperparathyroidism,D) Addisonâ€™s disease,A,
-MCQ on Scenario Based,"1. A patient presents with fatigue, weight gain, and cold intolerance. Lab tests show elevated TSH and low T4 levels. What is the likely diagnosis, and which gland is primarily affected?","A) Cushing’s syndrome, adrenal gland","B) Hypothyroidism, thyroid gland","C) Hyperthyroidism, thyroid gland","D) Acromegaly, pituitary gland",B,"Elevated TSH with low T4 indicates primary hypothyroidism, where the thyroid fails to produce sufficient hormones, often due to autoimmune conditions like Hashimoto’s thyroiditis."
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+MCQ on Scenario Based,"1. A patient presents with fatigue, weight gain, and cold intolerance. Lab tests show elevated TSH and low T4 levels. What is the likely diagnosis, and which gland is primarily affected?","A) Cushing' s syndrome, adrenal gland","B) Hypothyroidism, thyroid gland","C) Hyperthyroidism, thyroid gland","D) Acromegaly, pituitary gland",B,"Elevated TSH with low T4 indicates primary hypothyroidism, where the thyroid fails to produce sufficient hormones, often due to autoimmune conditions like Hashimoto's thyroiditis."
