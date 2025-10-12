@@ -193,3 +193,43 @@ body {
     transform: scale(1);
   }
 }
+/* --- Mobile instruction (visible only on small screens) --- */
+.mobile-instruction {
+  display: none;
+  font-style: italic;
+  font-weight: 500;
+  color: #333;
+  background-color: rgba(255, 182, 193, 0.25); /* soft pastel */
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-top: 8px;
+  text-align: center;
+  animation: fadeIn 1.2s ease-in;
+}
+
+/* Show only on mobile */
+@media (max-width: 600px) {
+  .mobile-instruction {
+    display: block;
+  }
+}
+
+/* Gentle arrow wave animation */
+@keyframes arrowMove {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(5px); }
+  100% { transform: translateX(0); }
+}
+
+/* Fade-in and arrow motion combined */
+.mobile-instruction::before {
+  content: "👉";
+  margin-right: 6px;
+  display: inline-block;
+  animation: arrowMove 1.8s infinite ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
